@@ -1,23 +1,23 @@
 #include "main.h"
 
 /**
- * flip_bits - The number of bits you would need to flip
- * @nmbr: First number
- * @nmbr_ii: Second number
+ * flip_bits - Exact number of bits you need to flip
+ * @n: First number
+ * @m: Second number
  *
- * Return: Number of bits to change
+ * Return: Bits to shift
  */
 
-unsigned int flip_bits(unsigned long int nmbr, unsigned long int nmbr_ii)
+unsigned int flip_bits(unsigned long int n, unsigned long int m)
 {
 	int a, tally = 0;
-	unsigned long int current;
-	unsigned long int exclusive = nmbr ^ nmbr_ii;
+	unsigned long int curr;
+	unsigned long int exclsv = n ^ m;
 
 	for (a = 63; a >= 0; a--)
 	{
-		current = exclusive >> a;
-		if (current & 1)
+		curr = exclsv >> a;
+		if (curr & 1)
 			tally++;
 	}
 
