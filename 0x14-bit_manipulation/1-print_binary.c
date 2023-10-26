@@ -1,16 +1,16 @@
 #include "main.h"
 
 /**
- * print_binary - Prints binary correspodent of a decimal number
- * @nb: Number to print in binary
+ * print_binary - Function prints the binary correspodent of dec number
+ * @n: Number to print in binary
  */
 
-void print_binary(unsigned long int nb)
+void print_binary(unsigned long int n)
 {
 	int a;
 	int flag = 0;
 
-	if (nb == 0)
+	if (n == 0)
 	{
 		_putchar('0');
 		return;
@@ -20,7 +20,7 @@ void print_binary(unsigned long int nb)
 	{
 		unsigned long int mask = 1UL << a;
 
-		if ((nb & mask) != 0)
+		if ((n & mask) != 0)
 		{
 			_putchar('1');
 			flag = 1;
