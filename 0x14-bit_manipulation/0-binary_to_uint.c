@@ -1,25 +1,25 @@
 #include "main.h"
 
 /**
- * binary_to_uint - Converts binary numbers to unsigned int
- * @a: Binary number
+ * binary_to_uint - Function converts binary numbers to unsigned integer
+ * @b: Binary number
  *
  * Return: Number converted
  */
 
-unsigned int binary_to_uint(const char *a)
+unsigned int binary_to_uint(const char *b)
 {
-	int b;
+	int a;
 	unsigned int dec_vl = 0;
 
-	if (!a)
+	if (!b)
 		return (0);
 
-	for (b = 0; a[b]; b++)
+	for (a = 0; b[a]; a++)
 	{
-		if (a[b] < '0' || a[b] > '1')
+		if (b[a] < '0' || b[a] > '1')
 			return (0);
-		dec_vl = 2 * dec_vl + (a[b] - '0');
+		dec_vl = 2 * dec_vl + (b[a] - '0');
 	}
 
 	return (dec_vl);
