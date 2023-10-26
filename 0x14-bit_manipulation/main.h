@@ -1,17 +1,17 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-unsigned int binary_to_uint(const char *a);
+unsigned int binary_to_uint(const char *n);
 
-void print_binary(unsigned long int nmbr);
+void print_binary(unsigned long int n);
 
-int get_bit(unsigned long int nmbr, unsigned int ind);
+int get_bit(unsigned long int n, unsigned int index);
 
-int set_bit(unsigned long int *nmbr, unsigned int ind);
+int set_bit(unsigned long int *n, unsigned int index);
 
-int clear_bit(unsigned long int *mbr, unsigned int ind);
+int clear_bit(unsigned long int *n, unsigned int index);
 
-unsigned int flip_bits(unsigned long int nmbr, unsigned long int nmbr_ii);
+unsigned int flip_bits(unsigned long int n, unsigned long int m);
 
 int _atoi(const char *s);
 
