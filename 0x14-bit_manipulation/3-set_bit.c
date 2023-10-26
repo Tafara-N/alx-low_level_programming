@@ -2,18 +2,18 @@
 
 /**
  * set_bit - Function sets bit at a given index to 1
- * @nmbr: Pointer to the number to change
- * @ind: Bit index to set to 1
+ * @n: Pointer to the number to change
+ * @index: Bit index to set to 1
  *
- * Return: Success 1, failure -1
+ * Return: Success 1, for failure -1
  */
 
-int set_bit(unsigned long int *nmbr, unsigned int ind)
+int set_bit(unsigned long int *n, unsigned int index)
 {
-	if (ind > 63)
+	if (index > 63)
 		return (-1);
 
-	*nmbr |= (1UL << ind);
+	*n |= (1UL << index);
 	return (1);
 }
 
