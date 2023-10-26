@@ -1,19 +1,20 @@
 #include "main.h"
 
 /**
- * clear_bit - Functions ets the value of a given bit to 0
- * @nmbr: Pointer to the number to change
- * @ind: Bit index to clear
+ * clear_bit - Function sets the value of a given bit to 0
+ * @n: Pointer to the number to change
+ * @index: Bit index to clear
  *
- * Return: Success (1), failure -1
+ * Return: Success 1, for failure -1
  */
 
-int clear_bit(unsigned long int *nmbr, unsigned int ind)
+int clear_bit(unsigned long int *n, unsigned int index)
 {
-	if (ind > 63)
+	if (index > 63)
 		return (-1);
 
-	*nmbr = (~(1UL << ind) & *nmbr);
+	*n = (~(1UL << index) & *n);
+
 	return (1);
 }
 
