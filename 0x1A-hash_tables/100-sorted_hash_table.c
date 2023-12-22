@@ -45,7 +45,7 @@ shash_table_t *shash_table_create(unsigned long int size)
 }
 
 /**
- * shash_table_set - Funtion to add elements to a sorted hash table
+ * shash_table_set - Function to add elements to a sorted hash table
  * @ht: Hash table's pointer
  * @key: Key to be added, string has to occupied
  * @value: Value of the key
