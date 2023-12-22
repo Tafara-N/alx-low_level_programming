@@ -1,5 +1,7 @@
 #include "hash_tables.h"
 
+void tafara(void);
+
 /**
  * hash_table_set - Function adds or updates an element in a hash table
  * @ht: Hash table's pointer
@@ -27,7 +29,7 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 		return (0);
 	}
 
-	idx = key_idx((const unsigned char *)key, ht->size);
+	idx = key_index((const unsigned char *)key, ht->size);
 
 	for (x = idx; ht->array[x]; x++)
 	{
@@ -54,10 +56,8 @@ int hash_table_set(hash_table_t *ht, const char *key, const char *value)
 		free(current);
 		return (0);
 	}
-
 	current->value = value_copy;
 	current->next = ht->array[idx];
 	ht->array[idx] = current;
-
 	return (1);
 }
