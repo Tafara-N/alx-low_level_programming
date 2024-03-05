@@ -542,10 +542,9 @@ GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
 File: 101-print_number.c
 
-10. A dream doesn't become reality through magic; it takes sweat, determination and hard work
-#advanced
-Score: 16.67% (Checks completed: 16.67%)
+### 10. A dream doesn't become reality through magic; it takes sweat, determination and hard work
 
+![]()
 
 Add one line to this code, so that the program prints a[2] = 98, followed by a new line.
 
