@@ -5,7 +5,7 @@ Debugging
 Rubber Duck Debugging
 Debugging is the process of finding and fixing errors in software that prevents it from running correctly. As you become a more advanced programmer and an industry engineer, you will learn how to use debugging tools such as gdb or built-in tools that IDEs have. However, it’s important to understand the concepts and processes of debugging manually.
 
-![Debugging C](image.png)
+![Debugging C](https://github.com/Tafara-N/Project-Images/blob/main/alx-low_level_programming/0x03-debugging/images/rubber_duck.jpg)
 
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
