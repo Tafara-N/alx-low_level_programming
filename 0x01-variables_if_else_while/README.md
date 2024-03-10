@@ -256,13 +256,14 @@ julien@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 8-print_bas
 julien@ubuntu:~/0x01$ ./8-print_base16
 0123456789abcdef
 julien@ubuntu:~/0x01$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x01-variables_if_else_while`
-- File: 8-print_base16.c
+- File: `8-print_base16.c`
 
-9. Patience, persistence and perspiration make an unbeatable combination for success
+### 9. Patience, persistence and perspiration make an unbeatable combination for success
 
 Write a program that prints all possible combinations of single-digit numbers.
 
@@ -359,4 +360,4 @@ julien@ubuntu:~/0x01$ ./102-print_comb5
 **Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x01-variables_if_else_while`
-- File: 102-print_comb5.c
+- File: `102-print_comb5.c`
