@@ -193,24 +193,27 @@ julien@ubuntu:~/0x01$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x01-variables_if_else_while`
-- File: 4-print_alphabt.c
+- File: `4-print_alphabt.c`
 
-5. Numbers
+### 5. Numbers
 
 Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 
 All your code should be in the main function
+
+```
 julien@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 5-print_numbers.c -o 5-print_numbers
 julien@ubuntu:~/0x01$ ./5-print_numbers
 0123456789
 julien@ubuntu:~/0x01$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x01-variables_if_else_while`
-- File: 5-print_numbers.c
+- File: `5-print_numbers.c`
 
-6. Numberz
+### 6. Numberz
 
 Write a program that prints all single digit numbers of base 10 starting from 0, followed by a new line.
 
@@ -218,34 +221,40 @@ You are not allowed to use any variable of type char
 You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
 You can only use putchar twice in your code
 All your code should be in the main function
+
+```
 julien@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 6-print_numberz.c -o 6-print_numberz
 julien@ubuntu:~/0x01$ ./6-print_numberz
 0123456789
 julien@ubuntu:~/0x01$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x01-variables_if_else_while`
-- File: 6-print_numberz.c
+- File: `6-print_numberz.c`
 
-7. Smile in the mirror
+### 7. Smile in the mirror
 
 Write a program that prints the lowercase alphabet in reverse, followed by a new line.
 
 You can only use the putchar function (every other function (printf, puts, etc…) is forbidden)
 All your code should be in the main function
 You can only use putchar twice in your code
+
+```
 julien@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 7-print_tebahpla.c -o 7-print_tebahpla
 julien@ubuntu:~/0x01$ ./7-print_tebahpla
 zyxwvutsrqponmlkjihgfedcba
 julien@ubuntu:~/0x01$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x01-variables_if_else_while`
-- File: 7-print_tebahpla.c
+- File: `7-print_tebahpla.c`
 
-8. Hexadecimal
+### 8. Hexadecimal
 
 Write a program that prints all the numbers of base 16 in lowercase, followed by a new line.
 
