@@ -43,6 +43,7 @@ This function appends the src string to the dest string, overwriting the termina
 Returns a pointer to the resulting string dest
 FYI: The standard library provides a similar function: strcat. Run man strcat to learn more.
 
+```
 julien@ubuntu:~/0x06$ cat 0-main.c
 #include "main.h"
 #include <stdio.h>
@@ -74,8 +75,9 @@ Hello World!
 World!
 Hello World!
 julien@ubuntu:~/0x06$
-Repo:
+```
 
+Repo:
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
 File: 0-strcat.c
