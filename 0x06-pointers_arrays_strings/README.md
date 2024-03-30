@@ -80,11 +80,10 @@ julien@ubuntu:~/0x06$
 Repo:
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
-File: 0-strcat.c
+File: `0-strcat.c`
 
-1. strncat
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 1. strncat
+
 Write a function that concatenates two strings.
 
 Prototype: char *_strncat(char *dest, char *src, int n);
