@@ -147,6 +147,7 @@ Prototype: char *_strncpy(char *dest, char *src, int n);
 Your function should work exactly like strncpy
 FYI: The standard library provides a similar function: strncpy. Run man strncpy to learn more.
 
+```
 julien@ubuntu:~/0x06$ cat 2-main.c
 #include "main.h"
 #include <stdio.h>
@@ -207,15 +208,15 @@ First, solve the problem. Then, write the code
 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00
 0x2a 0x2a 0x2a 0x2a 0x2a 0x2a 0x2a 0x00
 julien@ubuntu:~/0x06$
-Repo:
+```
 
+Repo:
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
-File: 2-strncpy.c
+File: `2-strncpy.c`
 
-3. strcmp
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 3. strcmp
+
 Write a function that compares two strings.
 
 Prototype: int _strcmp(char *s1, char *s2);
