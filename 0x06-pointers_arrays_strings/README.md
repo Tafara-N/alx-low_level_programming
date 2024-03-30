@@ -93,6 +93,7 @@ src does not need to be null-terminated if it contains n or more bytes
 Return a pointer to the resulting string dest
 FYI: The standard library provides a similar function: strncat. Run man strncat to learn more.
 
+```
 julien@ubuntu:~/0x06$ cat 1-main.c
 #include "main.h"
 #include <stdio.h>
@@ -131,15 +132,15 @@ Hello WWorld!
 World!
 Hello WWorld!
 julien@ubuntu:~/0x06$
-Repo:
+```
 
+Repo:
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
-File: 1-strncat.c
+File: `1-strncat.c`
 
-2. strncpy
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 2. strncpy
+
 Write a function that copies a string.
 
 Prototype: char *_strncpy(char *dest, char *src, int n);
