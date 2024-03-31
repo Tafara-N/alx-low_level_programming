@@ -316,14 +316,15 @@ julien@ubuntu:~/0x06$
 **Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-- File: 4-rev_array.c
+- File: `4-rev_array.c`
 
-5. Always look up
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 5. Always look up
+
 Write a function that changes all lowercase letters of a string to uppercase.
 
-Prototype: char *string_toupper(char *);
+- Prototype: `char *string_toupper(char *);`
+
+```
 julien@ubuntu:~/0x06$ cat 5-main.c
 #include "main.h"
 #include <stdio.h>
@@ -348,11 +349,12 @@ julien@ubuntu:~/0x06$ ./5-string_toupper
 LOOK UP!
 LOOK UP!
 julien@ubuntu:~/0x06$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-- File: 5-string_toupper.c
+- File: `5-string_toupper.c`
 
 6. Expect the best. Prepare for the worst. Capitalize on what comes
 mandatory
