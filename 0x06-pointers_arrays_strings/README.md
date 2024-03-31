@@ -80,7 +80,7 @@ julien@ubuntu:~/0x06$
 **Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-File: `0-strcat.c`
+- File: `0-strcat.c`
 
 ### 1. strncat
 
@@ -137,7 +137,7 @@ julien@ubuntu:~/0x06$
 **Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-File: `1-strncat.c`
+- File: `1-strncat.c`
 
 ### 2. strncpy
 
@@ -213,7 +213,7 @@ julien@ubuntu:~/0x06$
 **Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-File: `2-strncpy.c`
+- File: `2-strncpy.c`
 
 ### 3. strcmp
 
@@ -252,7 +252,7 @@ julien@ubuntu:~/0x06$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-File: 3-strcmp.c
+- File: 3-strcmp.c
 
 4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy
 mandatory
@@ -312,7 +312,7 @@ julien@ubuntu:~/0x06$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-File: 4-rev_array.c
+- File: 4-rev_array.c
 
 5. Always look up
 mandatory
@@ -348,7 +348,7 @@ julien@ubuntu:~/0x06$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-File: 5-string_toupper.c
+- File: 5-string_toupper.c
 
 6. Expect the best. Prepare for the worst. Capitalize on what comes
 mandatory
@@ -387,7 +387,7 @@ julien@ubuntu:~/0x06$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-File: 6-cap_string.c
+- File: 6-cap_string.c
 
 7. Mozart composed his music not for the elite, but for everybody
 mandatory
@@ -432,7 +432,7 @@ julien@ubuntu:~/0x06$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-File: 7-leet.c
+- File: 7-leet.c
 
 8. rot13
 #advanced
@@ -492,7 +492,7 @@ julien@ubuntu:~/0x06$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-File: 100-rot13.c
+- File: 100-rot13.c
 
 9. Numbers have life; they're not just symbols on paper
 #advanced
@@ -538,7 +538,7 @@ julien@ubuntu:~/0x06$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-File: 101-print_number.c
+- File: 101-print_number.c
 
 ### 10. A dream doesn't become reality through magic; it takes sweat, determination and hard work
 
@@ -559,7 +559,7 @@ You are allowed to use the standard library
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-File: 102-magic.c
+- File: 102-magic.c
 
 11. It is the addition of strangeness to beauty that constitutes the romantic character in art
 #advanced
@@ -646,7 +646,7 @@ julien@ubuntu:~/0x06$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-File: 103-infinite_add.c
+- File: 103-infinite_add.c
 
 12. Noise is a buffer, more effective than cubicles or booth walls
 #advanced
@@ -703,4 +703,4 @@ julien@ubuntu:~/0x06$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-File: 104-print_buffer.c
+- File: 104-print_buffer.c
