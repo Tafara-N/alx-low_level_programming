@@ -77,7 +77,7 @@ Hello World!
 julien@ubuntu:~/0x06$
 ```
 
-Repo:
+**Repo:**
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
 File: `0-strcat.c`
@@ -134,7 +134,7 @@ Hello WWorld!
 julien@ubuntu:~/0x06$
 ```
 
-Repo:
+**Repo:**
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
 File: `1-strncat.c`
@@ -210,7 +210,7 @@ First, solve the problem. Then, write the code
 julien@ubuntu:~/0x06$
 ```
 
-Repo:
+**Repo:**
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
 File: `2-strncpy.c`
@@ -248,7 +248,7 @@ julien@ubuntu:~/0x06$ ./3-strcmp
 15
 0
 julien@ubuntu:~/0x06$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
@@ -308,7 +308,7 @@ julien@ubuntu:~/0x06$ ./4-rev_array
 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 98, 1024, 1337
 1337, 1024, 98, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0
 julien@ubuntu:~/0x06$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
@@ -344,7 +344,7 @@ julien@ubuntu:~/0x06$ ./5-string_toupper
 LOOK UP!
 LOOK UP!
 julien@ubuntu:~/0x06$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
@@ -383,7 +383,7 @@ Hello World! Hello-world 0123456hello World Hello World.Hello World
 Expect The Best. Prepare For The Worst. Capitalize On What Comes.
 Hello World! Hello-world 0123456hello World Hello World.Hello World
 julien@ubuntu:~/0x06$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
@@ -428,7 +428,7 @@ julien@ubuntu:~/0x06$ ./7-1337
 3xp3c7 7h3 b3s7. Pr3p4r3 f0r 7h3 w0rs7. C4pi741iz3 0n wh47 c0m3s.
 3xp3c7 7h3 b3s7. Pr3p4r3 f0r 7h3 w0rs7. C4pi741iz3 0n wh47 c0m3s.
 julien@ubuntu:~/0x06$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
@@ -488,7 +488,7 @@ EBG13 ("ebgngr ol 13 cynprf", fbzrgvzrf ulcurangrq EBG-13) vf n fvzcyr yrggre fh
 ------------------------------------
 EBG13 ("ebgngr ol 13 cynprf", fbzrgvzrf ulcurangrq EBG-13) vf n fvzcyr yrggre fhofgvghgvba pvcure.
 julien@ubuntu:~/0x06$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
@@ -534,7 +534,7 @@ julien@ubuntu:~/0x06$ ./101-print_numbers
 0
 -98
 julien@ubuntu:~/0x06$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
@@ -555,7 +555,7 @@ Your code should be written at line 19, before the ;
 Do not remove anything from the initial code (not even the comments)
 and don’t change anything but the line of code you are adding (don’t change the spaces to tabs!)
 You are allowed to use the standard library
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
@@ -642,7 +642,7 @@ Error
 Error
 999999999 + 1 = 1000000000
 julien@ubuntu:~/0x06$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
@@ -699,7 +699,7 @@ This is a string!
 0000006e: 2369 6e66 6572 6e75 6d69 #infernumi
 00000078: 7366 756e 0a00           sfun..
 julien@ubuntu:~/0x06$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x06-pointers_arrays_strings
