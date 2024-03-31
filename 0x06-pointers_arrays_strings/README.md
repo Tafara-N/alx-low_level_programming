@@ -250,18 +250,20 @@ julien@ubuntu:~/0x06$ ./3-strcmp
 0
 julien@ubuntu:~/0x06$
 ```
+
 **Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-- File: 3-strcmp.c
+- File: `3-strcmp.c`
 
-4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 4. I am a kind of paranoid in reverse. I suspect people of plotting to make me happy
+
 Write a function that reverses the content of an array of integers.
 
-Prototype: void reverse_array(int *a, int n);
+Prototype: `void reverse_array(int *a, int n);`
 Where n is the number of elements of the array
+
+```
 julien@ubuntu:~/0x06$ cat 4-main.c
 #include "main.h"
 #include <stdio.h>
@@ -309,8 +311,9 @@ julien@ubuntu:~/0x06$ ./4-rev_array
 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 98, 1024, 1337
 1337, 1024, 98, 9, 8, 7, 6, 5, 4, 3, 2, 1, 0
 julien@ubuntu:~/0x06$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
 - File: 4-rev_array.c
