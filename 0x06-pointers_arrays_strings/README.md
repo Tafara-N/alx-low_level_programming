@@ -356,13 +356,14 @@ julien@ubuntu:~/0x06$
 - Directory: `0x06-pointers_arrays_strings`
 - File: `5-string_toupper.c`
 
-6. Expect the best. Prepare for the worst. Capitalize on what comes
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 6. Expect the best. Prepare for the worst. Capitalize on what comes
+
 Write a function that capitalizes all words of a string.
 
-Prototype: char *cap_string(char *);
+Prototype: `char *cap_string(char *);`
 Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and }
+
+```
 julien@ubuntu:~/0x06$ cat 6-main.c
 #include "main.h"
 #include <stdio.h>
