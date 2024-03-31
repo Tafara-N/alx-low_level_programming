@@ -78,7 +78,7 @@ julien@ubuntu:~/0x06$
 ```
 
 **Repo:**
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
 File: `0-strcat.c`
 
@@ -135,7 +135,7 @@ julien@ubuntu:~/0x06$
 ```
 
 **Repo:**
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
 File: `1-strncat.c`
 
@@ -211,7 +211,7 @@ julien@ubuntu:~/0x06$
 ```
 
 **Repo:**
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
 File: `2-strncpy.c`
 
@@ -250,7 +250,7 @@ julien@ubuntu:~/0x06$ ./3-strcmp
 julien@ubuntu:~/0x06$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
 File: 3-strcmp.c
 
@@ -310,7 +310,7 @@ julien@ubuntu:~/0x06$ ./4-rev_array
 julien@ubuntu:~/0x06$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
 File: 4-rev_array.c
 
@@ -346,7 +346,7 @@ LOOK UP!
 julien@ubuntu:~/0x06$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
 File: 5-string_toupper.c
 
@@ -385,7 +385,7 @@ Hello World! Hello-world 0123456hello World Hello World.Hello World
 julien@ubuntu:~/0x06$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
 File: 6-cap_string.c
 
@@ -430,7 +430,7 @@ julien@ubuntu:~/0x06$ ./7-1337
 julien@ubuntu:~/0x06$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
 File: 7-leet.c
 
@@ -490,7 +490,7 @@ EBG13 ("ebgngr ol 13 cynprf", fbzrgvzrf ulcurangrq EBG-13) vf n fvzcyr yrggre fh
 julien@ubuntu:~/0x06$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
 File: 100-rot13.c
 
@@ -536,7 +536,7 @@ julien@ubuntu:~/0x06$ ./101-print_numbers
 julien@ubuntu:~/0x06$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
 File: 101-print_number.c
 
@@ -557,7 +557,7 @@ and don’t change anything but the line of code you are adding (don’t change 
 You are allowed to use the standard library
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
 File: 102-magic.c
 
@@ -644,7 +644,7 @@ Error
 julien@ubuntu:~/0x06$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
 File: 103-infinite_add.c
 
@@ -701,6 +701,6 @@ This is a string!
 julien@ubuntu:~/0x06$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
 File: 104-print_buffer.c
