@@ -37,9 +37,10 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - How to print the values of variables of type `char`, `int`, `unsigned int` with `printf`
 - How to use the while loop
 - How to use variables with the while loop
-- How to print variables using printf
+- How to print variables using `printf`
 - What is the ASCII character set
-What are the purpose of the gcc flags -m32 and -m64
+- What are the purpose of the `gcc` flags `-m32` and `-m64`
+
 Copyright - Plagiarism
 You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
 You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
