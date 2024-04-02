@@ -30,7 +30,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - What the the relational operators and how to use them
 - What values are considered `TRUE` and `FALSE` in C
 - What are the boolean operators and how to use them
-- How to use the if, if ... else statements
+- How to use the `if`, `if ... else` statements
 - How to use comments
 - How to declare variables of types char, int, unsigned int
 - How to assign values to variables
