@@ -1,10 +1,10 @@
-### Concepts  
+# Concepts
 *For this project, we expect you to look at these concepts:*
 
 - [Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://intranet.alxswe.com/concepts/100039)
 - [C programming](https://intranet.alxswe.com/concepts/26)
 
-# Resources  
+# Resources
 ## Read or watch:
 - [Everything you need to know to start with C.pdf](https://intranet.alxswe.com/rltoken/P01aLj9BDfDUOv-y9x82Yw) (*You do not have to learn everything in there yet, but make sure you read it entirely first*)
 - [Dennis Ritchie](https://intranet.alxswe.com/rltoken/YWFrRob_-Yo-_NQikMLI-g)
@@ -23,10 +23,10 @@
 - `puts`
 - `putchar`
 
-# Learning Objectives  
+# Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/VGWjGaWZbgcLYTwfLEBmmQ), **without the help of Google:**
 
-## General  
+## General
 - Why C programming is awesome
 - Who invented C
 - Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
@@ -41,7 +41,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - How to find the right header to include in your source code when using a standard library function
 - How does the main function influence the return value of the program
 
-## Requirements  
+## Requirements
 
 ## C
 - Allowed editors: `vi`, `vim`, `emacs`
@@ -53,14 +53,14 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - You are not allowed to use `system`
 - Your code should use the `Betty` style. It will be checked using [betty-style.pl](https://github.com/alx-tools/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github.com/alx-tools/Betty/blob/master/betty-doc.pl)
 
-## Shell Scripts  
+## Shell Scripts
 - Allowed editors: `vi`, `vim`, `emacs`
 - All your scripts will be tested on Ubuntu 20.04 LTS
 - All your scripts should be exactly two lines long (`$ wc -l file` should print 2)
 - All your files should end with a new line
 - The first line of all your files should be exactly `#!/bin/bash`
 
-# More Info  
+# More Info
 ## Betty linter
 To run the Betty linter just with command `betty <filename>`:
 
@@ -198,7 +198,7 @@ Write a script that runs a C file through the preprocessor and save the result i
 - The output should be saved in the file `c`
 
 ```shell
-julien@ubuntu:~/c/0x00$ cat main.c 
+julien@ubuntu:~/c/0x00$ cat main.c
 #include <stdio.h>
 
 /**
@@ -211,7 +211,7 @@ int main(void)
     return (0);
 }
 julien@ubuntu:~/c/0x00$ export CFILE=main.c
-julien@ubuntu:~/c/0x00$ ./0-preprocessor 
+julien@ubuntu:~/c/0x00$ ./0-preprocessor
 julien@ubuntu:~/c/0x00$ tail c
 # 942 "/usr/include/stdio.h" 3 4
 
@@ -253,7 +253,7 @@ int main(void)
 {
     return (0);
 }
-julien@ubuntu:~/c/0x00$ ./1-compiler 
+julien@ubuntu:~/c/0x00$ ./1-compiler
 julien@ubuntu:~/c/0x00$ ls
 0-preprocessor  1-compiler   c            main.o
 Makefile               100-intel      main.c  main.s
@@ -314,7 +314,7 @@ main:
     .size   main, .-main
     .ident  "GCC: (Ubuntu 5.4.0-6ubuntu1~16.04.2) 5.4.0 20160609"
     .section    .note.GNU-stack,"",@progbits
-julien@ubuntu:~/c/0x00$ 
+julien@ubuntu:~/c/0x00$
 ```
 
 **Repo:**
@@ -342,7 +342,7 @@ int main(void)
 {
     return (0);
 }
-julien@ubuntu:~/c/0x00$ ./3-name 
+julien@ubuntu:~/c/0x00$ ./3-name
 julien@ubuntu:~/c/0x00$ ls
 0-preprocessor  1-compiler   3-name  cisfun  main.o  Makefile
 100-intel       2-assembler  c       main.c  main.s
@@ -386,11 +386,11 @@ Write a C program that prints exactly `with proper grammar, but the outcome is a
 
 ```shell
 julien@ubuntu:~/c/0x00$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 5-printf.c
-julien@ubuntu:~/c/0x00$ ./a.out 
+julien@ubuntu:~/c/0x00$ ./a.out
 with proper grammar, but the outcome is a piece of art,
 julien@ubuntu:~/c/0x00$ echo $?
 0
-julien@ubuntu:~/c/0x00$ 
+julien@ubuntu:~/c/0x00$
 ```
 
 **Repo:**
@@ -454,7 +454,7 @@ int main(void)
 {
     return (0);
 }
-julien@ubuntu:~/c/0x00$ ./100-intel 
+julien@ubuntu:~/c/0x00$ ./100-intel
 julien@ubuntu:~/c/0x00$ cat main.s
     .file   "main.c"
     .intel_syntax noprefix
