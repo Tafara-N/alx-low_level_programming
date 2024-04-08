@@ -594,13 +594,15 @@ Found 999 at index: (nil)
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
-- File: 105-jump_list.c
-13. Linear search in a skip list
-#advanced
-As you see now, looking for a specific value in a singly linked list always leads to browse every element of the list. A common way to optimize the time complexity of a search in a singly linked list is to modify the list itself by adding an “express lane” to browse it. A linked list with an express lane is called a skip list. This change does not come without consequences. Indeed, the space complexity of a search in this kind of list will grow as sizeof(skiplist_t) > sizeof(listint_t) (see example below).
+- File: `105-jump_list.c`
 
-Please define the following data structure in your search_algos.h header - File:
+### 13. Linear search in a skip list
 
+As you see now, looking for a specific value in a singly linked list always leads to browse every element of the list. A common way to optimize the time complexity of a search in a singly linked list is to modify the list itself by adding an “express lane” to browse it. A linked list with an express lane is called a [skip list](https://intranet.alxswe.com/rltoken/SD8K3P6iYfmYTq39XZzo_Q). This change does not come without consequences. Indeed, the space complexity of a search in this kind of list will grow as `sizeof(skiplist_t) > sizeof(listint_t)` (see example below).
+
+Please define the following data structure in your `search_algos.h` header file:
+
+```
 /**
  * struct skiplist_s - Singly linked list with an express lane
  *
