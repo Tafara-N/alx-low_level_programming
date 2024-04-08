@@ -31,30 +31,35 @@ In the following examples, the main.c files are shown as examples. You can use t
 The prototypes of all your functions should be included in your header file called search_algos.h
 Don’t forget to push your header file
 All your header files should be include guarded
-More Info
+
+# More Info
 You will be asked to write files containing big O notations. Please use this format:
 
-O(1)
-O(n)
-O(n!)
-n*m -> O(nm)
-n square -> O(n^2)
-sqrt n -> O(sqrt(n))
-log(n) -> O(log(n))
-n * log(n) -> O(nlog(n))
-…
-Tasks
-0. Linear search
-mandatory
-Write a function that searches for a value in an array of integers using the Linear search algorithm
+- `O(1)`
+- `O(n)`
+- `O(n!)`
+- n*m -> `O(nm)`
+- n square -> `O(n^2)`
+- sqrt n -> `O(sqrt(n))`
+- log(n) -> `O(log(n))`
+- n * log(n) -> `O(nlog(n))`
+- …
 
-Prototype : int linear_search(int *array, size_t size, int value);
-Where array is a pointer to the first element of the array to search in
-size is the number of elements in array
-And value is the value to search for
-Your function must return the first index where value is located
-If value is not present in array or if array is NULL, your function must return -1
-Every time you compare a value in the array to the value you are searching, you have to print this value (see example below)
+## Tasks
+
+### 0. Linear search
+
+Write a function that searches for a value in an array of integers using the [Linear search algorithm](https://intranet.alxswe.com/rltoken/17RKhbmvh_u4ebCwaSxCxg)
+
+- Prototype : `int linear_search(int *array, size_t size, int value);`
+- Where `array` is a pointer to the first element of the array to search in
+- `size` is the number of elements in `array`
+- And `value` is the value to search for
+- Your function must return the first index where `value` is located
+- If `value` is not present in `array` or if `array` is `NULL`, your function must return `-1`
+- Every time you compare a value in the array to the value you are searching, you have to print this value (see example below)
+
+```
 wilfried@0x1E-search_algorithms$ cat 0-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -101,8 +106,9 @@ Value checked array[7] = [7]
 Value checked array[8] = [-1]
 Value checked array[9] = [9]
 Found 999 at index: -1
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
 - File: `0-linear.c`
