@@ -104,7 +104,7 @@ Found 999 at index: -1
 Repo:
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x1E-search_algorithms
+- Directory: `0x1E-search_algorithms`
 File: 0-linear.c
 1. Binary search
 mandatory
@@ -161,7 +161,7 @@ Found 999 at index: -1
 Repo:
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x1E-search_algorithms
+- Directory: `0x1E-search_algorithms`
 File: 1-binary.c
 2. Big O #0
 mandatory
@@ -170,7 +170,7 @@ What is the time complexity (worst case) of a linear search in an array of size 
 Repo:
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x1E-search_algorithms
+- Directory: `0x1E-search_algorithms`
 File: 2-O
 3. Big O #1
 mandatory
@@ -179,7 +179,7 @@ What is the space complexity (worst case) of an iterative linear search algorith
 Repo:
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x1E-search_algorithms
+- Directory: `0x1E-search_algorithms`
 File: 3-O
 4. Big O #2
 mandatory
@@ -188,7 +188,7 @@ What is the time complexity (worst case) of a binary search in an array of size 
 Repo:
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x1E-search_algorithms
+- Directory: `0x1E-search_algorithms`
 File: 4-O
 5. Big O #3
 mandatory
@@ -197,7 +197,7 @@ What is the space complexity (worst case) of a binary search in an array of size
 Repo:
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x1E-search_algorithms
+- Directory: `0x1E-search_algorithms`
 File: 5-O
 6. Big O #4
 mandatory
@@ -217,7 +217,7 @@ int **allocate_map(int n, int m)
 Repo:
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x1E-search_algorithms
+- Directory: `0x1E-search_algorithms`
 File: 6-O
 7. Jump search
 #advanced
@@ -283,7 +283,7 @@ Found 999 at index: -1
 Repo:
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x1E-search_algorithms
+- Directory: `0x1E-search_algorithms`
 File: 100-jump.c
 8. Big O #5
 #advanced
@@ -292,7 +292,7 @@ What is the time complexity (average case) of a jump search in an array of size 
 Repo:
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x1E-search_algorithms
+- Directory: `0x1E-search_algorithms`
 File: 101-O
 9. Interpolation search
 #advanced
@@ -343,7 +343,7 @@ Found 999 at index: -1
 Repo:
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x1E-search_algorithms
+- Directory: `0x1E-search_algorithms`
 File: 102-interpolation.c
 10. Exponential search
 #advanced
@@ -412,7 +412,7 @@ Found 999 at index: -1
 Repo:
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x1E-search_algorithms
+- Directory: `0x1E-search_algorithms`
 File: 103-exponential.c
 11. Advanced binary search
 #advanced
@@ -471,7 +471,7 @@ Found 999 at index: -1
 Repo:
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x1E-search_algorithms
+- Directory: `0x1E-search_algorithms`
 File: 104-advanced_binary.c
 12. Jump search in a singly linked list
 #advanced
@@ -593,7 +593,7 @@ Found 999 at index: (nil)
 Repo:
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x1E-search_algorithms
+- Directory: `0x1E-search_algorithms`
 File: 105-jump_list.c
 13. Linear search in a skip list
 #advanced
@@ -720,7 +720,7 @@ Found 999 at index: (nil)
 Repo:
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x1E-search_algorithms
+- Directory: `0x1E-search_algorithms`
 File: 106-linear_skip.c
 14. Big O #6
 #advanced
@@ -729,7 +729,7 @@ What is the time complexity (average case) of a jump search in a singly linked l
 Repo:
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x1E-search_algorithms
+- Directory: `0x1E-search_algorithms`
 File: 107-O
 15. Big O #7
 #advanced
@@ -738,5 +738,5 @@ What is the time complexity (average case) of a jump search in a skip list of si
 Repo:
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x1E-search_algorithms
+- Directory: `0x1E-search_algorithms`
 File: 108-O
