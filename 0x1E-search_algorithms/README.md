@@ -101,7 +101,7 @@ Value checked array[7] = [7]
 Value checked array[8] = [-1]
 Value checked array[9] = [9]
 Found 999 at index: -1
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
@@ -158,7 +158,7 @@ Searching in array: 5, 6, 7, 8, 9
 Searching in array: 8, 9
 Searching in array: 9
 Found 999 at index: -1
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
@@ -167,7 +167,7 @@ Repo:
 mandatory
 What is the time complexity (worst case) of a linear search in an array of size n?
 
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
@@ -176,7 +176,7 @@ Repo:
 mandatory
 What is the space complexity (worst case) of an iterative linear search algorithm in an array of size n?
 
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
@@ -185,7 +185,7 @@ Repo:
 mandatory
 What is the time complexity (worst case) of a binary search in an array of size n?
 
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
@@ -194,7 +194,7 @@ Repo:
 mandatory
 What is the space complexity (worst case) of a binary search in an array of size n?
 
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
@@ -214,7 +214,7 @@ int **allocate_map(int n, int m)
      }
      return (map);
 }
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
@@ -280,7 +280,7 @@ Value found between indexes [9] and [12]
 Value checked array[9] = [9]
 Found 999 at index: -1
 
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
@@ -289,7 +289,7 @@ Repo:
 #advanced
 What is the time complexity (average case) of a jump search in an array of size n, using step = sqrt(n)?
 
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
@@ -340,7 +340,7 @@ Found 7 at index: 14
 
 Value checked array[2109] is out of range
 Found 999 at index: -1
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
@@ -409,7 +409,7 @@ Searching in array: 61, 62, 76, 99
 Searching in array: 76, 99
 Searching in array: 99
 Found 999 at index: -1
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
@@ -468,7 +468,7 @@ Searching in array: 6, 6, 7, 8, 9
 Searching in array: 8, 9
 Searching in array: 9
 Found 999 at index: -1
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
@@ -590,7 +590,7 @@ Value checked at index [13] = [62]
 Value checked at index [14] = [76]
 Value checked at index [15] = [99]
 Found 999 at index: (nil)
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
@@ -717,7 +717,7 @@ Value checked at index [13] = [62]
 Value checked at index [14] = [76]
 Value checked at index [15] = [99]
 Found 999 at index: (nil)
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
@@ -726,17 +726,17 @@ Repo:
 #advanced
 What is the time complexity (average case) of a jump search in a singly linked list of size n, using step = sqrt(n)?
 
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
-- File: 107-O
+- File: `107-O`
 
 ### 15. Big O #7
 
 What is the `time complexity` (average case) of a jump search in a skip list of size n, with an express lane using step = sqrt(n)?
 
-Repo:
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
 - File: `108-O`
