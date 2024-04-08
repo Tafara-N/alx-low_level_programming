@@ -731,12 +731,12 @@ Repo:
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
 File: 107-O
-15. Big O #7
-#advanced
-What is the time complexity (average case) of a jump search in a skip list of size n, with an express lane using step = sqrt(n)?
+
+### 15. Big O #7
+
+What is the `time complexity` (average case) of a jump search in a skip list of size n, with an express lane using step = sqrt(n)?
 
 Repo:
-
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
-File: 108-O
+File: `108-O`
