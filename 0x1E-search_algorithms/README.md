@@ -158,20 +158,22 @@ Searching in array: 5, 6, 7, 8, 9
 Searching in array: 8, 9
 Searching in array: 9
 Found 999 at index: -1
-**Repo:**
-
-- GitHub repository: `alx-low_level_programming`
-- Directory: `0x1E-search_algorithms`
-- File: 1-binary.c
-2. Big O #0
-mandatory
-What is the time complexity (worst case) of a linear search in an array of size n?
+```
 
 **Repo:**
-
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
-- File: 2-O
+- File: `1-binary.c`
+
+### 2. Big O #0
+
+What is the `time complexity` (worst case) of a linear search in an array of size `n`?
+
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x1E-search_algorithms`
+- File: `2-O`
+
 ### 3. Big O #1
 
 What is the `space complexity` (worst case) of an iterative linear search algorithm in an array of size `n`?
