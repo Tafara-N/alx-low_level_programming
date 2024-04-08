@@ -630,6 +630,7 @@ If value is not present in list or if head is NULL, your function must return NU
 Every time you compare a value in the list to the value you are searching, you have to print this value (see example below)
 NOTE: You can find here the functions used in the example. You don’t need to push them, we will compile your file with our own implementation during the correction.
 
+```
 wilfried@0x1E-search_algorithms$ cat 106-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -717,11 +718,12 @@ Value checked at index [13] = [62]
 Value checked at index [14] = [76]
 Value checked at index [15] = [99]
 Found 999 at index: (nil)
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
-- File: 106-linear_skip.c
+- File: `106-linear_skip.c`
 
 ### 14. Big O #6
 
