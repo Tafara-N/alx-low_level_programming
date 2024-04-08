@@ -468,17 +468,20 @@ Searching in array: 6, 6, 7, 8, 9
 Searching in array: 8, 9
 Searching in array: 9
 Found 999 at index: -1
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
-- File: 104-advanced_binary.c
-12. Jump search in a singly linked list
-#advanced
+- File: `104-advanced_binary.c`
+
+### 12. Jump search in a singly linked list
+
 You might think that linear search is not as effective as any other algorithm, right? Well, we should see what happens with a singly linked list.
 
-Please define the following data structure in your search_algos.h header - File:
+Please define the following data structure in your `search_algos.h` header file:
 
+```
 /**
  * struct listint_s - singly linked list
  *
@@ -494,20 +497,24 @@ typedef struct listint_s
     size_t index;
     struct listint_s *next;
 } listint_t;
+```
+
 Write a function that searches for a value in a sorted list of integers using the Jump search algorithm.
 
-Prototype : listint_t *jump_list(listint_t *list, size_t size, int value);
-Where list is a pointer to the head of the list to search in
-size is the number of nodes in list
-And value is the value to search for
-Your function must return a pointer to the first node where value is located
-You can assume that list will be sorted in ascending order
-If value is not present in head or if head is NULL, your function must return NULL
-You have to use the square root of the size of the list as the jump step.
-You can use the sqrt() function included in <math.h> (don’t forget to compile with -lm)
-Every time you compare a value in the list to the value you are searching, you have to print this value (see example)
-NOTE: You can find here the functions used in the example. You don’t need to push them, we will compile your file with our own implementation during the correction.
+- Prototype : `listint_t *jump_list(listint_t *list, size_t size, int value);`
+- Where `list` is a pointer to the head of the list to search in
+- `size` is the number of nodes in `list`
+- And `value` is the value to search for
+- Your function must return a pointer to the first node where `value` is located
+- You can assume that `list` will be sorted in ascending order
+- If `value` is not present in `head` or if `head` is `NULL`, your function must return `NULL`
+- You have to use the square root of the size of the list as the jump step.
+- You can use the `sqrt()` function included in `<math.h>` (don’t forget to compile with -lm)
+- Every time you compare a value in the list to the value you are searching, you have to print this value (see example)
 
+NOTE: [You can find here](https://intranet.alxswe.com/rltoken/7EwC08L6K_vQyI2wknLvnQ) the functions used in the example. You don’t need to push them, we will compile your file with our own implementation during the correction.
+
+```
 wilfried@0x1E-search_algorithms$ cat 105-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -590,8 +597,9 @@ Value checked at index [13] = [62]
 Value checked at index [14] = [76]
 Value checked at index [15] = [99]
 Found 999 at index: (nil)
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
 - File: `105-jump_list.c`
