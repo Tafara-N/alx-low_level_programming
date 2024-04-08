@@ -734,7 +734,7 @@ What is the time complexity (average case) of a jump search in a singly linked l
 
 ### 15. Big O #7
 
-What is the `time complexity` (average case) of a jump search in a skip list of size n, with an express lane using step = sqrt(n)?
+What is the `time complexity` (average case) of a jump search in a skip list of size `n`, with an express lane using `step = sqrt(n)`?
 
 **Repo:**
 - GitHub repository: `alx-low_level_programming`
