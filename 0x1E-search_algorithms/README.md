@@ -340,26 +340,30 @@ Found 7 at index: 14
 
 Value checked array[2109] is out of range
 Found 999 at index: -1
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
-- File: 102-interpolation.c
-10. Exponential search
-#advanced
-Write a function that searches for a value in a sorted array of integers using the Exponential search algorithm
+- File: `102-interpolation.c`
 
-Prototype : int exponential_search(int *array, size_t size, int value);
-Where array is a pointer to the first element of the array to search in
-size is the number of elements in array
-And value is the value to search for
-Your function must return the first index where value is located
-You can assume that array will be sorted in ascending order
-If value is not present in array or if array is NULL, your function must return -1
-You have to use powers of 2 as exponential ranges to search in your array
-Every time you compare a value in the array to the value you are searching for, you have to print this value (See example)
-Once you’ve found the good range, you need to use a binary search:
-Every time you split the array, you have to print the new array (or subarray) you’re searching in (See example)
+### 10. Exponential search
+
+Write a function that searches for a value in a sorted array of integers using the [Exponential search algorithm](https://intranet.alxswe.com/rltoken/J7wng_ddosamvEkFl0ekqA)
+
+- Prototype : `int exponential_search(int *array, size_t size, int value);`
+- Where `array` is a pointer to the first element of the array to search in
+- `size` is the number of elements in array
+- And `value` is the value to search for
+- Your function must return the first index where `value` is located
+- You can assume that `array` will be sorted in ascending order
+- If value is not present in `array` or if `array` is `NULL`, your function must return `-1`
+- You have to use powers of 2 as exponential ranges to search in your array
+- Every time you compare a value in the array to the value you are searching for, you have to print this value (See example)
+- Once you’ve found the good range, you need to use a binary search:
+	- Every time you split the array, you have to print the new array (or subarray) you’re searching in (See example)
+
+```
 wilfried@0x1E-search_algorithms$ cat 103-main.c
 #include <stdio.h>
 #include <stdlib.h>
