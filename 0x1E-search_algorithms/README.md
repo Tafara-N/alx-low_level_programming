@@ -284,13 +284,13 @@ Found 999 at index: -1
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
-- File: 100-jump.c
-8. Big O #5
-#advanced
-What is the time complexity (average case) of a jump search in an array of size n, using step = sqrt(n)?
+- File: `100-jump.c`
+
+### 8. Big O #5
+
+What is the `time complexity` (average case) of a jump search in an array of size `n`, using `step = sqrt(n)`?
 
 **Repo:**
-
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
 - File: `101-O`
