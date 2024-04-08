@@ -722,12 +722,12 @@ Found 999 at index: (nil)
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
 - File: 106-linear_skip.c
-14. Big O #6
-#advanced
-What is the time complexity (average case) of a jump search in a singly linked list of size n, using step = sqrt(n)?
+
+### 14. Big O #6
+
+What is the `time complexity` (average case) of a jump search in a singly linked list of size `n`, using `step = sqrt(n)`?
 
 **Repo:**
-
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
 - File: `107-O`
