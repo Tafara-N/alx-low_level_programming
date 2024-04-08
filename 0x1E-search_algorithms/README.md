@@ -195,14 +195,15 @@ mandatory
 What is the space complexity (worst case) of a binary search in an array of size n?
 
 **Repo:**
-
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
-- File: 5-O
-6. Big O #4
-mandatory
+- File: `5-O`
+
+### 6. Big O #4
+
 What is the space complexity of this function / algorithm?
 
+```
 int **allocate_map(int n, int m)
 {
      int **map;
@@ -214,25 +215,29 @@ int **allocate_map(int n, int m)
      }
      return (map);
 }
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
-- File: 6-O
-7. Jump search
-#advanced
-Write a function that searches for a value in a sorted array of integers using the Jump search algorithm
+- File: `6-O`
 
-Prototype : int jump_search(int *array, size_t size, int value);
-Where array is a pointer to the first element of the array to search in
-size is the number of elements in array
-And value is the value to search for
-Your function must return the first index where value is located
-You can assume that array will be sorted in ascending order
-If value is not present in array or if array is NULL, your function must return -1
-You have to use the square root of the size of the array as the jump step.
-You can use the sqrt() function included in <math.h> (don’t forget to compile with -lm)
-Every time you compare a value in the array to the value you are searching for, you have to print this value (see example)
+### 7. Jump search
+
+Write a function that searches for a value in a sorted array of integers using the [Jump search algorithm
+](https://intranet.alxswe.com/rltoken/1Op40kSYMN23JsOu6F3P1A)
+- Prototype : `int jump_search(int *array, size_t size, int value);`
+- Where `array` is a pointer to the first element of the array to search in
+- `size` is the number of elements in `array`
+- And value is the value to search for
+- Your function must return the first index where `value` is located
+- You can assume that `array` will be sorted in ascending order
+- If value is not present in `array` or if `array` is `NULL`, your function must return `-1`
+- You have to use the square root of the size of the array as the jump step.
+- You can use the `sqrt()` function included in `<math.h>` (don’t forget to compile with -lm)
+- Every time you compare a value in the array to the value you are searching for, you have to print this value (see example)
+
+```
 wilfried@0x1E-search_algorithms$ cat 100-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -279,9 +284,9 @@ Value checked array[9] = [9]
 Value found between indexes [9] and [12]
 Value checked array[9] = [9]
 Found 999 at index: -1
+```
 
 **Repo:**
-
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1E-search_algorithms`
 - File: `100-jump.c`
