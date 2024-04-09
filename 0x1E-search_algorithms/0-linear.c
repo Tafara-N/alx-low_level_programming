@@ -5,7 +5,7 @@
  *					using Linear Search Algorithm
  * @array: Pointer to the first element of the array
  * @size: Number of elements in the array
- * @value: Value to be search for
+ * @value: Value to be searched for
  *
  * Return: If value is absent or the array is NULL - (-1),
  *			otherwise, first index where the value is located
