@@ -1,6 +1,7 @@
 #ifndef SORTING_ALGOS_H
 #define SORTING_ALGOS_H
 
+#include <math.h>
 #include <stdlib.h>
 #include <stdio.h>
 
