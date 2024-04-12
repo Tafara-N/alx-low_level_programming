@@ -17,9 +17,10 @@
 - [While loop]()
 
 **man or help:**
-- ascii (You do not need to learn about scanf, getc, getchar, EOF, EXIT_SUCCESS, time, rand, srand, RAND_MAX, for loops, do...while loops, functions.)
-- Additional resources
-- Introduction to C (Basic structure and variables)
+- `ascii` (*You do not need to learn about `scanf`, `getc`, `getchar`, `EOF`, `EXIT_SUCCESS`, `time`, `rand`, `srand`, `RAND_MAX`, `for` loops, `do...while` loops, functions.*)
+
+# Additional resources
+- [Introduction to C (Basic structure and variables)](https://intranet.alxswe.com/rltoken/yBMqMN_7aGONB4QqW4L7Xg)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/VGWjGaWZbgcLYTwfLEBmmQ), **without the help of Google:**
