@@ -10,7 +10,7 @@
 - [integers]()
 - [Arithmetic Operators in C]()
 - [If statements in C]()
-- [if…else statement]()
+- [if…else statement](https://intranet.alxswe.com/rltoken/CU6mSX1qdZKOhDEgmToUGA)
 - [Relational operators](https://intranet.alxswe.com/rltoken/O1N-qacaTC-BHXm3Dp3eUA)
 - [Logical operators](https://intranet.alxswe.com/rltoken/TaX_y6ll4cRfxCrxG8ZuNQ)
 - [while loop in C](https://intranet.alxswe.com/rltoken/mwx2_bj3gIFEgCqdwdTp4w)
