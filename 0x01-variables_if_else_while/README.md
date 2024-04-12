@@ -12,7 +12,7 @@
 - [If statements in C]()
 - [if…else statement]()
 - [Relational operators]()
-- [Logical operators]()
+- [Logical operators](https://intranet.alxswe.com/rltoken/TaX_y6ll4cRfxCrxG8ZuNQ)
 - [while loop in C](https://intranet.alxswe.com/rltoken/mwx2_bj3gIFEgCqdwdTp4w)
 - [While loop](https://intranet.alxswe.com/rltoken/MW4Ob-6JLWt7Zn6vZ0EsBw)
 
