@@ -326,22 +326,20 @@ Handle the - flag character for non-custom conversion specifiers.
 
 - GitHub repository: `printf`
 
-13. Print is the sharpest and the strongest weapon of our party
-#advanced
-Score: 0.0% (Checks completed: 100.0%)
+###13. Print is the sharpest and the strongest weapon of our party
+
 Handle the following custom conversion specifier:
 
-r : prints the reversed string
-**Repo:**
+- `r` : prints the reversed string
 
+**Repo:**
 - GitHub repository: `printf`
 
-14. The flood of print has turned reading into a process of gulping rather than savoring
-#advanced
-Score: 0.0% (Checks completed: 100.0%)
+### 14. The flood of print has turned reading into a process of gulping rather than savoring
+
 Handle the following custom conversion specifier:
 
-R: prints the rot13'ed string
+- `R`: prints the rot13'ed string
 
 **Repo:**
 - GitHub repository: `printf`
@@ -355,5 +353,4 @@ Well done on completing this project! Let the world hear about this milestone ac
 - [Click here to tweet!](https://twitter.com/intent/tweet?text=I+have+successfully+completed+my+printf+project+on+%23ALX_SE+%40facesofalxse)
 
 **Repo:**
-
 - GitHub repository: `printf`
