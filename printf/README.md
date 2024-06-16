@@ -265,16 +265,15 @@ You don’t have to handle the length modifiers
 
 - GitHub repository: `printf`
 
-7. The big print gives and the small print takes away
-#advanced
-Score: 0.0% (Checks completed: 97.4%)
+### 7. The big print gives and the small print takes away
+
 Handle the following flag characters for non-custom conversion specifiers:
 
-+
-space
-#
-**Repo:**
+- `+`
+- space
+- `#`
 
+**Repo:**
 - GitHub repository: `printf`
 
 ### 8. Sarcasm is lost in print
