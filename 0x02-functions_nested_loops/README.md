@@ -266,16 +266,17 @@ julien@ubuntu:~/0x02$
 - Directory: `0x02-functions_nested_loops`
 - File: `2-print_alphabet_x10.c`
 
-3. islower
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 3. islower
+
 Write a function that checks for lowercase character.
 
-Prototype: int _islower(int c);
-Returns 1 if c is lowercase
-Returns 0 otherwise
-FYI: The standard library provides a similar function: islower. Run man islower to learn more.
+- Prototype: `int _islower(int c);`
+- Returns `1` if `c` is lowercase
+- Returns `0` otherwise
 
+FYI: The standard library provides a similar function: `islower`. Run `man islower` to learn more.
+
+```shell
 julien@ubuntu:~/0x02$ cat 3-main.c
 #include "main.h"
 
@@ -301,11 +302,12 @@ julien@ubuntu:~/0x02$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 
 julien@ubuntu:~/0x02$ ./3-islower
 011
 julien@ubuntu:~/0x02$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x02-functions_nested_loops`
-- File: 3-islower.c
+- File: `3-islower.c`
 
 4. isalpha
 mandatory
