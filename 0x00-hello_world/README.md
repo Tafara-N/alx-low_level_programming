@@ -4,6 +4,8 @@
 - [Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://intranet.alxswe.com/concepts/100039)
 - [C programming](https://intranet.alxswe.com/concepts/26)
 
+
+
 # Resources
 ## Read or watch:
 - [Everything you need to know to start with C.pdf](https://intranet.alxswe.com/rltoken/P01aLj9BDfDUOv-y9x82Yw) (*You do not have to learn everything in there yet, but make sure you read it entirely first*)
@@ -30,16 +32,16 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - Why C programming is awesome
 - Who invented C
 - Who are Dennis Ritchie, Brian Kernighan and Linus Torvalds
-- What happens when you type gcc main.c
+- What happens when you type `gcc main.c`
 - What is an entry point
-- What is main
-- How to print text using printf, puts and putchar
-- How to get the size of a specific type using the unary operator sizeof
-- How to compile using gcc
-- What is the default program name when compiling with gcc
-- What is the official C coding style and how to check your code with betty-style
+- What is `main`
+- How to print text using `printf`, `puts` and `putchar`
+- How to get the size of a specific type using the unary operator `sizeof`
+- How to compile using `gcc`
+- What is the default program name when compiling with `gcc`
+- What is the official C coding style and how to check your code with `betty-style`
 - How to find the right header to include in your source code when using a standard library function
-- How does the main function influence the return value of the program
+- How does the `main` function influence the return value of the program
 
 ## Requirements
 
