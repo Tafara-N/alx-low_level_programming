@@ -45,68 +45,55 @@ You do not have to understand the call by reference (address), stack, static var
 
 ### Quiz questions
 
-Question #0
-What is the result of 12 % 2?
+### Question #0
 
+What is the result of `12 % 2`?
 
-0
+- [ ] 0
 
+- [ ] 1
 
-1
+- [ ] 2
 
+### Question #1
 
-2
+What is the result of `12 % 3`?
 
-Question #1
-What is the result of 12 % 3?
+- [ ] 3
 
+- [ ] 0
 
-3
+- [ ] 1
 
+- [ ] 2
 
-0
+### Question #2
 
-
-1
-
-
-2
-
-Question #2
 Which of these loop statements don’t exist?
 
+- [ ] `each`
 
-each
+- [ ] `loop_to`
 
+- [ ] `for`
 
-loop_to
+- [ ] `while`
 
+- [ ] `do... while`
 
-for
+- [ ] `foreach`
 
+### Question #3
 
-while
+What is the ASCII value of `J`?
 
+- [ ] 76
 
-do... while
+- [ ] 70
 
+- [ ] 72
 
-foreach
-
-Question #3
-What is the ASCII value of J?
-
-
-76
-
-
-70
-
-
-72
-
-
-74
+- [ ] 74
 
 ### Question #4
 
