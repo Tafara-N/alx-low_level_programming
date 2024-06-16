@@ -181,11 +181,11 @@ What is the ASCII value of 5?
 
 What is the ASCII value of `-`?
 
-45
+- [ ] 45
 
-3
+- [ ] 3
 
-47
+- [ ] 47
 
 ### Question #10
 
