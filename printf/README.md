@@ -215,13 +215,11 @@ You don’t have to handle the length modifiers
 
 - GitHub repository: `printf`
 
-4. Nothing in fine print is ever good news
-#advanced
-Score: 0.0% (Checks completed: 100.0%)
-Use a local buffer of 1024 chars in order to call write as little as possible.
+### 4. Nothing in fine print is ever good news
+
+Use a local buffer of 1024 chars in order to call `write` as little as possible.
 
 **Repo:**
-
 - GitHub repository: `printf`
 
 ### 5. My weakness is wearing too much leopard print
