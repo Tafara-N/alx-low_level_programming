@@ -69,34 +69,45 @@ What is the size of the unsigned int data type?
 
 4 bytes
 
-Question #1
-Which of the following are valid if statements in ANSI C and Betty-compliant? (Considering a and b two variables of type int)
+### Question #1
+
+Which of the following are valid `if` statements in ANSI C and Betty-compliant? (Considering `a` and `b` two variables of type `int`)
 
 Please select all correct answers
 
-
+```c
 if (a > b)
   return (a);
+```
 
+```c
 if a > b
 {
   return (a);
 }
+```
 
+```c
 if (a > b)
 {
   return (a);
 }
+```
 
+```c
 if ((((((a > b))))))
 {
   return (a);
 }
+```
 
+```c
 if {a > b}
 (
   return {a};
 )
+```
+
 ### Question #2
 
 What is the size of the `char` data type?
