@@ -43,12 +43,12 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 You do not have to understand the call by reference (address), stack, static variables, recursions or arrays, yet.
 
-Quiz questions
-Great! You've completed the quiz successfully! Keep going! (Show quiz)
-Tasks
-0. _putchar
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### Quiz questions
+
+## Tasks
+
+### 0. _putchar
+
 Write a program that prints _putchar, followed by a new line.
 
 The program should return 0
