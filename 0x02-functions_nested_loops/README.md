@@ -138,20 +138,17 @@ What is the result of 12 % 10?
 
 2
 
-Question #6
-What is the ASCII value of a?
+### Question #6
 
+What is the ASCII value of `a`?
 
-1
+- [ ] 1
 
+- [ ] 97
 
-97
+- [ ] 65
 
-
-65
-
-
-12
+- [ ] 12
 
 ### Question #7
 
