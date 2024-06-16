@@ -165,17 +165,15 @@ What is the ASCII value of 0?
 
 48
 
-Question #8
-What is the ASCII value of 5?
+### Question #8
 
+What is the ASCII value of `5`?
 
-50
+- [ ] 50
 
+- [ ] 53
 
-53
-
-
-5
+- [ ] 5
 
 ### Question #9
 
