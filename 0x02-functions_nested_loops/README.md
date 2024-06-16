@@ -45,6 +45,162 @@ You do not have to understand the call by reference (address), stack, static var
 
 ### Quiz questions
 
+Question #0
+What is the result of 12 % 2?
+
+
+0
+
+
+1
+
+
+2
+
+Question #1
+What is the result of 12 % 3?
+
+
+3
+
+
+0
+
+
+1
+
+
+2
+
+Question #2
+Which of these loop statements don’t exist?
+
+
+each
+
+
+loop_to
+
+
+for
+
+
+while
+
+
+do... while
+
+
+foreach
+
+Question #3
+What is the ASCII value of J?
+
+
+76
+
+
+70
+
+
+72
+
+
+74
+
+Question #4
+What is the ASCII value of A?
+
+
+1
+
+
+97
+
+
+65
+
+
+12
+
+Question #5
+What is the result of 12 % 10?
+
+
+3
+
+
+0
+
+
+1
+
+
+2
+
+Question #6
+What is the ASCII value of a?
+
+
+1
+
+
+97
+
+
+65
+
+
+12
+
+Question #7
+What is the ASCII value of 0?
+
+
+79
+
+
+0
+
+
+48
+
+Question #8
+What is the ASCII value of 5?
+
+
+50
+
+
+53
+
+
+5
+
+Question #9
+What is the ASCII value of -?
+
+
+45
+
+
+3
+
+
+47
+
+### Question #10
+
+What is the result of 89 % 7?
+
+5
+
+0
+
+2
+
+3
+
 ## Tasks
 
 ### 0. _putchar
