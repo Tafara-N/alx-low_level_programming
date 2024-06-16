@@ -602,12 +602,13 @@ julien@ubuntu:~/0x02$
 - Directory: `0x02-functions_nested_loops`
 - File: `9-times_table.c`
 
-10. a + b
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 10. a + b
+
 Write a function that adds two integers and returns the result.
 
-Prototype: int add(int, int);
+- Prototype: `int add(int, int);`
+
+```shell
 julien@ubuntu:~/$ cat 10-main.c
 #include "main.h"
 #include <stdio.h>
@@ -629,11 +630,12 @@ julien@ubuntu:~/0x02$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 
 julien@ubuntu:~/0x02$ ./10-add
 98
 julien@ubuntu:~/0x02$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x02-functions_nested_loops`
-- File: 10-add.c
+- File: `10-add.c`
 
 11. 98 Battery Street, the OG
 mandatory
