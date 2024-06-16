@@ -30,6 +30,227 @@ A `README.md` file, at the root of the folder of this project (i.e. `0x03-debugg
 
 ## Tasks
 
+### Question #0
+
+Look at the following code.
+
+```bash
+carrie@ubuntu:/debugging$ cat main.c
+#include <stdio.h>
+
+/**
+ * main - debugging example
+ * Return: 0
+ */
+int main(void)
+{
+        char *hello = "Hello, World!";
+
+        for (i = 0; hello[i] != '\0'; i++)
+        {
+                printf("%c", hello[i]);
+        }
+
+        printf("\n");
+
+        return (0);
+}
+carrie@ubuntu:/debugging$
+```
+
+```bash
+carrie@ubuntu:/debugging$ gcc -Wall -Werror -Wextra -pedantic main.
+c
+main.c: In function ‘main’:
+main.c:11:7: error: ‘i’ undeclared (first use in this function)
+  for (i = 0; hello[i] != '\0'; i++)
+       ^
+main.c:11:7: note: each undeclared identifier is reported only once for each function it appears in
+main.c:9:8: error: variable ‘hello’ set but not used [-Werror=unused-but-set-variable]
+  char *hello = "Hello, World!";
+        ^
+cc1: all warnings being treated as errors
+carrie@ubuntu:/debugging$
+```
+
+In the `main.c` file, on what line is the first error that the compiler returns?
+
+- [ ] 9
+
+- [ ] 11
+
+- [ ] 7
+
+>Tips:
+
+>You do not have to know exactly what this code does yet (but you will soon!).
+
+Question #1
+This code doesn’t work as intended.
+
+#include "main.h"
+
+/**
+* main - prints even numbers from 0 to 100
+* Return: 0
+*/
+
+int main(void)
+{
+        int i;
+
+        for (i = 0; i < 100; i++)
+        {
+                if (i % 2 != 0)
+                {
+                        continue;
+                }
+                else
+                {
+                        break;
+                }
+
+                printf("%d\n", i);
+        }
+
+        return(0);
+}
+Let’s add printf statements to the code. What information do the printf statements tell us about how our code is executed?
+
+#include "main.h"
+
+/**
+* main - prints even numbers from 0 to 100
+* Return: 0
+*/
+
+int main(void)
+{
+        int i;
+
+        printf("Before loop\n");
+
+        for (i = 0; i < 100; i++)
+        {
+                if (i % 2 != 0)
+                {
+                        printf("i is not even so don't print\n");
+                        continue;
+                }
+                else
+                {
+                        printf("i is even, break to print\n");
+                        break;
+                }
+
+                printf("Outside of if/else, still inside for loop\n");
+
+                printf("%d\n", i);
+        }
+
+        printf("For loop exited\n");
+
+        return(0);
+}
+
+A printf statement shows that there is an infinite loop in the code
+
+
+A printf statement shows when the for loop is finished
+
+
+A printf statement shows exactly how many times the loop executes
+
+
+printf statements shows that break will cause “For loop exited” to print, indicating that the even number is never printed
+
+Question #2
+The following code gives this incorrect output. Which of the following statements about what is causing the error is true?
+
+carrie@ubuntu:/debugging$ cat main.c
+#include <stdio.h>
+
+/**
+ * main - debugging example
+ * Return: 0
+ */
+int main(void)
+{
+        int i;
+        int j;
+
+        for (i = 0; i < 10; i++)
+        {
+                j = 0;
+                while (j < 10)
+                {
+                        printf("%d", j);
+                }
+                printf("\n");
+        }
+
+        return (0);
+}
+carrie@ubuntu:/debugging$
+carrie@ubuntu:/debugging$ gcc -Wall -Werror -Wextra -pedantic main.c
+carrie@ubuntu:/debugging$ ./a.out
+0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 <...>
+^Ccarrie@ubuntu:/debugging$
+
+j never increments so it will always be less than 10
+
+
+j is always equal to i so the loop will never end
+
+
+j never increments so it is always going to print 0
+
+Question #3
+The following code gives this output. What is the error?
+
+carrie@ubuntu:/debugging$ cat main.c
+#include <stdio.h>
+
+/**
+ * main - debugging example
+ * Return: 0
+ */
+int main(void)
+{
+        int i;
+        int j;
+        int k;
+
+        i = 0;
+        j = 1000;
+        while (i < j)
+        {
+                k = j / 98;
+                i = i + k;
+                printf("%d\n", i);
+                j == j - 1;
+        }
+
+        return (0);
+}
+carrie@ubuntu:/debugging$
+carrie@ubuntu:/debugging$ gcc -Wall -Werror -Wextra -pedantic main.
+c
+main.c: In function ‘main’:
+main.c:20:3: error: statement with no effect [-Werror=unused-value]
+   j == j - 1;
+   ^
+cc1: all warnings being treated as errors
+carrie@ubuntu:/debugging$
+
+We don’t need to assign a new value to j because it doesn’t do anything
+
+
+We want to assign j a new value, not compare it, so it should be j = j - 1 instead of j == j - 1
+
+
+We want to compare j so we need an if statement before j == j - 1
+
 ### 0. Multiple mains
 
 In most projects, we often give you only one main file to test with. For example, this main file is a test for a `postitive_or_negative()` function similar to the one you worked with in [an earlier C project](https://intranet.alxswe.com/rltoken/lKcOFkG-GCivSDXgWgld2g):
