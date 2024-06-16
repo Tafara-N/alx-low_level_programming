@@ -224,13 +224,14 @@ Use a local buffer of 1024 chars in order to call write as little as possible.
 
 - GitHub repository: `printf`
 
-5. My weakness is wearing too much leopard print
-#advanced
-Score: 0.0% (Checks completed: 100.0%)
+### 5. My weakness is wearing too much leopard print
+
 Handle the following custom conversion specifier:
 
-S : prints the string.
-Non printable characters (0 < ASCII value < 32 or >= 127) are printed this way: \x, followed by the ASCII code value in hexadecimal (upper case - always 2 characters)
+- `S` : prints the string.
+- Non printable characters (0 < ASCII value < 32 or >= 127) are printed this way: `\x`, followed by the ASCII code value in hexadecimal (upper case - always 2 characters)
+
+```bash
 alex@ubuntu:~/c/printf$ cat main.c
 #include "main.h"
 
@@ -248,8 +249,9 @@ alex@ubuntu:~/c/printf$ gcc -Wall -Wextra -Werror -pedantic -std=gnu89 main.c
 alex@ubuntu:~/c/printf$ ./a.out
 Best\x0ASchool
 alex@ubuntu:~/c/printf$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `printf`
 
 ### 6. How is the world ruled and led to war? Diplomats lie to journalists and believe these lies when they see them in print
