@@ -54,20 +54,17 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ### Quiz questions
 
-Question #0
+### Question #0
+
 What is the size of the unsigned int data type?
 
+- [ ] 8 bytes
 
-8 bytes
+- [ ] 1 byte
 
+- [ ] 2 bytes
 
-1 byte
-
-
-2 bytes
-
-
-4 bytes
+- [ ] 4 bytes
 
 ### Question #1
 
