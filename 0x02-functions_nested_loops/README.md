@@ -347,21 +347,23 @@ julien@ubuntu:~/0x02$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 
 julien@ubuntu:~/0x02$ ./4-isalpha
 1110
 julien@ubuntu:~/0x02$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x02-functions_nested_loops`
-- File: 4-isalpha.c
+- File: `4-isalpha.c`
 
-5. Sign
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 5. Sign
+
 Write a function that prints the sign of a number.
 
-Prototype: int print_sign(int n);
-Returns 1 and prints + if n is greater than zero
-Returns 0 and prints 0 if n is zero
-Returns -1 and prints - if n is less than zero
+- Prototype: `int print_sign(int n);`
+- Returns `1` and prints `+` if `n` is greater than zero
+- Returns `0` and prints `0` if `n` is zero
+- Returns `-1` and prints `-` if `n` is less than zero
+
+```shell
 julien@ubuntu:~/0x02$ cat 5-main.c
 #include "main.h"
 
@@ -403,11 +405,12 @@ julien@ubuntu:~/0x02$ ./5-sign
 +, 1
 -, /
 julien@ubuntu:~/0x02$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x02-functions_nested_loops`
-- File: 5-sign.c
+- File: `5-sign.c`
 
 6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you
 mandatory
