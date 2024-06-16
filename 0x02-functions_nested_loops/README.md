@@ -193,13 +193,14 @@ julien@ubuntu:~/0x02$
 - Directory: `0x02-functions_nested_loops`
 - File: `0-putchar.c`
 
-1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
+
 Write a function that prints the alphabet, in lowercase, followed by a new line.
 
-Prototype: void print_alphabet(void);
-You can only use _putchar twice in your code
+- Prototype: `void print_alphabet(void);`
+- You can only use `_putchar` twice in your code
+
+```shell
 julien@ubuntu:~/0x02$ cat 1-main.c
 #include "main.h"
 
@@ -217,11 +218,12 @@ julien@ubuntu:~/0x02$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 
 julien@ubuntu:~/0x02$ ./1-alphabet
 abcdefghijklmnopqrstuvwxyz
 julien@ubuntu:~/0x02$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x02-functions_nested_loops`
-- File: 1-alphabet.c
+- File: `1-alphabet.c`
 
 2. 10 x alphabet
 mandatory
