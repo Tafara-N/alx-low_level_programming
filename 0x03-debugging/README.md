@@ -85,9 +85,11 @@ In the `main.c` file, on what line is the first error that the compiler returns?
 
 >You do not have to know exactly what this code does yet (but you will soon!).
 
-Question #1
+### Question #1
+
 This code doesn’t work as intended.
 
+```bash
 #include "main.h"
 
 /**
@@ -115,8 +117,11 @@ int main(void)
 
         return(0);
 }
-Let’s add printf statements to the code. What information do the printf statements tell us about how our code is executed?
+```
 
+Let’s add `printf` statements to the code. What information do the `printf` statements tell us about how our code is executed?
+
+```bash
 #include "main.h"
 
 /**
@@ -152,21 +157,21 @@ int main(void)
 
         return(0);
 }
+```
 
-A printf statement shows that there is an infinite loop in the code
+- [ ] A `printf` statement shows that there is an infinite loop in the code
 
+- [ ] A `printf` statement shows when the for loop is finished
 
-A printf statement shows when the for loop is finished
+- [ ] A `printf` statement shows exactly how many times the loop executes
 
+- [ ] `printf` statements shows that `break` will cause “For loop exited” to print, indicating that the even number is never printed
 
-A printf statement shows exactly how many times the loop executes
+### Question #2
 
-
-printf statements shows that break will cause “For loop exited” to print, indicating that the even number is never printed
-
-Question #2
 The following code gives this incorrect output. Which of the following statements about what is causing the error is true?
 
+```bash
 carrie@ubuntu:/debugging$ cat main.c
 #include <stdio.h>
 
@@ -192,22 +197,26 @@ int main(void)
         return (0);
 }
 carrie@ubuntu:/debugging$
+```
+
+```bash
 carrie@ubuntu:/debugging$ gcc -Wall -Werror -Wextra -pedantic main.c
 carrie@ubuntu:/debugging$ ./a.out
 0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000 <...>
 ^Ccarrie@ubuntu:/debugging$
+```
 
-j never increments so it will always be less than 10
+- [ ] `j` never increments so it will always be less than `10`
 
+- [ ] `j` is always equal to `i` so the loop will never end
 
-j is always equal to i so the loop will never end
+- [ ] `j` never increments so it is always going to print `0`
 
+### Question #3
 
-j never increments so it is always going to print 0
-
-Question #3
 The following code gives this output. What is the error?
 
+```bash
 carrie@ubuntu:/debugging$ cat main.c
 #include <stdio.h>
 
@@ -234,6 +243,9 @@ int main(void)
         return (0);
 }
 carrie@ubuntu:/debugging$
+```
+
+```bash
 carrie@ubuntu:/debugging$ gcc -Wall -Werror -Wextra -pedantic main.
 c
 main.c: In function ‘main’:
@@ -242,14 +254,13 @@ main.c:20:3: error: statement with no effect [-Werror=unused-value]
    ^
 cc1: all warnings being treated as errors
 carrie@ubuntu:/debugging$
+```
 
-We don’t need to assign a new value to j because it doesn’t do anything
+- [ ] We don’t need to assign a new value to `j` because it doesn’t do anything
 
+- [ ] We want to assign `j` a new value, not compare it, so it should be `j = j - 1` instead of `j == j - 1`
 
-We want to assign j a new value, not compare it, so it should be j = j - 1 instead of j == j - 1
-
-
-We want to compare j so we need an if statement before j == j - 1
+- [ ] We want to compare `j` so we need an `i`f statement before `j == j - 1`
 
 ### 0. Multiple mains
 
