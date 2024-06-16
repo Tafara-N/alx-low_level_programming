@@ -191,13 +191,13 @@ What is the ASCII value of `-`?
 
 What is the result of `89 % 7`?
 
-5
+- [ ] 5
 
-0
+- [ ] 0
 
-2
+- [ ] 2
 
-3
+- [ ] 3
 
 ## Tasks
 
