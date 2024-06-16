@@ -203,16 +203,16 @@ alex@ubuntu:~/c/printf$
 Score: 0.0% (Checks completed: 100.0%)
 Handle the following conversion specifiers:
 
-u
-o
-x
-X
-You don’t have to handle the flag characters
-You don’t have to handle field width
-You don’t have to handle precision
-You don’t have to handle the length modifiers
-**Repo:**
+- `u`
+- `o`
+- `x`
+- `X`
+- You don’t have to handle the flag characters
+- You don’t have to handle field width
+- You don’t have to handle precision
+- You don’t have to handle the length modifiers
 
+**Repo:**
 - GitHub repository: `printf`
 
 ### 4. Nothing in fine print is ever good news
