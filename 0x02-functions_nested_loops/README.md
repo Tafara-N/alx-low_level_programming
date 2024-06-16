@@ -309,16 +309,17 @@ julien@ubuntu:~/0x02$
 - Directory: `0x02-functions_nested_loops`
 - File: `3-islower.c`
 
-4. isalpha
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 4. isalpha
+
 Write a function that checks for alphabetic character.
 
-Prototype: int _isalpha(int c);
-Returns 1 if c is a letter, lowercase or uppercase
-Returns 0 otherwise
-FYI: The standard library provides a similar function: isalpha. Run man isalpha to learn more.
+- Prototype: `int _isalpha(int c);`
+- Returns `1` if `c` is a letter, lowercase or uppercase
+- Returns `0` otherwise
 
+FYI: The standard library provides a similar function: `isalpha`. Run `man isalpha` to learn more.
+
+```shell
 julien@ubuntu:~/0x02$ cat 4-main.c
 #include "main.h"
 
