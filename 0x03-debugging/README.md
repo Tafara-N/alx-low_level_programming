@@ -96,13 +96,14 @@ carrie@ubuntu:/debugging$
 - Directory: `0x03-debugging`
 - File: `0-main.c, main.h`
 
-1. Like, comment, subscribe
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 1. Like, comment, subscribe
+
 Copy this main file. Comment out (don’t delete it!) the part of the code that is causing the output to go into an infinite loop.
 
-Don’t add or remove any lines of code, as we will be checking your line count. You are only allowed to comment out existing code.
-You do not have to compile with -Wall -Werror -Wextra -pedantic for this task.
+- Don’t add or remove any lines of code, as we will be checking your line count. You are only allowed to comment out existing code.
+- You do not have to compile with `-Wall -Werror -Wextra -pedantic` for this task.
+
+```bash
 carrie@ubuntu:/debugging$ cat 1-main.c
 #include <stdio.h>
 
@@ -129,8 +130,11 @@ int main(void)
         return (0);
 }
 carrie@ubuntu:/debugging$
+```
+
 Your output should look like this:
 
+```bash
 carrie@ubuntu:/debugging$ gcc -std=gnu89 1-main.c -o 1-main
 carrie@ubuntu:/debugging$ ./1-main
 Infinite loop incoming :(
@@ -138,11 +142,12 @@ Infinite loop avoided! \o/
 carrie@ubuntu:/debugging$ wc -l 1-main.c
 24 1-main.c
 carrie@ubuntu:/debugging$
-Repo:
+```
 
-GitHub repository: alx-low_level_programming
-Directory: 0x03-debugging
-File: 1-main.c
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x03-debugging`
+- File: `1-main.c`
 
 2. 0 > 972?
 mandatory
