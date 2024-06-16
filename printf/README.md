@@ -171,12 +171,13 @@ You don’t have to handle the length modifiers
 
 - GitHub repository: `printf`
 
-2. With a face like mine, I do better in print
-#advanced
-Score: 0.0% (Checks completed: 100.0%)
+### 2. With a face like mine, I do better in print
+
 Handle the following custom conversion specifiers:
 
-b: the unsigned int argument is converted to binary
+- `b`: the unsigned int argument is converted to binary
+
+```bash
 alex@ubuntu:~/c/printf$ cat main.c
 #include "main.h"
 
@@ -194,13 +195,13 @@ alex@ubuntu:~/c/printf$ gcc -Wall -Wextra -Werror -pedantic -std=gnu89 main.c
 alex@ubuntu:~/c/printf$ ./a.out
 1100010
 alex@ubuntu:~/c/printf$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `printf`
 
-3. What one has not experienced, one will never understand in print
-#advanced
-Score: 0.0% (Checks completed: 100.0%)
+### 3. What one has not experienced, one will never understand in print
+
 Handle the following conversion specifiers:
 
 - `u`
