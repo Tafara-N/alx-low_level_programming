@@ -8,11 +8,11 @@
 - [C - Header Files](https://intranet.alxswe.com/rltoken/AS8JW4ObD5gmyX2mgtqV0A) (*stop before the “Once-Only Headers” paragraph*)
 
 ## Additional Resources
-- [C Programming Loops & Functions]()
-- [Functions in C programming]()
+- [C Programming Loops & Functions](https://intranet.alxswe.com/rltoken/gUP3uyA8Y-ENgRJ9QbxWmw)
+- [Functions in C programming](https://intranet.alxswe.com/rltoken/jEOJNPfcm56Pfrrff1ZqBg)
 
 # Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](), **without the help of Google:**
+At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/-ERX2Jh115GIdTUsSixnnA), **without the help of Google:**
 
 General
 What are nested loops and how to use them
