@@ -458,13 +458,14 @@ julien@ubuntu:~/0x02$
 - Directory: `0x02-functions_nested_loops`
 - File: `6-abs.c`
 
-7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
+
 Write a function that prints the last digit of a number.
 
-Prototype: int print_last_digit(int);
-Returns the value of the last digit
+- Prototype: `int print_last_digit(int);`
+- Returns the value of the last digit
+
+```shell
 julien@ubuntu:~/0x02$ cat 7-main.c
 #include "main.h"
 
@@ -488,11 +489,12 @@ julien@ubuntu:~/0x02$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 
 julien@ubuntu:~/0x02$ ./7-last_digit
 8044
 julien@ubuntu:~/0x02$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x02-functions_nested_loops`
-- File: 7-print_last_digit.c
+- File: `7-print_last_digit.c`
 
 8. I'm federal agent Jack Bauer, and today is the longest day of my life
 mandatory
