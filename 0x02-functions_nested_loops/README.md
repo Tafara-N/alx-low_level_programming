@@ -550,13 +550,14 @@ julien@ubuntu:~/0x02$
 - Directory: `0x02-functions_nested_loops`
 - File: `8-24_hours.c`
 
-9. Learn your times table
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 9. Learn your times table
+
 Write a function that prints the 9 times table, starting with 0.
 
-Prototype: void times_table(void);
-Format: see example
+- Prototype: `void times_table(void);`
+- Format: see example
+
+```shell
 julien@ubuntu:~/0x02$ cat 9-main.c
 #include "main.h"
 
@@ -594,11 +595,12 @@ julien@ubuntu:~/0x02$ ./9-times_table | tr ' ' . | cat -e
 0,..8,.16,.24,.32,.40,.48,.56,.64,.72$
 0,..9,.18,.27,.36,.45,.54,.63,.72,.81$
 julien@ubuntu:~/0x02$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x02-functions_nested_loops`
-- File: 9-times_table.c
+- File: `9-times_table.c`
 
 10. a + b
 mandatory
