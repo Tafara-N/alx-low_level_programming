@@ -1,60 +1,65 @@
-Concepts
-For this project, we expect you to look at these concepts:
+# Concepts
 
-Printf function brief - What to know to create your own Printf function
-All about Team Projects + Pairings + FAQ (A must read)
-Group Projects
-Flowcharts
-Pair Programming - How To
-Technical Writing
-Background Context
-Write your own printf function.
+*For this project, we expect you to look at these concepts:*
 
+- [Printf function brief - What to know to create your own Printf function](https://intranet.alxswe.com/concepts/100034)
+- [All about Team Projects + Pairings + FAQ (A must read)](https://intranet.alxswe.com/concepts/100037)
+- [Group Projects](https://intranet.alxswe.com/concepts/111)
+- [Flowcharts](https://intranet.alxswe.com/concepts/130)
+- [Pair Programming - How To](https://intranet.alxswe.com/concepts/121)
+- [Technical Writing](https://intranet.alxswe.com/concepts/225)
 
+# Background Context
+Write your own `printf` function.
 
-^ In this picture, Kris, and Jul
+![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/228/printf.png)
 
-Resources
-Read or watch:
+# Resources
+## Read or watch:
+- [Secrets of printf](https://intranet.alxswe.com/rltoken/7Vw7aUWgwC7JYUrqI4bh4Q)
+- **Group Projects** concept page (*Don’t forget to read this*)
+- **Flowcharts** concept page
 
-Secrets of printf
-Group Projects concept page (Don’t forget to read this)
-Flowcharts concept page
-man or help:
+**man or help**:
+- `printf (3)`
 
-printf (3)
-Requirements
-General
-Allowed editors: vi, vim, emacs
-All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
-All your files should end with a new line
-A README.md file, at the root of the folder of the project is mandatory
-Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
-You are not allowed to use global variables
-No more than 5 functions per file
-In the following examples, the main.c files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own main.c files at compilation. Our main.c files might be different from the one shown in the examples
-The prototypes of all your functions should be included in your header file called main.h
-Don’t forget to push your header file
-All your header files should be include guarded
-Note that we will not provide the _putchar function for this project
-GitHub
-There should be one project repository per group. The other members do not fork the project to ensure only one of the team has the repository in their github account otherwise you risk scoring 0%
+# Requirements
+## General
+- Allowed editors: `vi`, `vim`, `emacs`
+- All your files will be compiled on Ubuntu 20.04 LTS using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
+- All your files should end with a new line
+- A `README.md` file, at the root of the folder of the project is mandatory
+- Your code should use the `Betty` style. It will be checked using [betty-style.pl](https://github.com/alx-tools/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github.com/alx-tools/Betty/blob/master/betty-doc.pl)
+- You are not allowed to use global variables
+- No more than 5 functions per file
+- In the following examples, the `main.c` files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own `main.c` files at compilation. Our `main.c` files might be different from the one shown in the examples
+- The prototypes of all your functions should be included in your header file called `main.h`
+- Don’t forget to push your header file
+- All your header files should be include guarded
+- Note that we will not provide the `_putchar` function for this project
 
-More Info
-Authorized functions and macros
-write (man 2 write)
-malloc (man 3 malloc)
-free (man 3 free)
-va_start (man 3 va_start)
-va_end (man 3 va_end)
-va_copy (man 3 va_copy)
-va_arg (man 3 va_arg)
-Compilation
-Your code will be compiled this way:
+# More Info
+## Authorized functions and macros
+- `write` (`man 2 write`)
+- `malloc` (`man 3 malloc`)
+- `free` (`man 3 free`)
+- `va_start` (`man 3 va_start`)
+- `va_end` (`man 3 va_end`)
+- `va_copy` (`man 3 va_copy`)
+- `va_arg` (`man 3 va_arg`)
+
+# Compilation
+- Your code will be compiled this way:
+
+```
 $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
-As a consequence, be careful not to push any c file containing a main function in the root directory of your project (you could have a test folder containing all your tests files including main functions)
-Our main files will include your main header file (main.h): #include main.h
-You might want to look at the gcc flag -Wno-format when testing with your _printf and the standard printf. Example of test file that you could use:
+```
+
+- As a consequence, be careful not to push any c file containing a `main` function in the root directory of your project (you could have a `test` folder containing all your tests files including `main` functions)
+- Our main files will include your main header file (`main.h`): `#include main.h`
+- You might want to look at the gcc flag `-Wno-format` when testing with your `_printf` and the standard `printf`. Example of test file that you could use:
+
+```bash
 alex@ubuntu:~/c/printf$ cat main.c
 #include <limits.h>
 #include <stdio.h>
@@ -127,13 +132,10 @@ Len:[12]
 Unknown:[%r]
 Unknown:[%r]
 alex@ubuntu:~/c/printf$
-We strongly encourage you to work all together on a set of tests
-If the task does not specify what to do with an edge case, do the same as printf
-Copyright - Plagiarism
-You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
-You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
-You are not allowed to publish any content of this project.
-Any form of plagiarism is strictly forbidden and will result in removal from the program.
+```
+
+- We strongly encourage you to work all together on a set of tests
+- If the task does not specify what to do with an edge case, do the same as `printf`
 
 ## Tasks
 
