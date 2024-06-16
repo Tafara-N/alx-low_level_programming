@@ -149,11 +149,11 @@ carrie@ubuntu:/debugging$
 - Directory: `0x03-debugging`
 - File: `1-main.c`
 
-2. 0 > 972?
-mandatory
-Score: 91.67% (Checks completed: 91.67%)
+### 2. 0 > 972?
+
 This program prints the largest of three integers.
 
+```bash
 carrie@ubuntu:/debugging$ cat 2-main.c
 #include <stdio.h>
 #include "main.h"
@@ -179,6 +179,9 @@ int main(void)
         return (0);
 }
 carrie@ubuntu:/debugging$
+```
+
+```bash
 carrie@ubuntu:/debugging$ cat 2-largest_number.c
 #include "main.h"
 
@@ -211,20 +214,25 @@ int largest_number(int a, int b, int c)
 }
 
 carrie@ubuntu:/debugging$
+```
+
+```bash
 carrie@ubuntu:/debugging$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 2-largest_number.c 2-main.c -o 2-main
 carrie@ubuntu:/debugging$ ./2-main
 0 is the largest number
 carrie@ubuntu:/debugging$
+```
+
 ? That’s definitely not right.
 
-Fix the code in 2-largest_number.c so that it correctly prints out the largest of three numbers, no matter the case.
+Fix the code in `2-largest_number.c` so that it correctly prints out the largest of three numbers, no matter the case.
 
-Line count will not be checked for this task.
-Repo:
+- Line count will not be checked for this task.
 
-GitHub repository: alx-low_level_programming
-Directory: 0x03-debugging
-File: 2-largest_number.c, main.h
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x03-debugging`
+- File: `2-largest_number.c, main.h`
 
 3. Leap year
 mandatory
