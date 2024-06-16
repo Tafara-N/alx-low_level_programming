@@ -346,14 +346,13 @@ R: prints the rot13'ed string
 
 GitHub repository: `printf`
 
-15. *
-#advanced
-Score: 0.0% (Checks completed: 100.0%)
+### 15. *
+
 All the above options work well together.
 
 Well done on completing this project! Let the world hear about this milestone achieved.
 
-Click here to tweet!
+- [Click here to tweet!](https://twitter.com/intent/tweet?text=I+have+successfully+completed+my+printf+project+on+%23ALX_SE+%40facesofalxse)
 
 - **Repo:**
 
