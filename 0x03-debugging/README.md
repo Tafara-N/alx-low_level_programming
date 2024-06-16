@@ -234,11 +234,11 @@ Fix the code in `2-largest_number.c` so that it correctly prints out the largest
 - Directory: `0x03-debugging`
 - File: `2-largest_number.c, main.h`
 
-3. Leap year
-mandatory
-Score: 81.82% (Checks completed: 81.82%)
+### 3. Leap year
+
 This program converts a date to the day of year and determines how many days are left in the year, taking leap year into consideration.
 
+```bash
 carrie@ubuntu:/debugging$ cat 3-main_a.c
 #include <stdio.h>
 #include "main.h"
@@ -269,6 +269,9 @@ int main(void)
 }
 
 carrie@ubuntu:/debugging$
+```
+
+```shell
 carrie@ubuntu:/debugging$ cat 3-convert_day.c
 #include "main.h"
 
@@ -324,6 +327,9 @@ int convert_day(int month, int day)
 }
 
 carrie@ubuntu:/debugging$
+```
+
+```bash
 carrie@ubuntu:/debugging$ cat 3-print_remaining_days.c
 #include <stdio.h>
 #include "main.h"
@@ -364,28 +370,36 @@ void print_remaining_days(int month, int day, int year)
 }
 
 carrie@ubuntu:/debugging$
+```
+
+```bash
 carrie@ubuntu:/debugging$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 3-convert_day.c 3-print_remaining_days.c 3-main_a.c -o 3-main_a
 carrie@ubuntu:/debugging$ ./3-main_a
 Date: 04/01/1997
 Day of the year: 91
 Remaining days: 274
 carrie@ubuntu:/debugging$
-Output looks good for 04/01/1997! Let’s make a new main file 3-main_b.c to try a case that is a leap year: 02/29/2000.
+```
 
+Output looks good for `04/01/1997`! Let’s make a new main file `3-main_b.c` to try a case that is a leap year: `02/29/2000`.
+
+```bash
 carrie@ubuntu:/debugging$ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 3-convert_day.c 3-print_remaining_days.c 3-main_b.c -o 3-main_b
 carrie@ubuntu:/debugging$ ./3-main_b
 Date: 02/29/2000
 Invalid date: 02/29/2000
 carrie@ubuntu:/debugging$
+```
+
 ? That doesn’t seem right.
 
-Fix the print_remaining_days() function so that the output works correctly for all dates and all leap years.
+Fix the `print_remaining_days()` function so that the output works correctly for all dates and all leap years.
 
-Line count will not be checked for this task.
-You can assume that all test cases have valid months (i.e. the value of month will never be less than 1 or greater than 12) and valid days (i.e. the value of day will never be less than 1 or greater than 31).
-You can assume that all test cases have valid month/day combinations (i.e. there will never be a June 31st or November 31st, etc.), but not all month/day/year combinations are valid (i.e. February 29, 1991 or February 29, 2427).
-Repo:
+- Line count will not be checked for this task.
+- You can assume that all test cases have valid months (i.e. the value of `month` will never be less than `1` or greater than `12`) and valid days (i.e. the value of `day` will never be less than `1` or greater than `31`).
+- You can assume that all test cases have valid month/day combinations (i.e. there will never be a June 31st or November 31st, etc.), but not all month/day/year combinations are valid (i.e. February 29, 1991 or February 29, 2427).
 
-GitHub repository: alx-low_level_programming
-Directory: 0x03-debugging
-File: 3-print_remaining_days.c, main.h
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x03-debugging`
+- File: `3-print_remaining_days.c, main.h`
