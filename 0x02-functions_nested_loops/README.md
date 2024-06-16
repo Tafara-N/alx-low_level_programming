@@ -543,11 +543,12 @@ julien@ubuntu:~/0x02$ ./8-24 | tail
 julien@ubuntu:~/0x02$ ./8-24 | wc -l
 1440
 julien@ubuntu:~/0x02$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x02-functions_nested_loops`
-- File: 8-24_hours.c
+- File: `8-24_hours.c`
 
 9. Learn your times table
 mandatory
