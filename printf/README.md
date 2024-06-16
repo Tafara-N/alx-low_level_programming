@@ -290,22 +290,18 @@ Conversion specifiers to handle: d, i, u, o, x, X
 
 - GitHub repository: `printf`
 
-9. Print some money and give it to us for the rain forests
-#advanced
-Score: 0.0% (Checks completed: 100.0%)
+### 9. Print some money and give it to us for the rain forests
+
 Handle the field width for non-custom conversion specifiers.
 
 **Repo:**
-
 - GitHub repository: `printf`
 
-10. The negative is the equivalent of the composer's score, and the print the performance
-#advanced
-Score: 0.0% (Checks completed: 97.62%)
+### 10. The negative is the equivalent of the composer's score, and the print the performance
+
 Handle the precision for non-custom conversion specifiers.
 
 **Repo:**
-
 - GitHub repository: `printf`
 
 ### 11. It's depressing when you're still around and your albums are out of print
