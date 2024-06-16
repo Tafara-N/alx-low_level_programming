@@ -152,7 +152,7 @@ You don’t have to handle the flag characters
 You don’t have to handle field width
 You don’t have to handle precision
 You don’t have to handle the length modifiers
-- **Repo:**
+**Repo:**
 
 - GitHub repository: `printf`
 
@@ -167,7 +167,7 @@ You don’t have to handle the flag characters
 You don’t have to handle field width
 You don’t have to handle precision
 You don’t have to handle the length modifiers
-- **Repo:**
+**Repo:**
 
 - GitHub repository: `printf`
 
@@ -194,7 +194,7 @@ alex@ubuntu:~/c/printf$ gcc -Wall -Wextra -Werror -pedantic -std=gnu89 main.c
 alex@ubuntu:~/c/printf$ ./a.out
 1100010
 alex@ubuntu:~/c/printf$
-- **Repo:**
+**Repo:**
 
 - GitHub repository: `printf`
 
@@ -211,7 +211,7 @@ You don’t have to handle the flag characters
 You don’t have to handle field width
 You don’t have to handle precision
 You don’t have to handle the length modifiers
-- **Repo:**
+**Repo:**
 
 - GitHub repository: `printf`
 
@@ -220,7 +220,7 @@ You don’t have to handle the length modifiers
 Score: 0.0% (Checks completed: 100.0%)
 Use a local buffer of 1024 chars in order to call write as little as possible.
 
-- **Repo:**
+**Repo:**
 
 - GitHub repository: `printf`
 
@@ -248,7 +248,7 @@ alex@ubuntu:~/c/printf$ gcc -Wall -Wextra -Werror -pedantic -std=gnu89 main.c
 alex@ubuntu:~/c/printf$ ./a.out
 Best\x0ASchool
 alex@ubuntu:~/c/printf$
-- **Repo:**
+**Repo:**
 
 - GitHub repository: `printf`
 
@@ -261,7 +261,7 @@ You don’t have to handle the flag characters
 You don’t have to handle field width
 You don’t have to handle precision
 You don’t have to handle the length modifiers
-- **Repo:**
+**Repo:**
 
 - GitHub repository: `printf`
 
@@ -273,7 +273,7 @@ Handle the following flag characters for non-custom conversion specifiers:
 +
 space
 #
-- **Repo:**
+**Repo:**
 
 - GitHub repository: `printf`
 
@@ -286,7 +286,7 @@ l
 h
 Conversion specifiers to handle: d, i, u, o, x, X
 
-- **Repo:**
+**Repo:**
 
 - GitHub repository: `printf`
 
@@ -295,7 +295,7 @@ Conversion specifiers to handle: d, i, u, o, x, X
 Score: 0.0% (Checks completed: 100.0%)
 Handle the field width for non-custom conversion specifiers.
 
-- **Repo:**
+**Repo:**
 
 - GitHub repository: `printf`
 
@@ -304,7 +304,7 @@ Handle the field width for non-custom conversion specifiers.
 Score: 0.0% (Checks completed: 97.62%)
 Handle the precision for non-custom conversion specifiers.
 
-- **Repo:**
+**Repo:**
 
 - GitHub repository: `printf`
 
@@ -313,7 +313,7 @@ Handle the precision for non-custom conversion specifiers.
 Score: 0.0% (Checks completed: 100.0%)
 Handle the 0 flag character for non-custom conversion specifiers.
 
-- **Repo:**
+**Repo:**
 
 - GitHub repository: `printf`
 
@@ -322,7 +322,7 @@ Handle the 0 flag character for non-custom conversion specifiers.
 Score: 0.0% (Checks completed: 100.0%)
 Handle the - flag character for non-custom conversion specifiers.
 
-- **Repo:**
+**Repo:**
 
 - GitHub repository: `printf`
 
@@ -332,7 +332,7 @@ Score: 0.0% (Checks completed: 100.0%)
 Handle the following custom conversion specifier:
 
 r : prints the reversed string
-- **Repo:**
+**Repo:**
 
 - GitHub repository: `printf`
 
@@ -342,8 +342,8 @@ Score: 0.0% (Checks completed: 100.0%)
 Handle the following custom conversion specifier:
 
 R: prints the rot13'ed string
-- **Repo:**
 
+**Repo:**
 - GitHub repository: `printf`
 
 ### 15. *
@@ -354,6 +354,6 @@ Well done on completing this project! Let the world hear about this milestone ac
 
 - [Click here to tweet!](https://twitter.com/intent/tweet?text=I+have+successfully+completed+my+printf+project+on+%23ALX_SE+%40facesofalxse)
 
-- **Repo:**
+**Repo:**
 
 - GitHub repository: `printf`
