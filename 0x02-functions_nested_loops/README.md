@@ -681,13 +681,15 @@ julien@ubuntu:~/0x02$
 - Directory: `0x02-functions_nested_loops`
 - File: `11-print_to_98.c`
 
-12. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself
+### 12. The World looks like a multiplication-table, or a mathematical equation, which, turn it how you will, balances itself
 
-Write a function that prints the n times table, starting with 0.
+Write a function that prints the `n` times table, starting with 0.
 
-Prototype: void print_times_table(int n);
-If n is greater than 15 or less than 0 the function should not print anything
-Format: see example
+- Prototype: `void print_times_table(int n);`
+- If `n` is greater than `15` or less than `0` the function should not print anything
+- Format: see example
+
+```shell
 julien@ubuntu:~/0x02$ cat 100-main.c
 #include "main.h"
 
@@ -763,11 +765,12 @@ $
 0,..11,..22,..33,..44,..55,..66,..77,..88,..99,.110,.121,.132$
 0,..12,..24,..36,..48,..60,..72,..84,..96,.108,.120,.132,.144$
 julien@ubuntu:~/0x02$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x02-functions_nested_loops`
-- File: 100-times_table.c
+- File: `100-times_table.c`
 
 13. Nature made the natural numbers; All else is the work of women
 
