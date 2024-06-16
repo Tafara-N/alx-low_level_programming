@@ -49,18 +49,21 @@ You do not have to understand the call by reference (address), stack, static var
 
 ### 0. _putchar
 
-Write a program that prints _putchar, followed by a new line.
+Write a program that prints `_putchar`, followed by a new line.
 
-The program should return 0
+- The program should return `0`
+
+```shell
 julien@ubuntu:~/0x02$  gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 0-putchar.c -o 0-putchar
 julien@ubuntu:~/0x02$ ./0-putchar
 _putchar
 julien@ubuntu:~/0x02$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x02-functions_nested_loops`
-- File: 0-putchar.c
+- File: `0-putchar.c`
 
 1. I sometimes suffer from insomnia. And when I can't fall asleep, I play what I call the alphabet game
 mandatory
