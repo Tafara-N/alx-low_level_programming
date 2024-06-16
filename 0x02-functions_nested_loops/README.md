@@ -496,13 +496,14 @@ julien@ubuntu:~/0x02$
 - Directory: `0x02-functions_nested_loops`
 - File: `7-print_last_digit.c`
 
-8. I'm federal agent Jack Bauer, and today is the longest day of my life
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 8. I'm federal agent Jack Bauer, and today is the longest day of my life
+
 Write a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 
-Prototype: void jack_bauer(void);
-You can listen to this soundtrack while coding :)
+- Prototype: `void jack_bauer(void);`
+- You can listen to [this soundtrack](https://intranet.alxswe.com/rltoken/aNwRcWg7MPM1J2lYuuuBjA) while coding :)
+
+```shell
 julien@ubuntu:~/0x02$ cat 8-main.c
 #include "main.h"
 
