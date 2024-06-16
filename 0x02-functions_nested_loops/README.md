@@ -225,13 +225,14 @@ julien@ubuntu:~/0x02$
 - Directory: `0x02-functions_nested_loops`
 - File: `1-alphabet.c`
 
-2. 10 x alphabet
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 2. 10 x alphabet
+
 Write a function that prints 10 times the alphabet, in lowercase, followed by a new line.
 
-Prototype: void print_alphabet_x10(void);
-You can only use _putchar twice in your code
+- Prototype: `void print_alphabet_x10(void);`
+- You can only use `_putchar` twice in your code
+
+```shell
 julien@ubuntu:~/0x02$ cat 2-main.c
 #include "main.h"
 
@@ -258,11 +259,12 @@ abcdefghijklmnopqrstuvwxyz
 abcdefghijklmnopqrstuvwxyz
 abcdefghijklmnopqrstuvwxyz
 julien@ubuntu:~/0x02$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x02-functions_nested_loops`
-- File: 2-print_alphabet_x10.c
+- File: `2-print_alphabet_x10.c`
 
 3. islower
 mandatory
