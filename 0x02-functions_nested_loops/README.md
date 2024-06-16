@@ -412,14 +412,15 @@ julien@ubuntu:~/0x02$
 - Directory: `0x02-functions_nested_loops`
 - File: `5-sign.c`
 
-6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 6. There is no such thing as absolute value in this world. You can only estimate what a thing is worth to you
+
 Write a function that computes the absolute value of an integer.
 
-Prototype: int _abs(int);
-FYI: The standard library provides a similar function: abs. Run man abs to learn more.
+- Prototype: `int _abs(int);`
 
+- FYI: The standard library provides a similar function: `abs`. Run `man abs` to learn more.
+
+```shell
 julien@ubuntu:~/0x02$ cat 6-main.c
 #include "main.h"
 #include <stdio.h>
@@ -450,11 +451,12 @@ julien@ubuntu:~/0x02$ ./6-abs
 1
 98
 julien@ubuntu:~/0x02$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x02-functions_nested_loops`
-- File: 6-abs.c
+- File: `6-abs.c`
 
 7. There are only 3 colors, 10 digits, and 7 notes; it's what we do with them that's important
 mandatory
