@@ -97,35 +97,29 @@ if {a > b}
 (
   return {a};
 )
-Question #2
-What is the size of the char data type?
+### Question #2
 
+What is the size of the `char` data type?
 
-8 bytes
+- [ ] 8 bytes
 
+- [ ] 1 byte
 
-1 byte
+- [ ] 2 bytes
 
+- [ ] 4 bytes
 
-2 bytes
+### Question #3
 
+What is the size of the `float` data type?
 
-4 bytes
+- [ ] 8 bytes
 
-Question #3
-What is the size of the float data type?
+- [ ] 1 byte
 
+- [ ] 2 bytes
 
-8 bytes
-
-
-1 byte
-
-
-2 bytes
-
-
-4 bytes
+- [ ] 4 bytes
 
 ### Question #4
 
