@@ -177,15 +177,13 @@ What is the ASCII value of 5?
 
 5
 
-Question #9
-What is the ASCII value of -?
+### Question #9
 
+What is the ASCII value of -?
 
 45
 
-
 3
-
 
 47
 
