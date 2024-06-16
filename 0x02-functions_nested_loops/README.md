@@ -179,7 +179,7 @@ What is the ASCII value of 5?
 
 ### Question #9
 
-What is the ASCII value of -?
+What is the ASCII value of `-`?
 
 45
 
@@ -189,7 +189,7 @@ What is the ASCII value of -?
 
 ### Question #10
 
-What is the result of 89 % 7?
+What is the result of `89 % 7`?
 
 5
 
