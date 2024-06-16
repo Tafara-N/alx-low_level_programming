@@ -52,6 +52,122 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - You are not allowed to use `system`
 - Your code should use the Betty style. It will be checked using [betty-style.pl](https://github.com/alx-tools/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github.com/alx-tools/Betty/blob/master/betty-doc.pl)
 
+### Quiz questions
+
+Question #0
+What is the size of the unsigned int data type?
+
+
+8 bytes
+
+
+1 byte
+
+
+2 bytes
+
+
+4 bytes
+
+Question #1
+Which of the following are valid if statements in ANSI C and Betty-compliant? (Considering a and b two variables of type int)
+
+Please select all correct answers
+
+
+if (a > b)
+  return (a);
+
+if a > b
+{
+  return (a);
+}
+
+if (a > b)
+{
+  return (a);
+}
+
+if ((((((a > b))))))
+{
+  return (a);
+}
+
+if {a > b}
+(
+  return {a};
+)
+Question #2
+What is the size of the char data type?
+
+
+8 bytes
+
+
+1 byte
+
+
+2 bytes
+
+
+4 bytes
+
+Question #3
+What is the size of the float data type?
+
+
+8 bytes
+
+
+1 byte
+
+
+2 bytes
+
+
+4 bytes
+
+### Question #4
+
+Which of the following are valid `for` statements in ANSI C and Betty-compliant? (Considering `a` and `b` two variables of type `int`)
+
+Please select all correct answers
+
+```c
+a = 0;
+for (; a < b;)
+{
+    printf("%d\n", a++);
+}
+```
+
+```c
+for (a = 0; a < b; a++)
+{
+    printf("%d\n", a);
+}
+```
+
+```c
+for (a = 0; a < b; a++)
+    printf("%d\n", a);
+```
+
+```c
+a = 0;
+for (a < b;;)
+{
+    printf("%d\n", a++);
+}
+```
+
+```c
+for (int a = 0; a < b; a++)
+{
+    printf("%d\n", a);
+}
+```
+
 ### 0. Positive anything is better than negative nothing
 
 This program will assign a random number to the variable `n` each time it is executed. Complete the source code in order to print whether the number stored in the variable `n` is positive or negative.
