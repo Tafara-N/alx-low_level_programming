@@ -308,22 +308,18 @@ Handle the precision for non-custom conversion specifiers.
 
 - GitHub repository: `printf`
 
-11. It's depressing when you're still around and your albums are out of print
-#advanced
-Score: 0.0% (Checks completed: 100.0%)
-Handle the 0 flag character for non-custom conversion specifiers.
+### 11. It's depressing when you're still around and your albums are out of print
+
+Handle the `0` flag character for non-custom conversion specifiers.
 
 **Repo:**
-
 - GitHub repository: `printf`
 
-12. Every time that I wanted to give up, if I saw an interesting textile, print what ever, suddenly I would see a collection
-#advanced
-Score: 0.0% (Checks completed: 100.0%)
+### 12. Every time that I wanted to give up, if I saw an interesting textile, print what ever, suddenly I would see a collection
+
 Handle the - flag character for non-custom conversion specifiers.
 
 **Repo:**
-
 - GitHub repository: `printf`
 
 ###13. Print is the sharpest and the strongest weapon of our party
