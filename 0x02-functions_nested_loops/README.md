@@ -124,19 +124,16 @@ What is the ASCII value of A?
 12
 
 Question #5
-What is the result of 12 % 10?
 
+What is the result of `12 % 10`?
 
-3
+- [ ] 3
 
+- [ ] 0
 
-0
+- [ ] 1
 
-
-1
-
-
-2
+- [ ] 2
 
 ### Question #6
 
