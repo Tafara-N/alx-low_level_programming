@@ -108,22 +108,19 @@ What is the ASCII value of J?
 
 74
 
-Question #4
-What is the ASCII value of A?
+### Question #4
 
+What is the ASCII value of `A`?
 
-1
+- [ ] 1
 
+- [ ] 97
 
-97
+- [ ] 65
 
+- [ ] 12
 
-65
-
-
-12
-
-Question #5
+### Question #5
 
 What is the result of `12 % 10`?
 
