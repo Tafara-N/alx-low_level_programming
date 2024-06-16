@@ -153,17 +153,15 @@ What is the ASCII value of a?
 
 12
 
-Question #7
-What is the ASCII value of 0?
+### Question #7
 
+What is the ASCII value of `0`?
 
-79
+- [ ] 79
 
+- [ ] 0
 
-0
-
-
-48
+- [ ] 48
 
 ### Question #8
 
