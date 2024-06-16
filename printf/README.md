@@ -277,17 +277,16 @@ space
 
 - GitHub repository: `printf`
 
-8. Sarcasm is lost in print
-#advanced
-Score: 0.0% (Checks completed: 100.0%)
+### 8. Sarcasm is lost in print
+
 Handle the following length modifiers for non-custom conversion specifiers:
 
-l
-h
-Conversion specifiers to handle: d, i, u, o, x, X
+- `l`
+- `h`
+
+Conversion specifiers to handle: `d`, `i`, `u`, `o`, `x`, `X`
 
 **Repo:**
-
 - GitHub repository: `printf`
 
 ### 9. Print some money and give it to us for the rain forests
