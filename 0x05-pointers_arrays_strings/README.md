@@ -363,14 +363,15 @@ julien@ubuntu:~/0x05$
 - Directory: `0x05-pointers_arrays_strings`
 - File: `2-strlen.c`
 
-3. I do not fear computers. I fear the lack of them
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Write a function that prints a string, followed by a new line, to stdout.
+### 3. I do not fear computers. I fear the lack of them
 
-Prototype: void _puts(char *str);
-FYI: The standard library provides a similar function: puts. Run man puts to learn more.
+Write a function that prints a string, followed by a new line, to `stdout`.
 
+- Prototype: `void _puts(char *str);`
+
+FYI: The standard library provides a similar function: `puts`. Run `man puts` to learn more.
+
+```bash
 julien@ubuntu:~/0x05$ cat 3-main.c
 #include "main.h"
 
@@ -391,12 +392,12 @@ julien@ubuntu:~/0x05$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 
 julien@ubuntu:~/0x05$ ./3-puts
 I do not fear computers. I fear the lack of them - Isaac Asimov
 julien@ubuntu:~/0x05$
+```
 
 **Repo:**
-
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
-- File: 3-puts.c
+- File: `3-puts.c`
 
 4. I can only go one way. I've not got a reverse gear
 mandatory
