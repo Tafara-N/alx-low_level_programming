@@ -52,20 +52,21 @@ You do not need to learn about pointers to functions, pointers to pointers, mult
 
 ### Quiz questions
 
-Question #0
+### Question #0
+
 We declare the following variable
 
+```c
 int arr[5];
-What is the equivalent of typing arr[2]?
+```
 
+What is the equivalent of typing `arr[2]`?
 
-arr + 2
+- [ ] arr + 2
 
+- [ ] *arr + 2
 
-*arr + 2
-
-
-*(arr + 2)
+- [ ] *(arr + 2)
 
 ### Question #1
 
