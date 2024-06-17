@@ -218,20 +218,17 @@ Accessing
 
 Dereferencing
 
-Question #10
+### Question #10
+
 What happens when one tries to access an illegal memory location?
 
+- [ ] There’s a chance for the computer to catch fire, and sometimes even explode
 
-There’s a chance for the computer to catch fire, and sometimes even explode
+- [ ] The operation is ignored
 
+- [ ] Segmentation fault
 
-The operation is ignored
-
-
-Segmentation fault
-
-
-The computer shuts down
+- [ ] The computer shuts down
 
 ### Question #11
 
