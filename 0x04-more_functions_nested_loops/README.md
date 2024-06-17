@@ -285,16 +285,17 @@ julien@ubuntu:~/0x04$
 - Directory: `0x04-more_functions_nested_loops`
 - File: `0-isupper.c`
 
-1. isdigit
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Write a function that checks for a digit (0 through 9).
+### 1. isdigit
 
-Prototype: int _isdigit(int c);
-Returns 1 if c is a digit
-Returns 0 otherwise
-FYI: The standard library provides a similar function: isdigit. Run man isdigit to learn more.
+Write a function that checks for a digit (`0` through `9`).
 
+- Prototype: `int _isdigit(int c);`
+- Returns `1` if `c` is a digit
+- Returns `0` otherwise
+
+FYI: The standard library provides a similar function: `isdigit`. Run `man isdigit` to learn more.
+
+```bash
 julien@ubuntu:~/0x04$ cat 1-main.c
 #include "main.h"
 #include <stdio.h>
@@ -319,8 +320,9 @@ julien@ubuntu:~/0x04$ ./1-isdigit
 0: 1
 a: 0
 julien@ubuntu:~/0x04$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x04-more_functions_nested_loops`
 - File: `1-isdigit.c`
