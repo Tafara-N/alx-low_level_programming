@@ -131,9 +131,11 @@ while (i < 10)
 
 0112233445
 
-Question #4
+### Question #4
+
 What is the output of the following piece of code?
 
+```c
 int i;
 
 i = 0;
@@ -142,36 +144,38 @@ while (i < 10)
     printf("%d", i % 2);
     i++;
 }
+```
 
-0101010101
+- [ ] 0101010101
 
+- [ ] 0123456789
 
-0123456789
+- [ ] 1010101010
 
+### Question #5
 
-1010101010
-
-Question #5
 What is the output of the following piece of code?
 
+```c
 int i;
 
 for (i = 0; i < 10; i++)
 {
     printf("%d", i * 2);
 }
+```
 
-0123456789
+- [ ] 0123456789
 
+- [ ] 2468101214161820
 
-2468101214161820
+- [ ] 024681012141618
 
+### Question #6
 
-024681012141618
-
-Question #6
 What is the output of the following piece of code?
 
+```c
 int i;
 
 i = -9;
@@ -180,19 +184,18 @@ while (i < 0)
     printf("%d", -i);
     i++;
 }
+```
 
--9-8-7-6-5-4-3-2-1
+- [ ] -9-8-7-6-5-4-3-2-1
 
+- [ ] 9876543210
 
-9876543210
+- [ ] 987654321
 
+- [ ] -9-8-7-6-5-4-3-2-10
 
-987654321
+### Question #7
 
-
--9-8-7-6-5-4-3-2-10
-
-Question #7
 What is the output of the following piece of code?
 
 ```c
