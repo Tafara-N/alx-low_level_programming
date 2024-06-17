@@ -89,7 +89,7 @@ julien@ubuntu:~/0x05$
 
 Repo:
 GitHub repository: alx-low_level_programming
-Directory: 0x05-pointers_arrays_strings
+- Directory: `0x05-pointers_arrays_strings`
 File: `0-reset_to_98.c`
 
 1. Don't swap horses in crossing a stream
@@ -127,7 +127,7 @@ julien@ubuntu:~/0x05$
 Repo:
 
 GitHub repository: alx-low_level_programming
-Directory: 0x05-pointers_arrays_strings
+- Directory: `0x05-pointers_arrays_strings`
 File: 1-swap.c
 
 2. This report, by its very length, defends itself against the risk of being read
@@ -164,7 +164,7 @@ julien@ubuntu:~/0x05$
 Repo:
 
 GitHub repository: alx-low_level_programming
-Directory: 0x05-pointers_arrays_strings
+- Directory: `0x05-pointers_arrays_strings`
 File: 2-strlen.c
 
 3. I do not fear computers. I fear the lack of them
@@ -199,7 +199,7 @@ julien@ubuntu:~/0x05$
 Repo:
 
 GitHub repository: alx-low_level_programming
-Directory: 0x05-pointers_arrays_strings
+- Directory: `0x05-pointers_arrays_strings`
 File: 3-puts.c
 
 4. I can only go one way. I've not got a reverse gear
@@ -231,7 +231,7 @@ julien@ubuntu:~/0x05$
 Repo:
 
 GitHub repository: alx-low_level_programming
-Directory: 0x05-pointers_arrays_strings
+- Directory: `0x05-pointers_arrays_strings`
 File: 4-print_rev.c
 
 5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes
@@ -266,7 +266,7 @@ julien@ubuntu:~/0x05$
 Repo:
 
 GitHub repository: alx-low_level_programming
-Directory: 0x05-pointers_arrays_strings
+- Directory: `0x05-pointers_arrays_strings`
 File: 5-rev_string.c
 
 6. Half the lies they tell about me aren't true
@@ -298,7 +298,7 @@ julien@ubuntu:~/0x05$
 Repo:
 
 GitHub repository: alx-low_level_programming
-Directory: 0x05-pointers_arrays_strings
+- Directory: `0x05-pointers_arrays_strings`
 File: 6-puts2.c
 
 7. Winning is only half of it. Having fun is the other half
@@ -332,7 +332,7 @@ julien@ubuntu:~/0x05$
 Repo:
 
 GitHub repository: alx-low_level_programming
-Directory: 0x05-pointers_arrays_strings
+- Directory: `0x05-pointers_arrays_strings`
 File: 7-puts_half.c
 
 8. Arrays are not pointers
@@ -372,7 +372,7 @@ julien@ubuntu:~/0x05$
 Repo:
 
 GitHub repository: alx-low_level_programming
-Directory: 0x05-pointers_arrays_strings
+- Directory: `0x05-pointers_arrays_strings`
 File: 8-print_array.c
 
 9. strcpy
@@ -411,7 +411,7 @@ julien@ubuntu:~/0x05$
 Repo:
 
 GitHub repository: alx-low_level_programming
-Directory: 0x05-pointers_arrays_strings
+- Directory: `0x05-pointers_arrays_strings`
 File: 9-strcpy.c
 
 10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
@@ -474,7 +474,7 @@ julien@ubuntu:~/0x05$
 Repo:
 
 GitHub repository: alx-low_level_programming
-Directory: 0x05-pointers_arrays_strings
+- Directory: `0x05-pointers_arrays_strings`
 File: 100-atoi.c
 
 11. Don't hate the hacker, hate the code
@@ -493,5 +493,5 @@ julien@ubuntu:~/0x05$
 Repo:
 
 GitHub repository: alx-low_level_programming
-Directory: 0x05-pointers_arrays_strings
+- Directory: `0x05-pointers_arrays_strings`
 File: 101-keygen.c
