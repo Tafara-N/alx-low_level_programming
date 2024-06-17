@@ -111,9 +111,11 @@ for (i = 48; i < 58; i++)
 
 School
 
-Question #3
+### Question #3
+
 What is the output of the following piece of code?
 
+```c
 int i;
 
 i = 0;
@@ -122,14 +124,13 @@ while (i < 10)
     i++;
     printf("%d", i / 2);
 }
+```
 
-0011223344
+- [ ] 0011223344
 
+- [ ] 0123456789
 
-0123456789
-
-
-0112233445
+- [ ] 0112233445
 
 ### Question #4
 
