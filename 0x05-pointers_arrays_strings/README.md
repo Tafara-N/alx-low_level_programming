@@ -172,24 +172,24 @@ What is the size of a pointer to an int (on a 64-bit architecture)
 
 4 bytes
 
-Question #7
-What is the value of n after the following code is executed?
+### Question #7
 
+What is the value of `n` after the following code is executed?
+
+```c
 int n = 98;
 int *p = &n;
 
 *p = 402;
+```
 
-402
+- [ ] 402
 
+- [ ] 0
 
-0
+- [ ] 98
 
-
-98
-
-
-99
+- [ ] 99
 
 ### Question #8
 
