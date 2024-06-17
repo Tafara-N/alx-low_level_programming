@@ -157,20 +157,17 @@ What is the identifier to print an address with printf?
 
 %p
 
-Question #6
-What is the size of a pointer to an int (on a 64-bit architecture)
+### Question #6
 
+What is the size of a pointer to an `int` (on a 64-bit architecture)
 
-8 bytes
+- [ ] 8 bytes
 
+- [ ] 1 byte
 
-1 byte
+- [ ] 2 bytes
 
-
-2 bytes
-
-
-4 bytes
+- [ ] 4 bytes
 
 ### Question #7
 
