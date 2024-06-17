@@ -689,21 +689,23 @@ julien@ubuntu:~/0x05$
 - Directory: `0x05-pointers_arrays_strings`
 - File: `100-atoi.c`
 
-11. Don't hate the hacker, hate the code
-#advanced
-Score: 100.0% (Checks completed: 100.0%)
-Create a program that generates random valid passwords for the program 101-crackme.
+### 11. Don't hate the hacker, hate the code
 
-You are allowed to use the standard library
-You don’t have to pass the betty-style tests (you still need to pass the betty-doc tests)
-man srand, rand, time
-gdb and objdump can help
+Create a program that generates random valid passwords for the program [101-crackme](https://github.com/alx-tools/0x04.c).
+
+- You are allowed to use the standard library
+- You don’t have to pass the `betty-style` tests (you still need to pass the `betty-doc` tests)
+- `man srand`, `rand`, `time`
+- `gdb` and `objdump` can help
+
+```bash
 julien@ubuntu:~/0x05$ gcc -Wall -pedantic -Werror -Wextra 101-keygen.c -o 101-keygen
 julien@ubuntu:~/0x05$ ./101-crackme "`./101-keygen`"
 Tada! Congrats
 julien@ubuntu:~/0x05$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
-- File: 101-keygen.c
+- File: `101-keygen.c`
