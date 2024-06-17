@@ -327,12 +327,13 @@ julien@ubuntu:~/0x04$
 - Directory: `0x04-more_functions_nested_loops`
 - File: `1-isdigit.c`
 
-2. Collaboration is multiplication
-mandatory
-Score: 85.71% (Checks completed: 85.71%)
+### 2. Collaboration is multiplication
+
 Write a function that multiplies two integers.
 
-Prototype: int mul(int a, int b);
+- Prototype: `int mul(int a, int b);`
+
+```bash
 julien@ubuntu:~/0x04$ cat 2-main.c
 #include "main.h"
 #include <stdio.h>
@@ -353,11 +354,12 @@ julien@ubuntu:~/0x04$ ./2-mul
 100352
 -1646592
 julien@ubuntu:~/0x04$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x04-more_functions_nested_loops`
-- File: 2-mul.c
+- File: `2-mul.c`
 
 3. The numbers speak for themselves
 mandatory
