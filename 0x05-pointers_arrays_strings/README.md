@@ -91,56 +91,53 @@ What is the size in memory of the variable arr?
 
 8 bytes
 
-Question #2
-What is the value of n after the following code is executed?
+### Question #2
 
+What is the value of `n` after the following code is executed?
+
+```c
 int n = 98;
 int *p = &n;
+```
 
-402
+- [ ] 402
 
+- [ ] 0
 
-0
+- [ ] 98
 
+- [ ] 99
 
-98
+### Question #3
 
+What is the value of `n` after the following code is executed?
 
-99
-
-Question #3
-What is the value of n after the following code is executed?
-
+```c
 int n = 98;
 int *p = &n;
 
 p = 402;
+```
 
-402
+- [ ] 402
 
+- [ ] 0
 
-0
+- [ ] 98
 
+- [ ] 99
 
-98
+### Question #4
 
+What is the size of a pointer to a `char` (on a 64-bit architecture)
 
-99
+- [ ] 8 bytes
 
-Question #4
-What is the size of a pointer to a char (on a 64-bit architecture)
+- [ ] 1 byte
 
+- [ ] 2 bytes
 
-8 bytes
-
-
-1 byte
-
-
-2 bytes
-
-
-4 bytes
+- [ ] 4 bytes
 
 ### Question #5
 
