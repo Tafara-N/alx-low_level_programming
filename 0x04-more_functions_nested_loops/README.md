@@ -426,13 +426,14 @@ julien@ubuntu:~/0x04$
 - Directory: `0x04-more_functions_nested_loops`
 - File: `4-print_most_numbers.c`
 
-5. Numbers constitute the only universal language
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Write a function that prints 10 times the numbers, from 0 to 14, followed by a new line.
+### 5. Numbers constitute the only universal language
 
-Prototype: void more_numbers(void);
-You can only use _putchar three times in your code
+Write a function that prints 10 times the numbers, from `0` to `14`, followed by a new line.
+
+- Prototype: `void more_numbers(void);`
+- You can only use `_putchar` three times in your code
+
+```bash
 julien@ubuntu:~/0x04$ cat 5-main.c
 #include "main.h"
 
@@ -459,11 +460,12 @@ julien@ubuntu:~/0x04$ ./5-more_numbers
 01234567891011121314
 01234567891011121314
 julien@ubuntu:~/0x04
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x04-more_functions_nested_loops`
-- File: 5-more_numbers.c
+- File: `5-more_numbers.c`
 
 6. The shortest distance between two points is a straight line
 mandatory
