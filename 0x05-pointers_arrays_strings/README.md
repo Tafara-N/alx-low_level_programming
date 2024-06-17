@@ -1,23 +1,26 @@
-Concepts
-For this project, we expect you to look at these concepts:
+# Concepts
 
-Struggling with the sandbox? Try this: Using Docker & WSL on your local host
-Pointers and arrays
-Data Structures
+*For this project, we expect you to look at these concepts:*
+
+- [Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://intranet.alxswe.com/concepts/100039)
+- [Pointers and arrays](https://intranet.alxswe.com/concepts/60)
+- [Data Structures](https://intranet.alxswe.com/concepts/120)
 
 ![C ins't hard](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/216/IMG_2410.JPG)
 
-Resources
-Read or watch:
+# Resources
 
-C - Arrays
-C - Pointers
-C - Strings
-Memory Layout
-Additional Resource
-Arrays & Pointers in C Programming Explained
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+## Read or watch:
+- [C - Arrays](https://intranet.alxswe.com/rltoken/PVi2XMuApOK3jfhsoqsyXw)
+- [C - Pointers](https://intranet.alxswe.com/rltoken/oyHybzYBeFiLUMALpb_usA)
+- [C - Strings](https://intranet.alxswe.com/rltoken/sUeh9qDyW9pePOfJIpx_Bw)
+- [Memory Layout](https://intranet.alxswe.com/rltoken/0k6CD2ZMzSFOMUxMOBiAlQ)
+
+## Additional Resource
+- [Arrays & Pointers in C Programming Explained](https://intranet.alxswe.com/rltoken/fAbvIu4ESCb1JcE3EU1Kmw)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/OLGzIaD19ia5NZ-WCMckeg), **without the help of Google:**
 
 General
 What are pointers and how to use them
