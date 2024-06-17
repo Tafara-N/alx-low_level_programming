@@ -393,14 +393,15 @@ julien@ubuntu:~/0x04$
 - Directory: `0x04-more_functions_nested_loops`
 - File: `3-print_numbers.c`
 
-4. I believe in numbers and signs
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Write a function that prints the numbers, from 0 to 9, followed by a new line.
+### 4. I believe in numbers and signs
 
-Prototype: void print_most_numbers(void);
-Do not print 2 and 4
-You can only use _putchar twice in your code
+Write a function that prints the numbers, from `0` to `9`, followed by a new line.
+
+- Prototype: `void print_most_numbers(void);`
+- Do not print `2` and `4`
+- You can only use `_putchar` twice in your code
+
+```bash
 julien@ubuntu:~/0x04$ cat 4-main.c
 #include "main.h"
 
@@ -418,11 +419,12 @@ julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 
 julien@ubuntu:~/0x04$ ./4-print_most_numbers
 01356789
 julien@ubuntu:~/0x04$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x04-more_functions_nested_loops`
-- File: 4-print_most_numbers.c
+- File: `4-print_most_numbers.c`
 
 5. Numbers constitute the only universal language
 mandatory
