@@ -68,9 +68,11 @@ int some_function(void)
 
 402
 
-Question #1
+### Question #1
+
 What is the return value of the following function?
 
+```c
 int some_function(void)
 {
     int i;
@@ -81,17 +83,15 @@ int some_function(void)
     }
     return(i);
 }
+```
 
-0123456789
+- [ ] 0123456789
 
+- [ ] 0
 
-0
+- [ ] 9
 
-
-9
-
-
-10
+- [ ] 10
 
 ### Question #2
 
