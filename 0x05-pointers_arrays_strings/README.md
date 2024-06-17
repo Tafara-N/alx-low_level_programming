@@ -582,15 +582,17 @@ julien@ubuntu:~/0x05$
 - Directory: `0x05-pointers_arrays_strings`
 - File: `8-print_array.c`
 
-9. strcpy
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Prototype: char *_strcpy(char *dest, char *src);
-Write a function that copies the string pointed to by src, including the terminating null byte (\0), to the buffer pointed to by dest.
+### 9. strcpy
 
-Return value: the pointer to dest
-FYI: The standard library provides a similar function: strcpy. Run man strcpy to learn more.
+- Prototype: `char *_strcpy(char *dest, char *src);`
 
+Write a function that copies the string pointed to by `src`, including the terminating null byte (`\0`), to the buffer pointed to by `dest`.
+
+- Return value: the pointer to `dest`
+
+FYI: The standard library provides a similar function: `strcpy`. Run `man strcpy` to learn more.
+
+```bash
 julien@ubuntu:~/0x05$ cat 9-main.c
 #include "main.h"
 #include <stdio.h>
@@ -615,11 +617,12 @@ julien@ubuntu:~/0x05$ ./9-strcpy
 First, solve the problem. Then, write the code
 First, solve the problem. Then, write the code
 julien@ubuntu:~/0x05$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
-- File: 9-strcpy.c
+- File: `9-strcpy.c`
 
 10. Great leaders are willing to sacrifice the numbers to save the people. Poor leaders sacrifice the people to save the numbers
 #advanced
