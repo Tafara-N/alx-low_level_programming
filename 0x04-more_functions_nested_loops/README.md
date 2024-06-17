@@ -467,16 +467,17 @@ julien@ubuntu:~/0x04
 - Directory: `0x04-more_functions_nested_loops`
 - File: `5-more_numbers.c`
 
-6. The shortest distance between two points is a straight line
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 6. The shortest distance between two points is a straight line
+
 Write a function that draws a straight line in the terminal.
 
-Prototype: void print_line(int n);
-You can only use _putchar function to print
-Where n is the number of times the character _ should be printed
-The line should end with a \n
-If n is 0 or less, the function should only print \n
+- Prototype: `void print_line(int n);`
+- You can only use `_putchar` function to print
+- Where `n` is the number of times the character `_` should be printed
+- The line should end with a `\n`
+- If `n` is `0` or less, the function should only print `\n`
+
+```bash
 julien@ubuntu:~/0x04$ cat 6-main.c
 #include "main.h"
 
@@ -500,11 +501,12 @@ __$
 __________$
 $
 julien@ubuntu:~/0x04$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x04-more_functions_nested_loops`
-- File: 6-print_line.c
+- File: `6-print_line.c`
 
 7. I feel like I am diagonally parked in a parallel universe
 mandatory
