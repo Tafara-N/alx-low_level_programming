@@ -470,12 +470,13 @@ julien@ubuntu:~/0x05$
 - Directory: `0x05-pointers_arrays_strings`
 - File: `5-rev_string.c`
 
-6. Half the lies they tell about me aren't true
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 6. Half the lies they tell about me aren't true
+
 Write a function that prints every other character of a string, starting with the first character, followed by a new line.
 
-Prototype: void puts2(char *str);
+- Prototype: `void puts2(char *str);`
+
+```bash
 julien@ubuntu:~/0x05$ cat 6-main.c
 #include "main.h"
 
@@ -496,11 +497,12 @@ julien@ubuntu:~/0x05$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 
 julien@ubuntu:~/0x05$ ./6-puts2
 02468
 julien@ubuntu:~/0x05$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
-- File: 6-puts2.c
+- File: `6-puts2.c`
 
 7. Winning is only half of it. Having fun is the other half
 mandatory
