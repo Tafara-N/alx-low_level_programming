@@ -67,29 +67,27 @@ arr + 2
 
 *(arr + 2)
 
-Question #1
+### Question #1
+
 We declare the following variable
 
+```c
 int arr[5];
-What is the size in memory of the variable arr?
+```
 
+What is the size in memory of the variable `arr`?
 
-20 bytes
+- [ ] 20 bytes
 
+- [ ] 32 bytes
 
-32 bytes
+- [ ] 4 bytes
 
+- [ ] 5 bytes
 
-4 bytes
+- [ ] 10 bytes
 
-
-5 bytes
-
-
-10 bytes
-
-
-8 bytes
+- [ ] 8 bytes
 
 ### Question #2
 
