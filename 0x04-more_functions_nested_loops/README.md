@@ -45,15 +45,200 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 - Don’t forget to push your header file
 
-More Info
+# More Info
+
 You do not have to understand the call by reference (address), stack, static variables, recursions or arrays, yet.
 
-Quiz questions
-Great! You've completed the quiz successfully! Keep going! (Show quiz)
-Tasks
-0. isupper
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### Quiz questions
+
+Question #0
+What is the return value of the following function?
+
+int some_function(void)
+{
+    printf("%d", 12);
+    return (98);
+}
+
+12
+
+
+98
+
+
+402
+
+Question #1
+What is the return value of the following function?
+
+int some_function(void)
+{
+    int i;
+
+    for (i = 0; i < 10; i++)
+    {
+        printf("%d", i);
+    }
+    return(i);
+}
+
+0123456789
+
+
+0
+
+
+9
+
+
+10
+
+Question #2
+What is the output of the following piece of code?
+
+int i;
+
+for (i = 48; i < 58; i++)
+{
+    printf("%c", i);
+}
+
+48495051525354555657
+
+
+0123456789
+
+
+School
+
+Question #3
+What is the output of the following piece of code?
+
+int i;
+
+i = 0;
+while (i < 10)
+{
+    i++;
+    printf("%d", i / 2);
+}
+
+0011223344
+
+
+0123456789
+
+
+0112233445
+
+Question #4
+What is the output of the following piece of code?
+
+int i;
+
+i = 0;
+while (i < 10)
+{
+    printf("%d", i % 2);
+    i++;
+}
+
+0101010101
+
+
+0123456789
+
+
+1010101010
+
+Question #5
+What is the output of the following piece of code?
+
+int i;
+
+for (i = 0; i < 10; i++)
+{
+    printf("%d", i * 2);
+}
+
+0123456789
+
+
+2468101214161820
+
+
+024681012141618
+
+Question #6
+What is the output of the following piece of code?
+
+int i;
+
+i = -9;
+while (i < 0)
+{
+    printf("%d", -i);
+    i++;
+}
+
+-9-8-7-6-5-4-3-2-1
+
+
+9876543210
+
+
+987654321
+
+
+-9-8-7-6-5-4-3-2-10
+
+Question #7
+What is the output of the following piece of code?
+
+```c
+int i;
+
+i = 9;
+while (--i)
+{
+    printf("%d", i);
+}
+```
+
+- [ ] 987654321
+
+- [ ] 87654321
+
+- [ ] 9876543210
+
+- [ ] 876543210
+
+### Question #8
+
+What is the output of the following piece of code?
+
+```c
+int i;
+
+i = 9;
+while (i--)
+{
+    printf("%d", i);
+}
+```
+
+- [ ] 987654321
+
+- [ ] 87654321
+
+- [ ] 876543210
+
+- [ ] 9876543210
+
+## Tasks
+
+### 0. isupper
+
 Write a function that checks for uppercase character.
 
 Prototype: int _isupper(int c);
