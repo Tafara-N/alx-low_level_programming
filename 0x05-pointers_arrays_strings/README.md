@@ -87,7 +87,7 @@ n=98
 julien@ubuntu:~/0x05$
 ```
 
-Repo:
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
 File: `0-reset_to_98.c`
@@ -124,7 +124,7 @@ julien@ubuntu:~/0x05$ ./1-swap
 a=98, b=42
 a=42, b=98
 julien@ubuntu:~/0x05$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
@@ -161,7 +161,7 @@ julien@ubuntu:~/0x05$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-
 julien@ubuntu:~/0x05$ ./2-strlen
 16
 julien@ubuntu:~/0x05$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
@@ -196,7 +196,7 @@ julien@ubuntu:~/0x05$ ./3-puts
 I do not fear computers. I fear the lack of them - Isaac Asimov
 julien@ubuntu:~/0x05$
 
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
@@ -228,7 +228,7 @@ julien@ubuntu:~/0x05$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 
 julien@ubuntu:~/0x05$ ./4-print_rev
 vomisA caasI - meht fo kcal eht raef I .sretupmoc raef ton od I
 julien@ubuntu:~/0x05$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
@@ -263,7 +263,7 @@ julien@ubuntu:~/0x05$ ./5-rev_string
 My School
 loohcS yM
 julien@ubuntu:~/0x05$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
@@ -295,7 +295,7 @@ julien@ubuntu:~/0x05$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 
 julien@ubuntu:~/0x05$ ./6-puts2
 02468
 julien@ubuntu:~/0x05$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
@@ -329,7 +329,7 @@ julien@ubuntu:~/0x05$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 
 julien@ubuntu:~/0x05$ ./7-puts_half
 56789
 julien@ubuntu:~/0x05$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
@@ -369,7 +369,7 @@ julien@ubuntu:~/0x05$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 8-main.c 8-
 julien@ubuntu:~/0x05$ ./8-print_array
 98, 402, -198, 298, -1024
 julien@ubuntu:~/0x05$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
@@ -408,7 +408,7 @@ julien@ubuntu:~/0x05$ ./9-strcpy
 First, solve the problem. Then, write the code
 First, solve the problem. Then, write the code
 julien@ubuntu:~/0x05$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
@@ -471,7 +471,7 @@ julien@ubuntu:~/0x05$ ./100-atoi
 98
 402
 julien@ubuntu:~/0x05$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
@@ -490,7 +490,7 @@ julien@ubuntu:~/0x05$ gcc -Wall -pedantic -Werror -Wextra 101-keygen.c -o 101-ke
 julien@ubuntu:~/0x05$ ./101-crackme "`./101-keygen`"
 Tada! Congrats
 julien@ubuntu:~/0x05$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
