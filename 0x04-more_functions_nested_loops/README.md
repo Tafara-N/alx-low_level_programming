@@ -280,10 +280,10 @@ a: 0
 julien@ubuntu:~/0x04$
 ```
 
-Repo:
-GitHub repository: alx-low_level_programming
-Directory: 0x04-more_functions_nested_loops
-File: 0-isupper.c
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x04-more_functions_nested_loops`
+- File: `0-isupper.c`
 
 1. isdigit
 mandatory
@@ -319,11 +319,11 @@ julien@ubuntu:~/0x04$ ./1-isdigit
 0: 1
 a: 0
 julien@ubuntu:~/0x04$
-Repo:
+**Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x04-more_functions_nested_loops
-File: 1-isdigit.c
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x04-more_functions_nested_loops`
+- File: `1-isdigit.c`
 
 2. Collaboration is multiplication
 mandatory
@@ -351,11 +351,11 @@ julien@ubuntu:~/0x04$ ./2-mul
 100352
 -1646592
 julien@ubuntu:~/0x04$
-Repo:
+**Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x04-more_functions_nested_loops
-File: 2-mul.c
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x04-more_functions_nested_loops`
+- File: 2-mul.c
 
 3. The numbers speak for themselves
 mandatory
@@ -381,11 +381,11 @@ julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 
 julien@ubuntu:~/0x04$ ./3-print_numbers | cat -e
 0123456789$
 julien@ubuntu:~/0x04$
-Repo:
+**Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x04-more_functions_nested_loops
-File: 3-print_numbers.c
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x04-more_functions_nested_loops`
+- File: 3-print_numbers.c
 
 4. I believe in numbers and signs
 mandatory
@@ -412,11 +412,11 @@ julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 
 julien@ubuntu:~/0x04$ ./4-print_most_numbers
 01356789
 julien@ubuntu:~/0x04$
-Repo:
+**Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x04-more_functions_nested_loops
-File: 4-print_most_numbers.c
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x04-more_functions_nested_loops`
+- File: 4-print_most_numbers.c
 
 5. Numbers constitute the only universal language
 mandatory
@@ -451,11 +451,11 @@ julien@ubuntu:~/0x04$ ./5-more_numbers
 01234567891011121314
 01234567891011121314
 julien@ubuntu:~/0x04
-Repo:
+**Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x04-more_functions_nested_loops
-File: 5-more_numbers.c
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x04-more_functions_nested_loops`
+- File: 5-more_numbers.c
 
 6. The shortest distance between two points is a straight line
 mandatory
@@ -490,11 +490,11 @@ __$
 __________$
 $
 julien@ubuntu:~/0x04$
-Repo:
+**Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x04-more_functions_nested_loops
-File: 6-print_line.c
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x04-more_functions_nested_loops`
+- File: 6-print_line.c
 
 7. I feel like I am diagonally parked in a parallel universe
 mandatory
@@ -539,11 +539,11 @@ $
          \$
 $
 julien@ubuntu:~/0x04$
-Repo:
+**Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x04-more_functions_nested_loops
-File: 7-print_diagonal.c
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x04-more_functions_nested_loops`
+- File: 7-print_diagonal.c
 
 8. You are so much sunshine in every square inch
 mandatory
@@ -587,11 +587,11 @@ julien@ubuntu:~/0x04$ ./8-squares
 ##########
 
 julien@ubuntu:~/0x04$
-Repo:
+**Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x04-more_functions_nested_loops
-File: 8-print_square.c
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x04-more_functions_nested_loops`
+- File: 8-print_square.c
 
 9. Fizz-Buzz
 mandatory
@@ -606,11 +606,11 @@ julien@ubuntu:~/0x04$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 9-fizz_buzz
 julien@ubuntu:~/0x04$ ./9-fizz_buzz
 1 2 Fizz 4 Buzz Fizz 7 8 Fizz Buzz 11 Fizz 13 14 FizzBuzz 16 17 Fizz 19 Buzz Fizz 22 23 Fizz Buzz 26 Fizz 28 29 FizzBuzz 31 32 Fizz 34 Buzz Fizz 37 38 Fizz Buzz 41 Fizz 43 44 FizzBuzz 46 47 Fizz 49 Buzz Fizz 52 53 Fizz Buzz 56 Fizz 58 59 FizzBuzz 61 62 Fizz 64 Buzz Fizz 67 68 Fizz Buzz 71 Fizz 73 74 FizzBuzz 76 77 Fizz 79 Buzz Fizz 82 83 Fizz Buzz 86 Fizz 88 89 FizzBuzz 91 92 Fizz 94 Buzz Fizz 97 98 Fizz Buzz
 julien@ubuntu:~/0x04$
-Repo:
+**Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x04-more_functions_nested_loops
-File: 9-fizz_buzz.c
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x04-more_functions_nested_loops`
+- File: 9-fizz_buzz.c
 
 10. Triangles
 mandatory
@@ -670,11 +670,11 @@ julien@ubuntu:~/0x04$ ./10-triangles | tr ' ' . | cat -e
 #$
 $
 julien@ubuntu:~/0x04$
-Repo:
+**Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x04-more_functions_nested_loops
-File: 10-print_triangle.c
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x04-more_functions_nested_loops`
+- File: 10-print_triangle.c
 
 11. The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic
 #advanced
@@ -685,11 +685,11 @@ Write a program that finds and prints the largest prime factor of the number 612
 
 You are allowed to use the standard library
 Your program will be compiled with this command: gcc -Wall -pedantic -Werror -Wextra -std=gnu89 100-prime_factor.c -o 100-prime_factor -lm
-Repo:
+**Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x04-more_functions_nested_loops
-File: 100-prime_factor.c
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x04-more_functions_nested_loops`
+- File: 100-prime_factor.c
 
 12. Numbers have life; they're not just symbols on paper
 #advanced
@@ -731,8 +731,8 @@ julien@ubuntu:~/0x04$ ./101-print_numbers
 0
 -98
 julien@ubuntu:~/0x04$
-Repo:
+**Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x04-more_functions_nested_loops
-File: 101-print_number.c
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x04-more_functions_nested_loops`
+- File: 101-print_number.c
