@@ -504,14 +504,15 @@ julien@ubuntu:~/0x05$
 - Directory: `0x05-pointers_arrays_strings`
 - File: `6-puts2.c`
 
-7. Winning is only half of it. Having fun is the other half
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 7. Winning is only half of it. Having fun is the other half
+
 Write a function that prints half of a string, followed by a new line.
 
-Prototype: void puts_half(char *str);
-The function should print the second half of the string
-If the number of characters is odd, the function should print the last n characters of the string, where n = (length_of_the_string - 1) / 2
+- Prototype: `void puts_half(char *str);`
+- The function should print the second half of the string
+- If the number of characters is odd, the function should print the last `n` characters of the string, where `n = (length_of_the_string - 1) / 2`
+
+```bash
 julien@ubuntu:~/0x05$ cat 7-main.c
 #include "main.h"
 
@@ -532,11 +533,12 @@ julien@ubuntu:~/0x05$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 
 julien@ubuntu:~/0x05$ ./7-puts_half
 56789
 julien@ubuntu:~/0x05$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
-- File: 7-puts_half.c
+- File: `7-puts_half.c`
 
 8. Arrays are not pointers
 mandatory
