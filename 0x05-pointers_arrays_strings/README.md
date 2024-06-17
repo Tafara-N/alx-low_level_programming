@@ -50,15 +50,17 @@ A `README.md` file, at the root of the folder of the project is mandatory
 
 You do not need to learn about pointers to functions, pointers to pointers, multidimensional arrays, arrays of structures, `malloc` and `free` - yet.
 
-Quiz questions
-Great! You've completed the quiz successfully! Keep going! (Show quiz)
-Tasks
-0. 98 Battery st.
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Write a function that takes a pointer to an int as parameter and updates the value it points to to 98.
+### Quiz questions
 
-Prototype: void reset_to_98(int *n);
+## Tasks
+
+### 0. 98 Battery st.
+
+Write a function that takes a pointer to an `int` as parameter and updates the value it points to to `98`.
+
+- Prototype: `void reset_to_98(int *n);`
+
+```bash
 julien@ubuntu:~/0x05$ cat 0-main.c
 #include "main.h"
 #include <stdio.h>
@@ -83,11 +85,12 @@ julien@ubuntu:~/0x05$ ./0-98
 n=402
 n=98
 julien@ubuntu:~/0x05$
-Repo:
+```
 
+Repo:
 GitHub repository: alx-low_level_programming
 Directory: 0x05-pointers_arrays_strings
-File: 0-reset_to_98.c
+File: `0-reset_to_98.c`
 
 1. Don't swap horses in crossing a stream
 mandatory
