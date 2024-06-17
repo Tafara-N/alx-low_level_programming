@@ -93,23 +93,24 @@ int some_function(void)
 
 10
 
-Question #2
+### Question #2
+
 What is the output of the following piece of code?
 
+```c
 int i;
 
 for (i = 48; i < 58; i++)
 {
     printf("%c", i);
 }
+```
 
-48495051525354555657
+- [ ] 48495051525354555657
 
+- [ ] 0123456789
 
-0123456789
-
-
-School
+- [ ] School
 
 ### Question #3
 
