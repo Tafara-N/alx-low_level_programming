@@ -559,16 +559,17 @@ julien@ubuntu:~/0x04$
 - Directory: `0x04-more_functions_nested_loops`
 - File: `7-print_diagonal.c`
 
-8. You are so much sunshine in every square inch
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 8. You are so much sunshine in every square inch
+
 Write a function that prints a square, followed by a new line.
 
-Prototype: void print_square(int size);
-You can only use _putchar function to print
-Where size is the size of the square
-If size is 0 or less, the function should print only a new line
-Use the character # to print the square
+- Prototype: `void print_square(int size);`
+- You can only use `_putchar` function to print
+- Where `size` is the size of the square
+- If `size` is `0` or less, the function should print only a new line
+- Use the character `#` to print the square
+
+```bash
 julien@ubuntu:~/0x04$ cat 8-main.c
 #include "main.h"
 
@@ -601,11 +602,12 @@ julien@ubuntu:~/0x04$ ./8-squares
 ##########
 
 julien@ubuntu:~/0x04$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x04-more_functions_nested_loops`
-- File: 8-print_square.c
+- File: `8-print_square.c`
 
 9. Fizz-Buzz
 mandatory
