@@ -324,14 +324,15 @@ julien@ubuntu:~/0x05$
 - Directory: `0x05-pointers_arrays_strings`
 - File: `1-swap.c`
 
-2. This report, by its very length, defends itself against the risk of being read
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 2. This report, by its very length, defends itself against the risk of being read
+
 Write a function that returns the length of a string.
 
-Prototype: int _strlen(char *s);
-FYI: The standard library provides a similar function: strlen. Run man strlen to learn more.
+- Prototype: `int _strlen(char *s);`
 
+FYI: The standard library provides a similar function: `strlen`. Run `man strlen` to learn more.
+
+```bash
 julien@ubuntu:~/0x05$ cat 2-main.c
 #include "main.h"
 #include <stdio.h>
@@ -355,11 +356,12 @@ julien@ubuntu:~/0x05$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-
 julien@ubuntu:~/0x05$ ./2-strlen
 16
 julien@ubuntu:~/0x05$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
-- File: 2-strlen.c
+- File: `2-strlen.c`
 
 3. I do not fear computers. I fear the lack of them
 mandatory
