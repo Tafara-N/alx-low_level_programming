@@ -191,32 +191,27 @@ int *p = &n;
 
 99
 
-Question #8
-If we have a variable called var of type int, how can we get its address in memory?
+### Question #8
 
+If we have a variable called `var` of type `int`, how can we get its address in memory?
 
-*var
+- [ ] *var
 
+- [ ] *(var)
 
-*(var)
+- [ ] &var
 
+### Question #9
 
-&var
-
-Question #9
 The process of getting the value that is stored in the memory location pointed to by a pointer is called:
 
+- [ ] Casting
 
-Casting
+- [ ] Pointing
 
+- [ ] Accessing
 
-Pointing
-
-
-Accessing
-
-
-Dereferencing
+- [ ] Dereferencing
 
 ### Question #10
 
