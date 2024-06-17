@@ -399,12 +399,13 @@ julien@ubuntu:~/0x05$
 - Directory: `0x05-pointers_arrays_strings`
 - File: `3-puts.c`
 
-4. I can only go one way. I've not got a reverse gear
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 4. I can only go one way. I've not got a reverse gear
+
 Write a function that prints a string, in reverse, followed by a new line.
 
-Prototype: void print_rev(char *s);
+- Prototype: `void print_rev(char *s);`
+
+```bash
 julien@ubuntu:~/0x05$ cat 4-main.c
 #include "main.h"
 
@@ -425,11 +426,12 @@ julien@ubuntu:~/0x05$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 _putchar.c 
 julien@ubuntu:~/0x05$ ./4-print_rev
 vomisA caasI - meht fo kcal eht raef I .sretupmoc raef ton od I
 julien@ubuntu:~/0x05$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
-- File: 4-print_rev.c
+- File: `4-print_rev.c`
 
 5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes
 mandatory
