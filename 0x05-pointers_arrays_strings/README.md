@@ -284,12 +284,13 @@ julien@ubuntu:~/0x05$
 - Directory: `0x05-pointers_arrays_strings`
 - File: `0-reset_to_98.c`
 
-1. Don't swap horses in crossing a stream
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 1. Don't swap horses in crossing a stream
+
 Write a function that swaps the values of two integers.
 
-Prototype: void swap_int(int *a, int *b);
+- Prototype: `void swap_int(int *a, int *b);`
+
+```bash
 julien@ubuntu:~/0x05$ cat 1-main.c
 #include "main.h"
 #include <stdio.h>
@@ -316,11 +317,12 @@ julien@ubuntu:~/0x05$ ./1-swap
 a=98, b=42
 a=42, b=98
 julien@ubuntu:~/0x05$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
-- File: 1-swap.c
+- File: `1-swap.c`
 
 2. This report, by its very length, defends itself against the risk of being read
 mandatory
