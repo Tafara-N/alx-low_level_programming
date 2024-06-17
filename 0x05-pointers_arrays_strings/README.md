@@ -88,7 +88,7 @@ julien@ubuntu:~/0x05$
 ```
 
 Repo:
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
 File: `0-reset_to_98.c`
 
@@ -126,7 +126,7 @@ a=42, b=98
 julien@ubuntu:~/0x05$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
 File: 1-swap.c
 
@@ -163,7 +163,7 @@ julien@ubuntu:~/0x05$ ./2-strlen
 julien@ubuntu:~/0x05$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
 File: 2-strlen.c
 
@@ -198,7 +198,7 @@ julien@ubuntu:~/0x05$
 
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
 File: 3-puts.c
 
@@ -230,7 +230,7 @@ vomisA caasI - meht fo kcal eht raef I .sretupmoc raef ton od I
 julien@ubuntu:~/0x05$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
 File: 4-print_rev.c
 
@@ -265,7 +265,7 @@ loohcS yM
 julien@ubuntu:~/0x05$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
 File: 5-rev_string.c
 
@@ -297,7 +297,7 @@ julien@ubuntu:~/0x05$ ./6-puts2
 julien@ubuntu:~/0x05$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
 File: 6-puts2.c
 
@@ -331,7 +331,7 @@ julien@ubuntu:~/0x05$ ./7-puts_half
 julien@ubuntu:~/0x05$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
 File: 7-puts_half.c
 
@@ -371,7 +371,7 @@ julien@ubuntu:~/0x05$ ./8-print_array
 julien@ubuntu:~/0x05$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
 File: 8-print_array.c
 
@@ -410,7 +410,7 @@ First, solve the problem. Then, write the code
 julien@ubuntu:~/0x05$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
 File: 9-strcpy.c
 
@@ -473,7 +473,7 @@ julien@ubuntu:~/0x05$ ./100-atoi
 julien@ubuntu:~/0x05$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
 File: 100-atoi.c
 
@@ -492,6 +492,6 @@ Tada! Congrats
 julien@ubuntu:~/0x05$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
 File: 101-keygen.c
