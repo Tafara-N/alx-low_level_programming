@@ -247,11 +247,13 @@ while (i--)
 
 Write a function that checks for uppercase character.
 
-Prototype: int _isupper(int c);
-Returns 1 if c is uppercase
-Returns 0 otherwise
-FYI: The standard library provides a similar function: isupper. Run man isupper to learn more.
+- Prototype: `int _isupper(int c);`
+- Returns `1` if `c` is uppercase
+- Returns `0` otherwise
 
+FYI: The standard library provides a similar function: `isupper`. Run `man isupper` to learn more.
+
+```bash
 julien@ubuntu:~/0x04$ cat 0-main.c
 #include "main.h"
 #include <stdio.h>
@@ -276,8 +278,9 @@ julien@ubuntu:~/0x04$ ./0-isuper
 A: 1
 a: 0
 julien@ubuntu:~/0x04$
-Repo:
+```
 
+Repo:
 GitHub repository: alx-low_level_programming
 Directory: 0x04-more_functions_nested_loops
 File: 0-isupper.c
