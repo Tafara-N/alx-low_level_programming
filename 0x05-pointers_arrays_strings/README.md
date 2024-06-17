@@ -433,12 +433,13 @@ julien@ubuntu:~/0x05$
 - Directory: `0x05-pointers_arrays_strings`
 - File: `4-print_rev.c`
 
-5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 5. A good engineer thinks in reverse and asks himself about the stylistic consequences of the components and systems he proposes
+
 Write a function that reverses a string.
 
-Prototype: void rev_string(char *s);
+- Prototype: `void rev_string(char *s);`
+
+```bash
 julien@ubuntu:~/0x05$ cat 5-main.c
 #include "main.h"
 #include <stdio.h>
@@ -462,11 +463,12 @@ julien@ubuntu:~/0x05$ ./5-rev_string
 My School
 loohcS yM
 julien@ubuntu:~/0x05$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x05-pointers_arrays_strings`
-- File: 5-rev_string.c
+- File: `5-rev_string.c`
 
 6. Half the lies they tell about me aren't true
 mandatory
