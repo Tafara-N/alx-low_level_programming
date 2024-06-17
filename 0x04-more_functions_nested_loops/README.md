@@ -3,18 +3,21 @@
 *For this project, we expect you to look at this concept:*
 
 - [Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://intranet.alxswe.com/concepts/100039)
-Resources
-Read or watch:
 
-Nested while loops
-C - Functions
-Learning to Program in C (Part 06) (stop at 14:00)
-What is the purpose of a function prototype?
-C - Header Files (stop before the “Once-Only Headers” paragraph)
-Additional Resources
-Functions in C programming
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+# Resources
+
+## Read or watch:
+- [Nested while loops]()
+- [C - Functions]()
+- [Learning to Program in C (Part 06)]() (*stop at 14:00*)
+- [What is the purpose of a function prototype?]()
+- [C - Header Files]() (*stop before the “Once-Only Headers” paragraph*)
+
+## Additional Resources
+- [Functions in C programming]()
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/Ya6FG69nkA7hRf_WG4E8gQ), **without the help of Google:**
 
 General
 What are nested loops and how to use them
