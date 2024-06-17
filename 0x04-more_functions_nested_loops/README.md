@@ -630,16 +630,17 @@ julien@ubuntu:~/0x04$
 - Directory: `0x04-more_functions_nested_loops`
 - File: `9-fizz_buzz.c`
 
-10. Triangles
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 10. Triangles
+
 Write a function that prints a triangle, followed by a new line.
 
-Prototype: void print_triangle(int size);
-You can only use _putchar function to print
-Where size is the size of the triangle
-If size is 0 or less, the function should print only a new line
-Use the character # to print the triangle
+- Prototype: `void print_triangle(int size);`
+- You can only use `_putchar` function to print
+- Where `size` is the size of the triangle
+- If `size` is `0` or less, the function should print only a new line
+- Use the character `#` to print the triangle
+
+```bash
 julien@ubuntu:~/0x04$ cat 10-main.c
 #include "main.h"
 
@@ -688,11 +689,12 @@ julien@ubuntu:~/0x04$ ./10-triangles | tr ' ' . | cat -e
 #$
 $
 julien@ubuntu:~/0x04$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x04-more_functions_nested_loops`
-- File: 10-print_triangle.c
+- File: `10-print_triangle.c`
 
 11. The problem of distinguishing prime numbers from composite numbers and of resolving the latter into their prime factors is known to be one of the most important and useful in arithmetic
 #advanced
