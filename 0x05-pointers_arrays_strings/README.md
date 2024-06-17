@@ -233,17 +233,15 @@ Segmentation fault
 
 The computer shuts down
 
-Question #11
+### Question #11
+
 Is it possible to declare a pointer to a pointer?
 
+- [ ] Yes
 
-Yes
+- [ ] No
 
-
-No
-
-
-It depends on the type the pointer is pointing to
+- [ ] It depends on the type the pointer is pointing to
 
 ### Question #12
 
