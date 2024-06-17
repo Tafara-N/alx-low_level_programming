@@ -14,7 +14,7 @@
 - [C - Header Files]() (*stop before the “Once-Only Headers” paragraph*)
 
 ## Additional Resources
-- [Functions in C programming]()
+- [Functions in C programming](https://intranet.alxswe.com/rltoken/8JJn02_7QAAYqap7m8ZqVg)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/Ya6FG69nkA7hRf_WG4E8gQ), **without the help of Google:**
