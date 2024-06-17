@@ -52,6 +52,218 @@ You do not need to learn about pointers to functions, pointers to pointers, mult
 
 ### Quiz questions
 
+Question #0
+We declare the following variable
+
+int arr[5];
+What is the equivalent of typing arr[2]?
+
+
+arr + 2
+
+
+*arr + 2
+
+
+*(arr + 2)
+
+Question #1
+We declare the following variable
+
+int arr[5];
+What is the size in memory of the variable arr?
+
+
+20 bytes
+
+
+32 bytes
+
+
+4 bytes
+
+
+5 bytes
+
+
+10 bytes
+
+
+8 bytes
+
+Question #2
+What is the value of n after the following code is executed?
+
+int n = 98;
+int *p = &n;
+
+402
+
+
+0
+
+
+98
+
+
+99
+
+Question #3
+What is the value of n after the following code is executed?
+
+int n = 98;
+int *p = &n;
+
+p = 402;
+
+402
+
+
+0
+
+
+98
+
+
+99
+
+Question #4
+What is the size of a pointer to a char (on a 64-bit architecture)
+
+
+8 bytes
+
+
+1 byte
+
+
+2 bytes
+
+
+4 bytes
+
+Question #5
+What is the identifier to print an address with printf?
+
+
+%x
+
+
+%a
+
+
+%d
+
+
+%p
+
+Question #6
+What is the size of a pointer to an int (on a 64-bit architecture)
+
+
+8 bytes
+
+
+1 byte
+
+
+2 bytes
+
+
+4 bytes
+
+Question #7
+What is the value of n after the following code is executed?
+
+int n = 98;
+int *p = &n;
+
+*p = 402;
+
+402
+
+
+0
+
+
+98
+
+
+99
+
+Question #8
+If we have a variable called var of type int, how can we get its address in memory?
+
+
+*var
+
+
+*(var)
+
+
+&var
+
+Question #9
+The process of getting the value that is stored in the memory location pointed to by a pointer is called:
+
+
+Casting
+
+
+Pointing
+
+
+Accessing
+
+
+Dereferencing
+
+Question #10
+What happens when one tries to access an illegal memory location?
+
+
+There’s a chance for the computer to catch fire, and sometimes even explode
+
+
+The operation is ignored
+
+
+Segmentation fault
+
+
+The computer shuts down
+
+Question #11
+Is it possible to declare a pointer to a pointer?
+
+
+Yes
+
+
+No
+
+
+It depends on the type the pointer is pointing to
+
+### Question #12
+
+What is the value of n after the following code is executed?
+
+```c
+int n = 98;
+int *p = &n;
+
+*p++;
+```
+
+- [ ] 402
+
+- [ ] 0
+
+- [ ] 98
+
+- [ ] 99
+
 ## Tasks
 
 ### 0. 98 Battery st.
