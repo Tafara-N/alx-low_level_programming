@@ -142,20 +142,17 @@ What is the size of a pointer to a char (on a 64-bit architecture)
 
 4 bytes
 
-Question #5
-What is the identifier to print an address with printf?
+### Question #5
 
+What is the identifier to print an address with `printf`?
 
-%x
+- [ ] %x
 
+- [ ] %a
 
-%a
+- [ ] %d
 
-
-%d
-
-
-%p
+- [ ] %p
 
 ### Question #6
 
