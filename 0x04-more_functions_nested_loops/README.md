@@ -51,22 +51,23 @@ You do not have to understand the call by reference (address), stack, static var
 
 ### Quiz questions
 
-Question #0
+### Question #0
+
 What is the return value of the following function?
 
+```c
 int some_function(void)
 {
     printf("%d", 12);
     return (98);
 }
+```
 
-12
+- [ ] 12
 
+- [ ] 98
 
-98
-
-
-402
+- [ ] 402
 
 ### Question #1
 
