@@ -160,7 +160,7 @@ int **p;
 
 ### Question #8
 
-In this following code, what is the value of a[1][1]?
+In this following code, what is the value of `a[1][1]`?
 
 ```c
 int a[5][2] = {{1, 2}, {3, 4}, {5, 6}, {7, 8}, {9, 10}};
