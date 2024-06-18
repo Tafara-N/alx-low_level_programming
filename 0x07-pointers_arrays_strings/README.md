@@ -46,43 +46,43 @@ You do not need to learn about pointers to functions, arrays of structures, `mal
 
 ## Quiz questions
 
-Question #0
-What is the size of *p in this code?
+### Question #0
 
+What is the size of `*p` in this code?
+
+```c
 int *p;
+```
 
-4 bytes
+- [ ] 4 bytes
 
+- [ ] 8 bytes
 
-8 bytes
+- [ ] 16 bytes
 
+### Question #1
 
-16 bytes
-
-Question #1
 What is stored inside a pointer to a pointer to an int?
 
+- [ ] An address where an int is stored
 
-An address where an int is stored
+- [ ] An int
 
+- [ ] An address where an address is stored
 
-An int
+### Question #2
 
+What is the size of `p` in this code?
 
-An address where an address is stored
-
-Question #2
-What is the size of p in this code?
-
+```c
 int *p;
+```
 
-4 bytes
+- [ ] 4 bytes
 
+- [ ] 8 bytes
 
-8 bytes
-
-
-16 bytes
+- [ ] 16 bytes
 
 ### Question #3
 
