@@ -260,7 +260,7 @@ julien@ubuntu:~/0x07$ ./0-memset
 julien@ubuntu:~/0x07$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x07-pointers_arrays_strings
 - File: 0-memset.c
 
@@ -348,7 +348,7 @@ julien@ubuntu:~/0x07$ ./1-memcpy
 julien@ubuntu:~/0x07$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x07-pointers_arrays_strings
 - File: 1-memcpy.c
 
@@ -389,7 +389,7 @@ llo
 julien@ubuntu:~/0x07$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x07-pointers_arrays_strings
 - File: 2-strchr.c
 
@@ -427,7 +427,7 @@ julien@ubuntu:~/0x07$ ./3-strspn
 julien@ubuntu:~/0x07$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x07-pointers_arrays_strings
 - File: 3-strspn.c
 
@@ -466,7 +466,7 @@ llo, world
 julien@ubuntu:~/0x07$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x07-pointers_arrays_strings
 - File: 4-strpbrk.c
 
@@ -506,7 +506,7 @@ julien@ubuntu:~/0x07$
 
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x07-pointers_arrays_strings
 - File: 5-strstr.c
 
@@ -553,7 +553,7 @@ RKBQKBKR
 julien@ubuntu:~/0x07$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x07-pointers_arrays_strings
 - File: 7-print_chessboard.c
 
@@ -601,7 +601,7 @@ julien@ubuntu:~/0x07$ ./8-print_diagsums
 julien@ubuntu:~/0x07$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x07-pointers_arrays_strings
 - File: 8-print_diagsums.c
 
@@ -637,7 +637,7 @@ Bob Dylan, Bob Dylan
 julien@ubuntu:~/0x07$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x07-pointers_arrays_strings
 - File: 100-set_string.c
 
@@ -652,6 +652,6 @@ You may need to install the openssl library to run the crakme2 program: sudo apt
 Edit the source list sudo nano /etc/apt/sources.list to add the following line: deb http://security.ubuntu.com/ubuntu xenial-security main Then sudo apt update and sudo apt install libssl1.0.0
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x07-pointers_arrays_strings
 - File: 101-crackme_password
