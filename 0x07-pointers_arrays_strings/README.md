@@ -84,21 +84,21 @@ int *p;
 
 16 bytes
 
-Question #3
-In this following code, what is the value of a[3][0]?
+### Question #3
 
+In this following code, what is the value of `a[3][0]`?
+
+```c
 int a[5][2] = {{1, 2}, {3, 4}, {5, 6}, {7, 8}, {9, 10}};
+```
 
-5
+- [ ] 5
 
+- [ ] 7
 
-7
+- [ ] 8
 
-
-8
-
-
-{7, 8}
+- [ ] {7, 8}
 
 ### Question #4
 
