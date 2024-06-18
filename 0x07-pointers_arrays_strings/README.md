@@ -352,15 +352,16 @@ julien@ubuntu:~/0x07$
 - Directory: `0x07-pointers_arrays_strings`
 - File: 1-memcpy.c
 
-2. strchr
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 2. strchr
+
 Write a function that locates a character in a string.
 
-Prototype: char *_strchr(char *s, char c);
-Returns a pointer to the first occurrence of the character c in the string s, or NULL if the character is not found
-FYI: The standard library provides a similar function: strchr. Run man strchr to learn more.
+- Prototype: `char *_strchr(char *s, char c);`
+- Returns a pointer to the first occurrence of the character `c` in the string `s`, or `NULL` if the character is not found
 
+FYI: The standard library provides a similar function: `strchr`. Run `man strchr` to learn more.
+
+```bash
 julien@ubuntu:~/0x07$ cat 2-main.c
 #include "main.h"
 #include <stdio.h>
@@ -387,8 +388,9 @@ julien@ubuntu:~/0x07$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-
 julien@ubuntu:~/0x07$ ./2-strchr
 llo
 julien@ubuntu:~/0x07$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x07-pointers_arrays_strings`
 - File: `2-strchr.c`
