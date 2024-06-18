@@ -1,6 +1,21 @@
+# Concepts
 
-Additional Resource
-Practical Use of Pointers in C Programming
+*For this project, we expect you to look at these concepts:*
+
+- [Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://intranet.alxswe.com/concepts/100039)
+- [Pointers and arrays
+
+![Pointers](pointers.jpg)
+
+Resources
+Read or watch:
+
+C - Pointer to Pointer
+C – Pointer to Pointer with example
+Multi-dimensional Arrays in C
+Two dimensional (2D) arrays in C programming with example
+Additional Resources
+Arrays, Strings & Pointers in C Programming
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/YpzhlccIJNihbnYgObEStg), **without the help of Google:**
