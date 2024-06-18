@@ -258,7 +258,7 @@ julien@ubuntu:~/0x07$ ./0-memset
 0x01 0x01 0x01 0x01 0x01 0x01 0x01 0x01 0x01 0x01
 0x01 0x01 0x01 0x01 0x01 0x00 0x00 0x00
 julien@ubuntu:~/0x07$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x07-pointers_arrays_strings
@@ -346,7 +346,7 @@ julien@ubuntu:~/0x07$ ./1-memcpy
 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00
 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00
 julien@ubuntu:~/0x07$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x07-pointers_arrays_strings
@@ -387,7 +387,7 @@ julien@ubuntu:~/0x07$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c 2-
 julien@ubuntu:~/0x07$ ./2-strchr
 llo
 julien@ubuntu:~/0x07$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x07-pointers_arrays_strings
@@ -425,7 +425,7 @@ julien@ubuntu:~/0x07$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-
 julien@ubuntu:~/0x07$ ./3-strspn
 5
 julien@ubuntu:~/0x07$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x07-pointers_arrays_strings
@@ -464,7 +464,7 @@ julien@ubuntu:~/0x07$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 4-main.c 4-
 julien@ubuntu:~/0x07$ ./4-strpbrk
 llo, world
 julien@ubuntu:~/0x07$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x07-pointers_arrays_strings
@@ -504,7 +504,7 @@ julien@ubuntu:~/0x07$ ./5-strstr
 world
 julien@ubuntu:~/0x07$
 
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x07-pointers_arrays_strings
@@ -551,7 +551,7 @@ pppppppp
 PPPPPPPP
 RKBQKBKR
 julien@ubuntu:~/0x07$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x07-pointers_arrays_strings
@@ -599,7 +599,7 @@ julien@ubuntu:~/0x07$ ./8-print_diagsums
 113, 1016
 1214556093, 1137318
 julien@ubuntu:~/0x07$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x07-pointers_arrays_strings
@@ -635,7 +635,7 @@ julien@ubuntu:~/0x07$ ./100-set_string
 Bob Dylan, Robert Allen
 Bob Dylan, Bob Dylan
 julien@ubuntu:~/0x07$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x07-pointers_arrays_strings
@@ -650,7 +650,7 @@ Your file should contain the exact password, no new line, no extra space
 ltrace, ldd, gdb and objdump can help
 You may need to install the openssl library to run the crakme2 program: sudo apt install libssl-dev
 Edit the source list sudo nano /etc/apt/sources.list to add the following line: deb http://security.ubuntu.com/ubuntu xenial-security main Then sudo apt update and sudo apt install libssl1.0.0
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x07-pointers_arrays_strings
