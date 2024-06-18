@@ -167,7 +167,7 @@ Write a function that concatenates two strings.
 
 FYI: The standard library provides a similar function: `strcat`. Run `man strcat` to learn more.
 
-```
+```bash
 julien@ubuntu:~/0x06$ cat 0-main.c
 #include "main.h"
 #include <stdio.h>
@@ -218,7 +218,7 @@ Write a function that concatenates two strings.
 
 FYI: The standard library provides a similar function: `strncat`. Run `man strncat` to learn more.
 
-```
+```bash
 julien@ubuntu:~/0x06$ cat 1-main.c
 #include "main.h"
 #include <stdio.h>
@@ -273,7 +273,7 @@ Write a function that copies a string.
 
 FYI: The standard library provides a similar function: strncpy. Run `man strncpy` to learn more.
 
-```
+```bash
 julien@ubuntu:~/0x06$ cat 2-main.c
 #include "main.h"
 #include <stdio.h>
@@ -350,7 +350,7 @@ Write a function that compares two strings.
 
 FYI: The standard library provides a similar function: `strcmp`. Run `man strcmp` to learn more.
 
-```
+```bash
 julien@ubuntu:~/0x06$ cat 3-main.c
 #include "main.h"
 #include <stdio.h>
@@ -387,10 +387,10 @@ julien@ubuntu:~/0x06$
 
 Write a function that reverses the content of an array of integers.
 
-Prototype: `void reverse_array(int *a, int n);`
-Where n is the number of elements of the array
+- Prototype: `void reverse_array(int *a, int n);`
+- Where `n` is the number of elements of the array
 
-```
+```bash
 julien@ubuntu:~/0x06$ cat 4-main.c
 #include "main.h"
 #include <stdio.h>
