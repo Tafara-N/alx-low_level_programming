@@ -571,16 +571,17 @@ julien@ubuntu:~/0x06$
 - Directory: `0x06-pointers_arrays_strings`
 - File: `7-leet.c`
 
-8. rot13
-#advanced
-Score: 100.0% (Checks completed: 100.0%)
-Write a function that encodes a string using rot13.
+### 8. rot13
 
-Prototype: char *rot13(char *);
-You can only use if statement once in your code
-You can only use two loops in your code
-You are not allowed to use switch
-You are not allowed to use any ternary operation
+Write a function that encodes a string using [rot13](https://intranet.alxswe.com/rltoken/YRxmNA7BnP6yZhl09TKX3A).
+
+- Prototype: `char *rot13(char *);`
+- You can only use `if` statement once in your code
+- You can only use two loops in your code
+- You are not allowed to use `switch`
+- You are not allowed to use any ternary operation
+
+```bash
 julien@ubuntu:~/0x06$ cat 100-main.c
 #include "main.h"
 #include <stdio.h>
@@ -625,11 +626,12 @@ EBG13 ("ebgngr ol 13 cynprf", fbzrgvzrf ulcurangrq EBG-13) vf n fvzcyr yrggre fh
 ------------------------------------
 EBG13 ("ebgngr ol 13 cynprf", fbzrgvzrf ulcurangrq EBG-13) vf n fvzcyr yrggre fhofgvghgvba pvcure.
 julien@ubuntu:~/0x06$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-- File: 100-rot13.c
+- File: `100-rot13.c`
 
 9. Numbers have life; they're not just symbols on paper
 #advanced
