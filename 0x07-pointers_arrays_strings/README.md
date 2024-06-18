@@ -113,21 +113,21 @@ int **p;
 
 16 bytes
 
-Question #5
-In this following code, what is the value of a[0][0]?
+### Question #5
 
+In this following code, what is the value of `a[0][0]`?
+
+```c
 int a[5][2] = {{1, 2}, {3, 4}, {5, 6}, {7, 8}, {9, 10}};
+```
 
-4
+- [ ] 4
 
+- [ ] 1
 
-1
+- [ ] 2
 
-
-2
-
-
-3
+- [ ] 3
 
 ### Question #6
 
