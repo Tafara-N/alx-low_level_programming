@@ -35,18 +35,19 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 - Don’t forget to push your header file
 
-### Quiz questions
+## Quiz questions
 
-Question #0
+### Question #0
+
+```c
 var = "Best";
-What is the type of var?
+```
 
+What is the type of `var`?
 
-string
+- [ ] string
 
-
-char *
-
+- [ ] char *
 
 - [ ] int *
 
