@@ -140,23 +140,22 @@ Segmentation fault
 
 Kernel panic
 
-Question #6
+### Question #6
+
 What is/are the difference(s) between the two following variables? (Except their names)
 
+```c
 char *s1 = "";
 char *s2 = NULL;
+```
 
-The second one can be dereferenced, not the first one
+- [ ] The second one can be dereferenced, not the first one
 
+- [ ] They are the same
 
-They are the same
+- [ ] The first one points to a 0-byte, the second one points to 0
 
-
-The first one points to a 0-byte, the second one points to 0
-
-
-The first one can be dereferenced, not the second one
-
+- [ ] The first one can be dereferenced, not the second one
 
 - [ ] The first one points to 0, the second one points to a 0-byte
 
