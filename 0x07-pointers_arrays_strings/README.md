@@ -145,18 +145,19 @@ int a[5][2] = {{1, 2}, {3, 4}, {5, 6}, {7, 8}, {9, 10}};
 
 {7, 8}
 
-Question #7
-What is the size of *p in this code?
+### Question #7
 
+What is the size of `*p` in this code?
+
+```c
 int **p;
+```
 
-4 bytes
+- [ ] 4 bytes
 
+- [ ] 8 bytes
 
-8 bytes
-
-
-16 bytes
+- [ ] 16 bytes
 
 ### Question #8
 
