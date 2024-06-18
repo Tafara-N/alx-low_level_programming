@@ -261,7 +261,7 @@ julien@ubuntu:~/0x07$
 **Repo:**
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x07-pointers_arrays_strings
+- Directory: `0x07-pointers_arrays_strings`
 - File: 0-memset.c
 
 1. memcpy
@@ -349,7 +349,7 @@ julien@ubuntu:~/0x07$
 **Repo:**
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x07-pointers_arrays_strings
+- Directory: `0x07-pointers_arrays_strings`
 - File: 1-memcpy.c
 
 2. strchr
@@ -390,7 +390,7 @@ julien@ubuntu:~/0x07$
 **Repo:**
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x07-pointers_arrays_strings
+- Directory: `0x07-pointers_arrays_strings`
 - File: 2-strchr.c
 
 3. strspn
@@ -428,7 +428,7 @@ julien@ubuntu:~/0x07$
 **Repo:**
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x07-pointers_arrays_strings
+- Directory: `0x07-pointers_arrays_strings`
 - File: 3-strspn.c
 
 4. strpbrk
@@ -467,7 +467,7 @@ julien@ubuntu:~/0x07$
 **Repo:**
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x07-pointers_arrays_strings
+- Directory: `0x07-pointers_arrays_strings`
 - File: 4-strpbrk.c
 
 5. strstr
@@ -507,7 +507,7 @@ julien@ubuntu:~/0x07$
 **Repo:**
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x07-pointers_arrays_strings
+- Directory: `0x07-pointers_arrays_strings`
 - File: 5-strstr.c
 
 6. Chess is mental torture
@@ -554,7 +554,7 @@ julien@ubuntu:~/0x07$
 **Repo:**
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x07-pointers_arrays_strings
+- Directory: `0x07-pointers_arrays_strings`
 - File: 7-print_chessboard.c
 
 7. The line of life is a ragged diagonal between duty and desire
@@ -602,7 +602,7 @@ julien@ubuntu:~/0x07$
 **Repo:**
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x07-pointers_arrays_strings
+- Directory: `0x07-pointers_arrays_strings`
 - File: 8-print_diagsums.c
 
 8. Double pointer, double fun
@@ -638,7 +638,7 @@ julien@ubuntu:~/0x07$
 **Repo:**
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x07-pointers_arrays_strings
+- Directory: `0x07-pointers_arrays_strings`
 - File: 100-set_string.c
 
 9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure
@@ -653,5 +653,5 @@ Edit the source list sudo nano /etc/apt/sources.list to add the following line: 
 **Repo:**
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x07-pointers_arrays_strings
+- Directory: `0x07-pointers_arrays_strings`
 - File: 101-crackme_password
