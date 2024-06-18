@@ -557,16 +557,17 @@ julien@ubuntu:~/0x07$
 - Directory: `0x07-pointers_arrays_strings`
 - File: 7-print_chessboard.c
 
-7. The line of life is a ragged diagonal between duty and desire
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 7. The line of life is a ragged diagonal between duty and desire
+
 Write a function that prints the sum of the two diagonals of a square matrix of integers.
 
-Prototype: void print_diagsums(int *a, int size);
-Format: see example
-You are allowed to use the standard library
-Note that in the following example we are casting an int[][] into an int*. This is not something you should do. The goal here is to make sure you understand how an array of array is stored in memory.
+- Prototype: `void print_diagsums(int *a, int size);`
+- Format: see example
+- You are allowed to use the standard library
 
+Note that in the following example we are casting an `int[][]` into an `int*`. This is not something you should do. The goal here is to make sure you understand how an array of array is stored in memory.
+
+```bash
 julien@ubuntu:~/0x07$ cat 8-main.c
 #include "main.h"
 #include <stdio.h>
@@ -599,11 +600,11 @@ julien@ubuntu:~/0x07$ ./8-print_diagsums
 113, 1016
 1214556093, 1137318
 julien@ubuntu:~/0x07$
-**Repo:**
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x07-pointers_arrays_strings`
-- File: 8-print_diagsums.c
+- File: `8-print_diagsums.c`
 
 ### 8. Double pointer, double fun
 
