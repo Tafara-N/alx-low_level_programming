@@ -1,13 +1,16 @@
-Concepts
-For this project, we expect you to look at this concept:
+# Concepts
 
-Struggling with the sandbox? Try this: Using Docker & WSL on your local host
+*For this project, we expect you to look at this concept:*
 
+- [Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://intranet.alxswe.com/concepts/100039)
 
-Additional Resource
-Practical Use of Pointers in C Programming
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+![Happy Clapping](happy-clapping.gif)
+
+# Additional Resource
+- [Practical Use of Pointers in C Programming](https://intranet.alxswe.com/rltoken/Jrl0HLgFXzZEUyYYbLed8g)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/tkwwPs3MT3JT07FSsmXy-A), **without the help of Google:**
 
 General
 What are pointers and how to use them
