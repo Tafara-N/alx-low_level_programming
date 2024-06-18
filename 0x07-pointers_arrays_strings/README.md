@@ -264,16 +264,17 @@ julien@ubuntu:~/0x07$
 - Directory: `0x07-pointers_arrays_strings`
 - File: 0-memset.c
 
-1. memcpy
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 1. memcpy
+
 Write a function that copies memory area.
 
-Prototype: char *_memcpy(char *dest, char *src, unsigned int n);
-The _memcpy() function copies n bytes from memory area src to memory area dest
-Returns a pointer to dest
-FYI: The standard library provides a similar function: memcpy. Run man memcpy to learn more.
+- Prototype: `char *_memcpy(char *dest, char *src, unsigned int n);`
+- The `_memcpy()` function copies `n` bytes from memory area `src` to memory area `dest`
+- Returns a pointer to `dest`
 
+FYI: The standard library provides a similar function: `memcpy`. Run `man memcpy` to learn more.
+
+```bash
 julien@ubuntu:~/0x07$ cat 1-main.c
 #include "main.h"
 #include <stdio.h>
@@ -346,11 +347,12 @@ julien@ubuntu:~/0x07$ ./1-memcpy
 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00
 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00
 julien@ubuntu:~/0x07$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x07-pointers_arrays_strings`
-- File: 1-memcpy.c
+- File: `1-memcpy.c`
 
 ### 2. strchr
 
