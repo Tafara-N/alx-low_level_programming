@@ -510,12 +510,13 @@ julien@ubuntu:~/0x07$
 - Directory: `0x07-pointers_arrays_strings`
 - File: 5-strstr.c
 
-6. Chess is mental torture
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 6. Chess is mental torture
+
 Write a function that prints the chessboard.
 
-Prototype: void print_chessboard(char (*a)[8]);
+- Prototype: `void print_chessboard(char (*a)[8]);`
+
+```bash
 julien@ubuntu:~/0x07$ cat 7-main.c
 #include "main.h"
 #include <stdio.h>
@@ -551,11 +552,12 @@ pppppppp
 PPPPPPPP
 RKBQKBKR
 julien@ubuntu:~/0x07$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x07-pointers_arrays_strings`
-- File: 7-print_chessboard.c
+- File: `7-print_chessboard.c`
 
 ### 7. The line of life is a ragged diagonal between duty and desire
 
