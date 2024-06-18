@@ -391,17 +391,18 @@ julien@ubuntu:~/0x07$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x07-pointers_arrays_strings`
-- File: 2-strchr.c
+- File: `2-strchr.c`
 
-3. strspn
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 3. strspn
+
 Write a function that gets the length of a prefix substring.
 
-Prototype: unsigned int _strspn(char *s, char *accept);
-Returns the number of bytes in the initial segment of s which consist only of bytes from accept
-FYI: The standard library provides a similar function: strspn. Run man strspn to learn more.
+- Prototype: `unsigned int _strspn(char *s, char *accept);`
+- Returns the number of bytes in the initial segment of `s` which consist only of bytes from `accept`
 
+FYI: The standard library provides a similar function: `strspn`. Run `man strspn` to learn more.
+
+```bash
 julien@ubuntu:~/0x07$ cat 3-main.c
 #include "main.h"
 #include <stdio.h>
@@ -425,11 +426,12 @@ julien@ubuntu:~/0x07$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-main.c 3-
 julien@ubuntu:~/0x07$ ./3-strspn
 5
 julien@ubuntu:~/0x07$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x07-pointers_arrays_strings`
-- File: 3-strspn.c
+- File: `3-strspn.c`
 
 ### 4. strpbrk
 
