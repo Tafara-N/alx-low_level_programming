@@ -48,27 +48,27 @@ string
 char *
 
 
-int *
+- [ ] int *
 
-Question #1
+### Question #1
+
 What is wrong with the following code?
 
+```c
 int n = 5;
 int array[5];
 int i = 3;
 
 array[n] = i;
+```
 
-It is not possible to access array[n]
+- [ ] It is not possible to access `array[n]`
 
+- [ ] Nothing is wrong
 
-Nothing is wrong
+- [ ] It is impossible to declare the variable `array` this way
 
-
-It is impossible to declare the variable array this way
-
-
-The array array is not entirely initialized
+- [ ] The array `array` is not entirely initialized
 
 ### Question #2
 
