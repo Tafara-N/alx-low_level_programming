@@ -685,22 +685,22 @@ julien@ubuntu:~/0x06$
 
 ![Magic](magic.gif)
 
-Add one line to this code, so that the program prints a[2] = 98, followed by a new line.
+Add one line to [this code](https://github.com/alx-tools/make_magic_happen/blob/master/magic.c), so that the program prints `a[2] = 98`, followed by a new line.
 
-You are not allowed to use the variable a in your new line of code
-You are not allowed to modify the variable p
-You can only write one statement
-You are not allowed to use ,
-You are not allowed to code anything else than the line of expected line of code at the expected line
-Your code should be written at line 19, before the ;
-Do not remove anything from the initial code (not even the comments)
+- You are not allowed to use the variable `a` in your new line of code
+- You are not allowed to modify the variable `p`
+- You can only write one statement
+- You are not allowed to use `,`
+- You are not allowed to code anything else than the line of expected line of code at the expected line
+- Your code should be written at line 19, before the `;`
+- Do not remove anything from the initial code (not even the comments)
 and don’t change anything but the line of code you are adding (don’t change the spaces to tabs!)
-You are allowed to use the standard library
-**Repo:**
+- You are allowed to use the standard library
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-- File: 102-magic.c
+- File: `102-magic.c`
 
 11. It is the addition of strangeness to beauty that constitutes the romantic character in art
 #advanced
