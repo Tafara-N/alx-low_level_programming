@@ -41,10 +41,11 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 Write a function that concatenates two strings.
 
-Prototype: char *_strcat(char *dest, char *src);
-This function appends the src string to the dest string, overwriting the terminating null byte (\0) at the end of dest, and then adds a terminating null byte
-Returns a pointer to the resulting string dest
-FYI: The standard library provides a similar function: strcat. Run man strcat to learn more.
+- Prototype: `char *_strcat(char *dest, char *src);`
+- This function appends the `src` string to the `dest` string, overwriting the terminating null byte (`\0`) at the end of dest, and then adds a terminating null byte
+- Returns a pointer to the resulting string `dest`
+
+FYI: The standard library provides a similar function: `strcat`. Run `man strcat` to learn more.
 
 ```
 julien@ubuntu:~/0x06$ cat 0-main.c
