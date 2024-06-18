@@ -45,3 +45,131 @@ General
 You do not need to learn about pointers to functions, arrays of structures, `malloc` and `free` - yet.
 
 ## Quiz questions
+
+Question #0
+What is the size of *p in this code?
+
+int *p;
+
+4 bytes
+
+
+8 bytes
+
+
+16 bytes
+
+Question #1
+What is stored inside a pointer to a pointer to an int?
+
+
+An address where an int is stored
+
+
+An int
+
+
+An address where an address is stored
+
+Question #2
+What is the size of p in this code?
+
+int *p;
+
+4 bytes
+
+
+8 bytes
+
+
+16 bytes
+
+Question #3
+In this following code, what is the value of a[3][0]?
+
+int a[5][2] = {{1, 2}, {3, 4}, {5, 6}, {7, 8}, {9, 10}};
+
+5
+
+
+7
+
+
+8
+
+
+{7, 8}
+
+Question #4
+What is the size of p in this code?
+
+int **p;
+
+4 bytes
+
+
+8 bytes
+
+
+16 bytes
+
+Question #5
+In this following code, what is the value of a[0][0]?
+
+int a[5][2] = {{1, 2}, {3, 4}, {5, 6}, {7, 8}, {9, 10}};
+
+4
+
+
+1
+
+
+2
+
+
+3
+
+Question #6
+In this following code, what is the value of a[3][1]?
+
+int a[5][2] = {{1, 2}, {3, 4}, {5, 6}, {7, 8}, {9, 10}};
+
+8
+
+
+7
+
+
+9
+
+
+{7, 8}
+
+Question #7
+What is the size of *p in this code?
+
+int **p;
+
+4 bytes
+
+
+8 bytes
+
+
+16 bytes
+
+### Question #8
+
+In this following code, what is the value of a[1][1]?
+
+```c
+int a[5][2] = {{1, 2}, {3, 4}, {5, 6}, {7, 8}, {9, 10}};
+```
+
+- [ ] 4
+
+- [ ] 1
+
+- [ ] 2
+
+- [ ] 3
