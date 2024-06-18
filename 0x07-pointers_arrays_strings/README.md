@@ -641,10 +641,9 @@ julien@ubuntu:~/0x07$
 - Directory: `0x07-pointers_arrays_strings`
 - File: 100-set_string.c
 
-9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure
-#advanced
-Score: 0.0% (Checks completed: 0.0%)
-Create a file that contains the password for the crackme2 executable.
+### 9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure
+
+Create a file that contains the password for the [crackme2](https://github.com/alx-tools/0x06.c) executable.
 
 Your file should contain the exact password, no new line, no extra space
 ltrace, ldd, gdb and objdump can help
