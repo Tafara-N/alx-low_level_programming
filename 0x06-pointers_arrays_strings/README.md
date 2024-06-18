@@ -35,6 +35,131 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 - Don’t forget to push your header file
 
+### Quiz questions
+
+Question #0
+var = "Best";
+What is the type of var?
+
+
+string
+
+
+char *
+
+
+int *
+
+Question #1
+What is wrong with the following code?
+
+int n = 5;
+int array[5];
+int i = 3;
+
+array[n] = i;
+
+It is not possible to access array[n]
+
+
+Nothing is wrong
+
+
+It is impossible to declare the variable array this way
+
+
+The array array is not entirely initialized
+
+Question #2
+What is wrong with the following code?
+
+int n = 5;
+int array[10];
+int i = 3;
+
+array[n] = i;
+
+It is not possible to access array[n]
+
+
+Nothing is wrong
+
+
+It is impossible to declare the variable array this way
+
+
+The array array is not entirely initialized
+
+Question #3
+What is wrong with the following code?
+
+int n = 5;
+int array[n];
+int i = 3;
+
+array[n] = i;
+
+It is not possible to access array[n]
+
+
+Nothing is wrong
+
+
+It is impossible to declare the variable array this way
+
+
+The array array is not entirely initialized
+
+Question #4
+Why is it important to reserve enough space for an extra character when declaring/allocating a string?
+
+
+For fun
+
+
+In case we need one
+
+
+For memory alignment
+
+
+For the null byte (end of string)
+
+Question #5
+What happens when one tries to dereference a pointer to NULL?
+
+
+World War Z
+
+
+Nothing
+
+
+Segmentation fault
+
+
+Kernel panic
+
+Question #6
+What is/are the difference(s) between the two following variables? (Except their names)
+
+char *s1 = "";
+char *s2 = NULL;
+
+The second one can be dereferenced, not the first one
+
+
+They are the same
+
+
+The first one points to a 0-byte, the second one points to 0
+
+
+The first one can be dereferenced, not the second one
+
+
+- [ ] The first one points to 0, the second one points to a 0-byte
+
 ## Tasks
 
 ### 0. strcat
