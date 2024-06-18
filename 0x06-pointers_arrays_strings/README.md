@@ -702,20 +702,21 @@ and don’t change anything but the line of code you are adding (don’t change 
 - Directory: `0x06-pointers_arrays_strings`
 - File: `102-magic.c`
 
-11. It is the addition of strangeness to beauty that constitutes the romantic character in art
-#advanced
-Score: 0.0% (Checks completed: 0.0%)
+### 11. It is the addition of strangeness to beauty that constitutes the romantic character in art
+
 Write a function that adds two numbers.
 
-Prototype: char *infinite_add(char *n1, char *n2, char *r, int size_r);
-Where n1 and n2 are the two numbers
-r is the buffer that the function will use to store the result
-size_r is the buffer size
-The function returns a pointer to the result
-You can assume that you will always get positive numbers, or 0
-You can assume that there will be only digits in the strings n1 and n2
-n1 and n2 will never be empty
-If the result can not be stored in r the function must return 0
+- Prototype: `char *infinite_add(char *n1, char *n2, char *r, int size_r);`
+- Where `n1` and `n2` are the two numbers
+- `r` is the buffer that the function will use to store the result
+- `size_r` is the buffer size
+- The function returns a pointer to the result
+- You can assume that you will always get positive numbers, or `0`
+- You can assume that there will be only digits in the strings `n1` and `n2`
+- `n1` and `n2` will never be empty
+- If the result can not be stored in `r` the function must return `0`
+
+```bash
 julien@ubuntu:~/0x06$ cat 103-main.c
 #include "main.h"
 #include <stdio.h>
