@@ -110,20 +110,18 @@ It is impossible to declare the variable array this way
 
 The array array is not entirely initialized
 
-Question #4
+### Question #4
+
 Why is it important to reserve enough space for an extra character when declaring/allocating a string?
 
 
-For fun
+- [ ] For fun
 
+- [ ] In case we need one
 
-In case we need one
+- [ ] For memory alignment
 
-
-For memory alignment
-
-
-For the null byte (end of string)
+- [ ] For the null byte (end of string)
 
 ### Question #5
 
