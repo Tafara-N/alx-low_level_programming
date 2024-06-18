@@ -125,20 +125,17 @@ For memory alignment
 
 For the null byte (end of string)
 
-Question #5
+### Question #5
+
 What happens when one tries to dereference a pointer to NULL?
 
+- [ ] World War Z
 
-World War Z
+- [ ] Nothing
 
+- [ ] Segmentation fault
 
-Nothing
-
-
-Segmentation fault
-
-
-Kernel panic
+- [ ] Kernel panic
 
 ### Question #6
 
