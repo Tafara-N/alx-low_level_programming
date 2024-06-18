@@ -70,45 +70,45 @@ It is impossible to declare the variable array this way
 
 The array array is not entirely initialized
 
-Question #2
+### Question #2
+
 What is wrong with the following code?
 
+```c
 int n = 5;
 int array[10];
 int i = 3;
 
 array[n] = i;
+```
 
-It is not possible to access array[n]
+- [ ] It is not possible to access `array[n]`
 
+- [ ] Nothing is wrong
 
-Nothing is wrong
+- [ ] It is impossible to declare the variable `array` this way
 
+- [ ] The array `array` is not entirely initialized
 
-It is impossible to declare the variable array this way
+### Question #3
 
-
-The array array is not entirely initialized
-
-Question #3
 What is wrong with the following code?
 
+```c
 int n = 5;
 int array[n];
 int i = 3;
 
 array[n] = i;
+```
 
-It is not possible to access array[n]
+- [ ] It is not possible to access `array[n]`
 
+- [ ] Nothing is wrong
 
-Nothing is wrong
+- [ ] It is impossible to declare the variable `array` this way
 
-
-It is impossible to declare the variable array this way
-
-
-The array array is not entirely initialized
+- [ ] The array `array` is not entirely initialized
 
 ### Question #4
 
