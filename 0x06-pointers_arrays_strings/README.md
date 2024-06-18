@@ -451,7 +451,7 @@ Write a function that changes all lowercase letters of a string to uppercase.
 
 - Prototype: `char *string_toupper(char *);`
 
-```
+```bash
 julien@ubuntu:~/0x06$ cat 5-main.c
 #include "main.h"
 #include <stdio.h>
@@ -487,10 +487,10 @@ julien@ubuntu:~/0x06$
 
 Write a function that capitalizes all words of a string.
 
-Prototype: `char *cap_string(char *);`
-Separators of words: space, tabulation, new line, ,, ;, ., !, ?, ", (, ), {, and }
+- Prototype: `char *cap_string(char *);`
+- Separators of words: space, tabulation, new line, `,`, `;`, `.`, `!`, `?`, `"`, `(`, `)`, `{`, and `}`
 
-```
+```bash
 julien@ubuntu:~/0x06$ cat 6-main.c
 #include "main.h"
 #include <stdio.h>
