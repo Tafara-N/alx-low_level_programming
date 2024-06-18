@@ -784,27 +784,29 @@ Error
 Error
 999999999 + 1 = 1000000000
 julien@ubuntu:~/0x06$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-- File: 103-infinite_add.c
+- File: `103-infinite_add.c`
 
-12. Noise is a buffer, more effective than cubicles or booth walls
-#advanced
-Score: 100.0% (Checks completed: 100.0%)
+### 12. Noise is a buffer, more effective than cubicles or booth walls
+
 Write a function that prints a buffer.
 
-Prototype: void print_buffer(char *b, int size);
-The function must print the content of size bytes of the buffer pointed by b
-The output should print 10 bytes per line
-Each line starts with the position of the first byte of the line in hexadecimal (8 chars), starting with 0
-Each line shows the hexadecimal content (2 chars) of the buffer, 2 bytes at a time, separated by a space
-Each line shows the content of the buffer. If the byte is a printable character, print the letter, if not, print .
-Each line ends with a new line \n
-If size is 0 or less, the output should be a new line only \n
-You are allowed to use the standard library
-The output should look like the following example, and formatted exactly the same way:
+- Prototype: `void print_buffer(char *b, int size);`
+- The function must print the content of `size` bytes of the buffer pointed by `b`
+- The output should print 10 bytes per line
+- Each line starts with the position of the first byte of the line in hexadecimal (8 chars), starting with `0`
+- Each line shows the hexadecimal content (2 chars) of the buffer, 2 bytes at a time, separated by a space
+- Each line shows the content of the buffer. If the byte is a printable character, print the letter, if not, print `.`
+- Each line ends with a new line `\n`
+- If `size` is `0` or less, the output should be a new line only `\n`
+- You are allowed to use the standard library
+- The output should look like the following example, and formatted exactly the same way:
+
+```bash
 julien@ubuntu:~/0x06$ cat 104-main.c
 #include "main.h"
 #include <stdio.h>
@@ -841,8 +843,9 @@ This is a string!
 0000006e: 2369 6e66 6572 6e75 6d69 #infernumi
 00000078: 7366 756e 0a00           sfun..
 julien@ubuntu:~/0x06$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-- File: 104-print_buffer.c
+- File: `104-print_buffer.c`
