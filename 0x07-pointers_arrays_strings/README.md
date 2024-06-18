@@ -129,21 +129,21 @@ int a[5][2] = {{1, 2}, {3, 4}, {5, 6}, {7, 8}, {9, 10}};
 
 3
 
-Question #6
-In this following code, what is the value of a[3][1]?
+### Question #6
 
+In this following code, what is the value of `a[3][1]`?
+
+```c
 int a[5][2] = {{1, 2}, {3, 4}, {5, 6}, {7, 8}, {9, 10}};
+```
 
-8
+- [ ] 8
 
+- [ ] 7
 
-7
+- [ ] 9
 
-
-9
-
-
-{7, 8}
+- [ ] {7, 8}
 
 ### Question #7
 
