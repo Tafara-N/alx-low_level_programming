@@ -524,21 +524,22 @@ julien@ubuntu:~/0x06$
 - Directory: `0x06-pointers_arrays_strings`
 - File: `6-cap_string.c`
 
-7. Mozart composed his music not for the elite, but for everybody
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Write a function that encodes a string into 1337.
+### 7. Mozart composed his music not for the elite, but for everybody
 
-Letters a and A should be replaced by 4
-Letters e and E should be replaced by 3
-Letters o and O should be replaced by 0
-Letters t and T should be replaced by 7
-Letters l and L should be replaced by 1
-Prototype: char *leet(char *);
-You can only use one if in your code
-You can only use two loops in your code
-You are not allowed to use switch
-You are not allowed to use any ternary operation
+Write a function that encodes a string into [1337](https://intranet.alxswe.com/rltoken/9v9KfpvWnL0GoMu5mozbug).
+
+- Letters `a` and `A` should be replaced by `4`
+- Letters `e` and `E` should be replaced by `3`
+- Letters `o` and `O` should be replaced by `0`
+- Letters `t` and `T` should be replaced by `7`
+- Letters `l` and `L` should be replaced by `1`
+- Prototype: `char *leet(char *);`
+- You can only use one `if` in your code
+- You can only use two loops in your code
+- You are not allowed to use `switch`
+- You are not allowed to use any ternary operation
+
+```bash
 julien@ubuntu:~/0x06$ cat 7-main.c
 #include "main.h"
 #include <stdio.h>
@@ -563,11 +564,12 @@ julien@ubuntu:~/0x06$ ./7-1337
 3xp3c7 7h3 b3s7. Pr3p4r3 f0r 7h3 w0rs7. C4pi741iz3 0n wh47 c0m3s.
 3xp3c7 7h3 b3s7. Pr3p4r3 f0r 7h3 w0rs7. C4pi741iz3 0n wh47 c0m3s.
 julien@ubuntu:~/0x06$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-- File: 7-leet.c
+- File: `7-leet.c`
 
 8. rot13
 #advanced
