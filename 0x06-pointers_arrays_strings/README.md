@@ -517,11 +517,12 @@ Hello World! Hello-world 0123456hello World Hello World.Hello World
 Expect The Best. Prepare For The Worst. Capitalize On What Comes.
 Hello World! Hello-world 0123456hello World Hello World.Hello World
 julien@ubuntu:~/0x06$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x06-pointers_arrays_strings`
-- File: 6-cap_string.c
+- File: `6-cap_string.c`
 
 7. Mozart composed his music not for the elite, but for everybody
 mandatory
