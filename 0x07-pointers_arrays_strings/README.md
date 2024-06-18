@@ -605,12 +605,13 @@ julien@ubuntu:~/0x07$
 - Directory: `0x07-pointers_arrays_strings`
 - File: 8-print_diagsums.c
 
-8. Double pointer, double fun
-#advanced
-Score: 100.0% (Checks completed: 100.0%)
+### 8. Double pointer, double fun
+
 Write a function that sets the value of a pointer to a char.
 
-Prototype: void set_string(char **s, char *to);
+- Prototype: `void set_string(char **s, char *to);`
+
+```bash
 julien@ubuntu:~/0x07$ cat 100-main.c
 #include "main.h"
 #include <stdio.h>
@@ -635,11 +636,12 @@ julien@ubuntu:~/0x07$ ./100-set_string
 Bob Dylan, Robert Allen
 Bob Dylan, Bob Dylan
 julien@ubuntu:~/0x07$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x07-pointers_arrays_strings`
-- File: 100-set_string.c
+- File: `100-set_string.c`
 
 ### 9. My primary goal of hacking was the intellectual curiosity, the seduction of adventure
 
