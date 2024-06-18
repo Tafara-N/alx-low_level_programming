@@ -683,7 +683,7 @@ julien@ubuntu:~/0x06$
 
 ### 10. A dream doesn't become reality through magic; it takes sweat, determination and hard work
 
-![]()
+![Magic](magic.gif)
 
 Add one line to this code, so that the program prints a[2] = 98, followed by a new line.
 
