@@ -40,7 +40,9 @@ General
 - The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 - Don’t forget to push your header file
 
+# More Info
 
+You do not need to learn about pointers to functions, arrays of structures, `malloc` and `free` - yet.
 
 Quiz questions
 Great! You've completed the quiz successfully! Keep going! (Show quiz)
