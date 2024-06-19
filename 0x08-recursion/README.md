@@ -338,12 +338,14 @@ julien@ubuntu:~/0x08. Recursion$
 - File: 6-is_prime_number.c
 
 7. They say we only use a fraction of our brain's true potential. Now that's when we're awake. When we're asleep, we can do almost anything
-#advanced
-Score: 100.0% (Checks completed: 100.0%)
-Write a function that returns 1 if a string is a palindrome and 0 if not.
 
-Prototype: int is_palindrome(char *s);
-An empty string is a palindrome
+Write a function that returns `1` if a string is a palindrome and `0` if not.
+
+- Prototype: `int is_palindrome(char *s);`
+- An empty string is a palindrome
+
+
+```bash
 julien@ubuntu:~/0x08. Recursion$ cat 100-main.c
 #include "main.h"
 #include <stdio.h>
@@ -374,11 +376,12 @@ julien@ubuntu:~/0x08. Recursion$ ./100-palindrome
 0
 1
 julien@ubuntu:~/0x08. Recursion$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
-- File: 100-is_palindrome.c
+- File: `100-is_palindrome.c`
 
 ### 8. Inception. Now, before you bother telling me it's impossible...
 
