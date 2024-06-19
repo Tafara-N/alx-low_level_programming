@@ -133,9 +133,11 @@ int main(void)
 
 321
 
-Question #3
+### Question #3
+
 What does this code print?
 
+```c
 void print(int nb)
 {
     printf("%d", nb);
@@ -151,17 +153,15 @@ int main(void)
     print(4);
     return (0);
 }
+```
 
-456789
+- [ ] 456789
 
+- [ ] 987654
 
-987654
+- [ ] 109876543
 
-
-109876543
-
-
-345678910
+- [ ] 345678910
 
 ### Question #4
 
