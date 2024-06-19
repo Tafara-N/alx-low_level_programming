@@ -1,3 +1,5 @@
+![Recursion](recursion.jpg)
+
 
 # Resources
 
