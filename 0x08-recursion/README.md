@@ -42,6 +42,156 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Quiz questions
 
+Question #0
+What does this code print?
+
+void print(int nb)
+{
+    printf("%d", nb);
+    nb --;
+    if (nb > 0)
+    {
+        print(nb);
+    }
+}
+
+int main(void)
+{
+    print(2);
+    return (0);
+}
+
+210
+
+
+012
+
+
+12
+
+
+21
+
+Question #1
+What does this code print?
+
+void print(int nb)
+{
+    if (nb < 0)
+    {
+        return;
+    }
+    printf("%d", nb);
+    nb --;
+    print(nb);
+}
+
+int main(void)
+{
+    print(4);
+    return (0);
+}
+
+4321
+
+
+01234
+
+
+43210
+
+
+1234
+
+Question #2
+What does this code print?
+
+void print(int nb)
+{
+    printf("%d", nb);
+    -- nb;
+    if (nb > 0)
+    {
+        print(nb);
+    }
+}
+
+int main(void)
+{
+    print(4);
+    return (0);
+}
+
+3210
+
+
+4321
+
+
+43210
+
+
+321
+
+Question #3
+What does this code print?
+
+void print(int nb)
+{
+    printf("%d", nb);
+    nb ++;
+    if (nb < 10)
+    {
+        print(nb);
+    }
+}
+
+int main(void)
+{
+    print(4);
+    return (0);
+}
+
+456789
+
+
+987654
+
+
+109876543
+
+
+345678910
+
+### Question #4
+
+What does this code print?
+
+```c
+int print(int nb)
+{
+    if (nb < 0)
+    {
+        return (0);
+    }
+    printf("%d", nb + print(nb - 1));
+    nb --;
+    return (nb);
+}
+
+int main(void)
+{
+    print(4);
+    return (0);
+}
+```
+
+- [ ] 64200
+
+- [ ] 00246
+
+- [ ] 01234568
+
 ## Tasks
 
 ### 0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget
