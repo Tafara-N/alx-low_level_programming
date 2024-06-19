@@ -72,9 +72,11 @@ int main(void)
 
 21
 
-Question #1
+### Question #1
+
 What does this code print?
 
+```c
 void print(int nb)
 {
     if (nb < 0)
@@ -91,17 +93,15 @@ int main(void)
     print(4);
     return (0);
 }
+```
 
-4321
+- [ ] 4321
 
+- [ ] 01234
 
-01234
+- [ ] 43210
 
-
-43210
-
-
-1234
+- [ ] 1234
 
 ### Question #2
 
