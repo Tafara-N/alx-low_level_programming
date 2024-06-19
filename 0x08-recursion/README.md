@@ -42,9 +42,11 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Quiz questions
 
-Question #0
+### Question #0
+
 What does this code print?
 
+```c
 void print(int nb)
 {
     printf("%d", nb);
@@ -60,17 +62,15 @@ int main(void)
     print(2);
     return (0);
 }
+```
 
-210
+- [ ] 210
 
+- [ ] 012
 
-012
+- [ ] 12
 
-
-12
-
-
-21
+- [ ] 21
 
 ### Question #1
 
