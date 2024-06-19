@@ -39,17 +39,20 @@ The prototypes of all your functions and the prototype of the function _putchar 
 Don’t forget to push your header file
 You are not allowed to use any kind of loops
 You are not allowed to use static variables
-Quiz questions
-Great! You've completed the quiz successfully! Keep going! (Show quiz)
-Tasks
-0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+
+## Quiz questions
+
+## Tasks
+
+### 0. She locked away a secret, deep inside herself, something she once knew to be true... but chose to forget
+
 Write a function that prints a string, followed by a new line.
 
-Prototype: void _puts_recursion(char *s);
-FYI: The standard library provides a similar function: puts. Run man puts to learn more.
+- Prototype: `void _puts_recursion(char *s);`
 
+FYI: The standard library provides a similar function: `puts`. Run `man puts` to learn more.
+
+```bash
 julien@ubuntu:~/0x08. Recursion$ cat 0-main.c
 #include "main.h"
 
@@ -67,11 +70,12 @@ julien@ubuntu:~/0x08. Recursion$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 
 julien@ubuntu:~/0x08. Recursion$ ./0-puts_recursion
 Puts with recursion
 julien@ubuntu:~/0x08. Recursion$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
-- File: 0-puts_recursion.c
+- File: `0-puts_recursion.c`
 
 ### 1. Why is it so important to dream? Because, in my dreams we are together
 
