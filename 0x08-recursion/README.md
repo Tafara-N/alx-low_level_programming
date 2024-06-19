@@ -181,15 +181,16 @@ julien@ubuntu:~/0x08. Recursion$
 - Directory: `0x08-recursion`
 - File: 3-factorial.c
 
-4. Once an idea has taken hold of the brain it's almost impossible to eradicate
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Write a function that returns the value of x raised to the power of y.
+### 4. Once an idea has taken hold of the brain it's almost impossible to eradicate
 
-Prototype: int _pow_recursion(int x, int y);
-If y is lower than 0, the function should return -1
-FYI: The standard library provides a different function: pow. Run man pow to learn more.
+Write a function that returns the value of `x` raised to the power of `y`.
 
+- Prototype: `int _pow_recursion(int x, int y);`
+- If `y` is lower than `0`, the function should return `-1`
+
+FYI: The standard library provides a different function: `pow`. Run `man pow` to learn more.
+
+```bash
 julien@ubuntu:~/0x08. Recursion$ cat 4-main.c
 #include "main.h"
 #include <stdio.h>
@@ -226,11 +227,12 @@ julien@ubuntu:~/0x08. Recursion$ ./4-pow
 -1
 -125
 julien@ubuntu:~/0x08. Recursion$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
-- File: 4-pow_recursion.c
+- File: `4-pow_recursion.c`
 
 ### 5. Your subconscious is looking for the dreamer
 
