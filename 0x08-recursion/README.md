@@ -380,14 +380,15 @@ julien@ubuntu:~/0x08. Recursion$
 - Directory: `0x08-recursion`
 - File: 100-is_palindrome.c
 
-8. Inception. Now, before you bother telling me it's impossible...
-#advanced
-Score: 100.0% (Checks completed: 100.0%)
-Write a function that compares two strings and returns 1 if the strings can be considered identical, otherwise return 0.
+### 8. Inception. Now, before you bother telling me it's impossible...
 
-Prototype: int wildcmp(char *s1, char *s2);
-s2 can contain the special character *.
-The special char * can replace any string (including an empty string)
+Write a function that compares two strings and returns `1` if the strings can be considered identical, otherwise return `0`.
+
+- Prototype: `int wildcmp(char *s1, char *s2);`
+- `s2` can contain the special character `*`.
+- The special char `*` can replace any string (including an empty string)
+
+```bash
 julien@ubuntu:~/0x08. Recursion$ cat 101-main.c
 #include "main.h"
 #include <stdio.h>
@@ -442,8 +443,9 @@ julien@ubuntu:~/0x08. Recursion$ ./101-wildcmp
 0
 0
 julien@ubuntu:~/0x08. Recursion$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
 - File: 101-wildcmp.c
