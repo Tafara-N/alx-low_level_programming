@@ -73,12 +73,13 @@ julien@ubuntu:~/0x08. Recursion$
 - Directory: `0x08-recursion`
 - File: 0-puts_recursion.c
 
-1. Why is it so important to dream? Because, in my dreams we are together
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 1. Why is it so important to dream? Because, in my dreams we are together
+
 Write a function that prints a string in reverse.
 
-Prototype: void _print_rev_recursion(char *s);
+- Prototype: `void _print_rev_recursion(char *s);`
+
+```bash
 julien@ubuntu:~/0x08. Recursion$ cat 1-main.c
 #include "main.h"
 
@@ -96,11 +97,12 @@ julien@ubuntu:~/0x08. Recursion$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 
 julien@ubuntu:~/0x08. Recursion$ ./1-print_rev_recursion
 reklaW notloC
 julien@ubuntu:~/0x08. Recursion$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
-- File: 1-print_rev_recursion.c
+- File: `1-print_rev_recursion.c`
 
 ### 2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange
 
