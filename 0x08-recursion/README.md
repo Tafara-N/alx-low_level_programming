@@ -1,6 +1,5 @@
 ![Recursion](recursion.jpg)
 
-
 # Resources
 
 ## Read or watch:
