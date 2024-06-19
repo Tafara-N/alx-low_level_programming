@@ -103,9 +103,11 @@ int main(void)
 
 1234
 
-Question #2
+### Question #2
+
 What does this code print?
 
+```c
 void print(int nb)
 {
     printf("%d", nb);
@@ -121,17 +123,15 @@ int main(void)
     print(4);
     return (0);
 }
+```
 
-3210
+- [ ] 3210
 
+- [ ] 4321
 
-4321
+- [ ] 43210
 
-
-43210
-
-
-321
+- [ ] 321
 
 ### Question #3
 
