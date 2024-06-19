@@ -102,14 +102,15 @@ julien@ubuntu:~/0x08. Recursion$
 - Directory: `0x08-recursion`
 - File: 1-print_rev_recursion.c
 
-2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 2. Dreams feel real while we're in them. It's only when we wake up that we realize something was actually strange
+
 Write a function that returns the length of a string.
 
-Prototype: int _strlen_recursion(char *s);
-FYI: The standard library provides a similar function: strlen. Run man strlen to learn more.
+- Prototype: `int _strlen_recursion(char *s);`
 
+FYI: The standard library provides a similar function: `strlen`. Run `man strlen` to learn more.
+
+```bash
 julien@ubuntu:~/0x08. Recursion$ cat 2-main.c
 #include "main.h"
 #include <stdio.h>
@@ -131,11 +132,12 @@ julien@ubuntu:~/0x08. Recursion$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 
 julien@ubuntu:~/0x08. Recursion$ ./2-strlen_recursion
 14
 julien@ubuntu:~/0x08. Recursion$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
-- File: 2-strlen_recursion.c
+- File: `2-strlen_recursion.c`
 
 ### 3. You mustn't be afraid to dream a little bigger, darling
 
