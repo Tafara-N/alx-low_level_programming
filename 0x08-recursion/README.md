@@ -69,7 +69,7 @@ Puts with recursion
 julien@ubuntu:~/0x08. Recursion$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
 File: 0-puts_recursion.c
 
@@ -98,7 +98,7 @@ reklaW notloC
 julien@ubuntu:~/0x08. Recursion$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
 File: 1-print_rev_recursion.c
 
@@ -133,7 +133,7 @@ julien@ubuntu:~/0x08. Recursion$ ./2-strlen_recursion
 julien@ubuntu:~/0x08. Recursion$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
 File: 2-strlen_recursion.c
 
@@ -177,7 +177,7 @@ julien@ubuntu:~/0x08. Recursion$ ./3-factorial
 julien@ubuntu:~/0x08. Recursion$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
 File: 3-factorial.c
 
@@ -228,7 +228,7 @@ julien@ubuntu:~/0x08. Recursion$ ./4-pow
 julien@ubuntu:~/0x08. Recursion$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
 File: 4-pow_recursion.c
 
@@ -279,7 +279,7 @@ julien@ubuntu:~/0x08. Recursion$ ./5-sqrt
 julien@ubuntu:~/0x08. Recursion$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
 File: 5-sqrt_recursion.c
 
@@ -333,7 +333,7 @@ julien@ubuntu:~/0x08. Recursion$ ./6-prime
 julien@ubuntu:~/0x08. Recursion$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
 File: 6-is_prime_number.c
 
@@ -376,7 +376,7 @@ julien@ubuntu:~/0x08. Recursion$ ./100-palindrome
 julien@ubuntu:~/0x08. Recursion$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
 File: 100-is_palindrome.c
 
@@ -444,6 +444,6 @@ julien@ubuntu:~/0x08. Recursion$ ./101-wildcmp
 julien@ubuntu:~/0x08. Recursion$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
 File: 101-wildcmp.c
