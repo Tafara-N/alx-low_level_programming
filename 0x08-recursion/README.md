@@ -283,12 +283,13 @@ julien@ubuntu:~/0x08. Recursion$
 - Directory: `0x08-recursion`
 - File: 5-sqrt_recursion.c
 
-6. Inception. Is it possible?
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Write a function that returns 1 if the input integer is a prime number, otherwise return 0.
+### 6. Inception. Is it possible?
 
-Prototype: int is_prime_number(int n);
+Write a function that returns `1` if the input integer is a [prime number](https://intranet.alxswe.com/rltoken/bjG_8Gu-_0rwbYA_tAv2Yw), otherwise return `0`.
+
+- Prototype: `int is_prime_number(int n);`
+
+```bash
 julien@ubuntu:~/0x08. Recursion$ cat 6-main.c
 #include "main.h"
 #include <stdio.h>
@@ -331,8 +332,9 @@ julien@ubuntu:~/0x08. Recursion$ ./6-prime
 1
 1
 julien@ubuntu:~/0x08. Recursion$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
 - File: `6-is_prime_number.c`
