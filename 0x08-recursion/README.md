@@ -232,15 +232,16 @@ julien@ubuntu:~/0x08. Recursion$
 - Directory: `0x08-recursion`
 - File: 4-pow_recursion.c
 
-5. Your subconscious is looking for the dreamer
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 5. Your subconscious is looking for the dreamer
+
 Write a function that returns the natural square root of a number.
 
-Prototype: int _sqrt_recursion(int n);
-If n does not have a natural square root, the function should return -1
-FYI: The standard library provides a different function: sqrt. Run man sqrt to learn more.
+- Prototype: `int _sqrt_recursion(int n);`
+- If `n` does not have a natural square root, the function should return `-1`
 
+FYI: The standard library provides a different function: `sqrt`. Run `man sqrt` to learn more.
+
+```bash
 julien@ubuntu:~/0x08. Recursion$ cat 5-main.c
 #include "main.h"
 #include <stdio.h>
@@ -277,11 +278,12 @@ julien@ubuntu:~/0x08. Recursion$ ./5-sqrt
 5
 -1
 julien@ubuntu:~/0x08. Recursion$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
-- File: 5-sqrt_recursion.c
+- File: `5-sqrt_recursion.c`
 
 ### 6. Inception. Is it possible?
 
