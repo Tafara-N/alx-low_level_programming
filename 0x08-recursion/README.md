@@ -1,14 +1,15 @@
 
-Resources
-Read or watch:
+# Resources
 
-0x08. Recursion, introduction
-What on Earth is Recursion?
-C - Recursion
-C Programming Tutorial 85, Recursion pt.1
-C Programming Tutorial 86, Recursion pt.2
-Additional Resources
-Recursion & Recursive functions in C Programming
+## Read or watch:
+- [0x08. Recursion, introduction]()
+- [What on Earth is Recursion?]()
+- [C - Recursion]()
+- [C Programming Tutorial 85, Recursion pt.1]()
+- [C Programming Tutorial 86, Recursion pt.2]()
+
+# Additional Resources
+- [Recursion & Recursive functions in C Programming](https://intranet.alxswe.com/rltoken/TreRmmRkZ3jYdFZZW6p6vw)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/Uip4OgfLQdGP921TAMtCHQ), **without the help of Google:**
