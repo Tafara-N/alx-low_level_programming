@@ -67,7 +67,7 @@ julien@ubuntu:~/0x08. Recursion$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 
 julien@ubuntu:~/0x08. Recursion$ ./0-puts_recursion
 Puts with recursion
 julien@ubuntu:~/0x08. Recursion$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
@@ -96,7 +96,7 @@ julien@ubuntu:~/0x08. Recursion$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 
 julien@ubuntu:~/0x08. Recursion$ ./1-print_rev_recursion
 reklaW notloC
 julien@ubuntu:~/0x08. Recursion$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
@@ -131,7 +131,7 @@ julien@ubuntu:~/0x08. Recursion$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 
 julien@ubuntu:~/0x08. Recursion$ ./2-strlen_recursion
 14
 julien@ubuntu:~/0x08. Recursion$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
@@ -175,7 +175,7 @@ julien@ubuntu:~/0x08. Recursion$ ./3-factorial
 3628800
 -1
 julien@ubuntu:~/0x08. Recursion$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
@@ -226,7 +226,7 @@ julien@ubuntu:~/0x08. Recursion$ ./4-pow
 -1
 -125
 julien@ubuntu:~/0x08. Recursion$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
@@ -277,7 +277,7 @@ julien@ubuntu:~/0x08. Recursion$ ./5-sqrt
 5
 -1
 julien@ubuntu:~/0x08. Recursion$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
@@ -331,7 +331,7 @@ julien@ubuntu:~/0x08. Recursion$ ./6-prime
 1
 1
 julien@ubuntu:~/0x08. Recursion$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
@@ -374,7 +374,7 @@ julien@ubuntu:~/0x08. Recursion$ ./100-palindrome
 0
 1
 julien@ubuntu:~/0x08. Recursion$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
@@ -442,7 +442,7 @@ julien@ubuntu:~/0x08. Recursion$ ./101-wildcmp
 0
 0
 julien@ubuntu:~/0x08. Recursion$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x08-recursion`
