@@ -52,7 +52,7 @@ julien@ubuntu:~/0x0A. argc, argv$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
-File: 0-whatsmyname.c
+- File: 0-whatsmyname.c
 
 1. Silence is argument carried out by other means
 mandatory
@@ -74,7 +74,7 @@ julien@ubuntu:~/0x0A. argc, argv$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
-File: 1-args.c
+- File: 1-args.c
 
 2. The best argument against democracy is a five-minute conversation with the average voter
 mandatory
@@ -100,7 +100,7 @@ julien@ubuntu:~/0x0A. argc, argv$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
-File: 2-args.c
+- File: 2-args.c
 
 3. Neither irony nor sarcasm is argument
 mandatory
@@ -126,7 +126,7 @@ julien@ubuntu:~/0x0A. argc, argv$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
-File: 3-mul.c
+- File: 3-mul.c
 
 4. To infinity and beyond
 mandatory
@@ -151,7 +151,7 @@ julien@ubuntu:~/0x0A. argc, argv$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
-File: 4-add.c
+- File: 4-add.c
 
 5. Minimal Number of Coins for Change
 #advanced
@@ -180,4 +180,4 @@ julien@ubuntu:~/0x0A. argc, argv$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
-File: `100-change.c`
+- File: `100-change.c`
