@@ -2,7 +2,7 @@
 
 **Read or watch:**
 - [Arguments to main](https://intranet.alxswe.com/rltoken/Jip_nI4tv2ybQZ-jV3fqJg)
-- [argc and argv]()
+- [argc and argv](https://intranet.alxswe.com/rltoken/31aLwv8qsXuiUZrOk9Djqg)
 - [What does argc and argv mean?]()
 - [how to compile with unused variables]()
 
