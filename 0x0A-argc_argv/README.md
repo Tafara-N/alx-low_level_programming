@@ -48,18 +48,20 @@ julien@ubuntu:~/0x0A. argc, argv$ mv mynameis mynewnameis
 julien@ubuntu:~/0x0A. argc, argv$ ./mynewnameis
 ./mynewnameis
 julien@ubuntu:~/0x0A. argc, argv$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
-- File: 0-whatsmyname.c
+- File: `0-whatsmyname.c`
 
-1. Silence is argument carried out by other means
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 1. Silence is argument carried out by other means
+
 Write a program that prints the number of arguments passed into it.
 
-Your program should print a number, followed by a new line
+- Your program should print a number, followed by a new line
+
+```bash
 julien@ubuntu:~/0x0A. argc, argv$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-args.c -o nargs
 julien@ubuntu:~/0x0A. argc, argv$ ./nargs
 0
@@ -70,11 +72,12 @@ julien@ubuntu:~/0x0A. argc, argv$ ./nargs "hello, world"
 julien@ubuntu:~/0x0A. argc, argv$ ./nargs hello, world
 2
 julien@ubuntu:~/0x0A. argc, argv$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
-- File: 1-args.c
+- File: `1-args.c`
 
 ### 2. The best argument against democracy is a five-minute conversation with the average voter
 
