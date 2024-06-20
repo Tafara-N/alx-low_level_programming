@@ -54,12 +54,13 @@ You do not need to learn about dynamic libraries, yet.
 
 Quiz questions
 Great! You've completed the quiz successfully! Keep going! (Show quiz)
-Tasks
-0. A library is not a luxury but one of the necessities of life
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Create the static library libmy.a containing all the functions listed below:
+## Tasks
 
+### 0. A library is not a luxury but one of the necessities of life
+
+Create the static library `libmy.a` containing all the functions listed below:
+
+```bash
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
