@@ -75,20 +75,17 @@ ar
 
 ranlib
 
-Question #1
+### Question #1
+
 What is the format of a static library?
 
+- [ ] An archive
 
-An archive
+- [ ] A relocatable ELF file
 
+- [ ] An executable ELF file
 
-A relocatable ELF file
-
-
-An executable ELF file
-
-
-A shared ELF file
+- [ ] A shared ELF file
 
 ### Question #2
 
