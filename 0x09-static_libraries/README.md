@@ -180,11 +180,12 @@ julien@ubuntu:~/0x09. Static Librairies$ ./quote
 "At the end of the day, my goal was to be the best hacker"
     - Kevin Mitnick
 julien@ubuntu:~/0x09. Static Librairies$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x09-static_libraries`
-- File: libmy.a, main.h
+- File: `libmy.a, main.h`
 
 ### 1. Without libraries what have we? We have no past and no future
 
