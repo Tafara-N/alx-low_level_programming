@@ -18,7 +18,7 @@
 - `nm`
 
 # Additional Resource
-- [Static Libraries: How to Create & Use them in C programming]()
+- [Static Libraries: How to Create & Use them in C programming](https://intranet.alxswe.com/rltoken/63RVwYiPhjyYhOtrO_VW0Q)
 
 # Learning Objectives
 - At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/dkyFVPYqNQb2pkuknMb9Sw), **without the help of Google:**
