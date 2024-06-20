@@ -33,14 +33,17 @@ Don’t forget to push your header file
 You are allowed to use the standard library
 Quiz questions
 Great! You've completed the quiz successfully! Keep going! (Show quiz)
-Tasks
-0. It ain't what they call you, it's what you answer to
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+
+## Tasks
+
+### 0. It ain't what they call you, it's what you answer to
+
 Write a program that prints its name, followed by a new line.
 
-If you rename the program, it will print the new name, without having to compile it again
-You should not remove the path before the name of the program
+- If you rename the program, it will print the new name, without having to compile it again
+- You should not remove the path before the name of the program
+
+```bash
 julien@ubuntu:~/0x0A. argc, argv$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-whatsmyname.c -o mynameis
 julien@ubuntu:~/0x0A. argc, argv$ ./mynameis
 ./mynameis
