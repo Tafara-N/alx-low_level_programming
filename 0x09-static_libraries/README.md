@@ -90,20 +90,17 @@ An executable ELF file
 
 A shared ELF file
 
-Question #2
-What is the point of using ranlib?
+### Question #2
 
+What is the point of using `ranlib`?
 
-List the content of a library
+- [ ] List the content of a library
 
+- [ ] Creating an archive
 
-Creating an archive
+- [ ] Indexing an archive
 
-
-Indexing an archive
-
-
-Create a library from a simple archive
+- [ ] Create a library from a simple archive
 
 ### Question #3
 
