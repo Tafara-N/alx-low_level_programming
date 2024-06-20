@@ -183,7 +183,7 @@ julien@ubuntu:~/0x09. Static Librairies$
 **Repo:**
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x09-static_libraries
+- Directory: `0x09-static_libraries`
 - File: libmy.a, main.h
 
 1. Without libraries what have we? We have no past and no future
@@ -223,5 +223,5 @@ julien@ubuntu:~/0x09. Static Librairies$
 
 **Repo:**
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x09-static_libraries
+- Directory: `0x09-static_libraries`
 - File: `create_static_lib.sh`
