@@ -7,7 +7,7 @@
 - [how to compile with unused variables](https://intranet.alxswe.com/rltoken/MkOUE1ndq1UAx9Erk-AVbg)
 
 # Additional Resources
-- [Command Line Arguments (Argc & Argv) in C Programming]()
+- [Command Line Arguments (Argc & Argv) in C Programming](https://intranet.alxswe.com/rltoken/CSyufyK_BRkAX1zIqr4Lkw)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/DBgGt1BaQ75AkikI88WbEw), **without the help of Google:**
