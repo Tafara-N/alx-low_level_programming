@@ -50,7 +50,7 @@ julien@ubuntu:~/0x0A. argc, argv$ ./mynewnameis
 julien@ubuntu:~/0x0A. argc, argv$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
 File: 0-whatsmyname.c
 
@@ -72,7 +72,7 @@ julien@ubuntu:~/0x0A. argc, argv$ ./nargs hello, world
 julien@ubuntu:~/0x0A. argc, argv$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
 File: 1-args.c
 
@@ -98,7 +98,7 @@ everything.
 julien@ubuntu:~/0x0A. argc, argv$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
 File: 2-args.c
 
@@ -124,7 +124,7 @@ Error
 julien@ubuntu:~/0x0A. argc, argv$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
 File: 3-mul.c
 
@@ -149,7 +149,7 @@ julien@ubuntu:~/0x0A. argc, argv$ ./add
 julien@ubuntu:~/0x0A. argc, argv$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
 File: 4-add.c
 
@@ -178,6 +178,6 @@ julien@ubuntu:~/0x0A. argc, argv$ ./change 13
 julien@ubuntu:~/0x0A. argc, argv$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
 File: `100-change.c`
