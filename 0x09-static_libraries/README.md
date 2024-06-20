@@ -180,7 +180,7 @@ julien@ubuntu:~/0x09. Static Librairies$ ./quote
 "At the end of the day, my goal was to be the best hacker"
     - Kevin Mitnick
 julien@ubuntu:~/0x09. Static Librairies$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x09-static_libraries
@@ -219,7 +219,7 @@ julien@ubuntu:~/0x09. Static Librairies$ ar -t liball.a
 9-strcpy.o
 _putchar.o
 julien@ubuntu:~/0x09. Static Librairies$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x09-static_libraries
