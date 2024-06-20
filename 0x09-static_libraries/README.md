@@ -57,23 +57,19 @@ You do not need to learn about dynamic libraries, yet.
 
 ## Quiz questions
 
-Question #0
+### Question #0
+
 What command is used to create a static library from object files?
 
+- [ ] nm
 
-nm
+- [ ] gcc
 
+- [ ] ld
 
-gcc
+- [ ] ar
 
-
-ld
-
-
-ar
-
-
-ranlib
+- [ ] ranlib
 
 ### Question #1
 
