@@ -83,6 +83,7 @@ char *_strstr(char *haystack, char *needle);
 If you haven’t coded all of the above functions create empty ones with the right prototype.
 Don’t forget to push your main.h file to your repository. It should at least contain all the prototypes of the above functions.
 
+```bash
 julien@ubuntu:~/0x09. Static Librairies$ ar -t libmy.a
 0-isupper.o
 0-memset.o
