@@ -1,7 +1,7 @@
 # Resources
 
 **Read or watch:**
-- [Arguments to main]()
+- [Arguments to main](https://intranet.alxswe.com/rltoken/Jip_nI4tv2ybQZ-jV3fqJg)
 - [argc and argv]()
 - [What does argc and argv mean?]()
 - [how to compile with unused variables]()
