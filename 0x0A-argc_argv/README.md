@@ -102,14 +102,15 @@ julien@ubuntu:~/0x0A. argc, argv$
 - Directory: `0x0A-argc_argv`
 - File: 2-args.c
 
-3. Neither irony nor sarcasm is argument
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 3. Neither irony nor sarcasm is argument
+
 Write a program that multiplies two numbers.
 
-Your program should print the result of the multiplication, followed by a new line
-You can assume that the two numbers and result of the multiplication can be stored in an integer
-If the program does not receive two arguments, your program should print Error, followed by a new line, and return 1
+- Your program should print the result of the multiplication, followed by a new line
+- You can assume that the two numbers and result of the multiplication can be stored in an integer
+- If the program does not receive two arguments, your program should print `Error`, followed by a new line, and return `1`
+
+```bash
 julien@ubuntu:~/0x0A. argc, argv$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 3-mul.c -o mul
 julien@ubuntu:~/0x0A. argc, argv$ ./mul 2 3
 6
@@ -122,11 +123,12 @@ julien@ubuntu:~/0x0A. argc, argv$ ./mul 245 3245342
 julien@ubuntu:~/0x0A. argc, argv$ ./mul
 Error
 julien@ubuntu:~/0x0A. argc, argv$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
-- File: 3-mul.c
+- File: `3-mul.c`
 
 ### 4. To infinity and beyond
 
