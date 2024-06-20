@@ -52,8 +52,8 @@ All your files must be executable
 More Info
 You do not need to learn about dynamic libraries, yet.
 
-Quiz questions
-Great! You've completed the quiz successfully! Keep going! (Show quiz)
+## Quiz questions
+
 ## Tasks
 
 ### 0. A library is not a luxury but one of the necessities of life
