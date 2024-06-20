@@ -128,15 +128,16 @@ julien@ubuntu:~/0x0A. argc, argv$
 - Directory: `0x0A-argc_argv`
 - File: 3-mul.c
 
-4. To infinity and beyond
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 4. To infinity and beyond
+
 Write a program that adds positive numbers.
 
-Print the result, followed by a new line
-If no number is passed to the program, print 0, followed by a new line
-If one of the number contains symbols that are not digits, print Error, followed by a new line, and return 1
-You can assume that numbers and the addition of all the numbers can be stored in an int
+- Print the result, followed by a new line
+- If no number is passed to the program, print `0`, followed by a new line
+- If one of the number contains symbols that are not digits, print `Error`, followed by a new line, and return `1`
+You can assume that numbers and the addition of all the numbers can be stored in an `int`
+
+```bash
 julien@ubuntu:~/0x0A. argc, argv$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 4-add.c -o add
 julien@ubuntu:~/0x0A. argc, argv$ ./add 1 1
 2
@@ -147,11 +148,12 @@ Error
 julien@ubuntu:~/0x0A. argc, argv$ ./add
 0
 julien@ubuntu:~/0x0A. argc, argv$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
-- File: 4-add.c
+- File: `4-add.c`
 
 ### 5. Minimal Number of Coins for Change
 
