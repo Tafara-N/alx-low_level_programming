@@ -48,7 +48,7 @@ julien@ubuntu:~/0x0A. argc, argv$ mv mynameis mynewnameis
 julien@ubuntu:~/0x0A. argc, argv$ ./mynewnameis
 ./mynewnameis
 julien@ubuntu:~/0x0A. argc, argv$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
@@ -70,7 +70,7 @@ julien@ubuntu:~/0x0A. argc, argv$ ./nargs "hello, world"
 julien@ubuntu:~/0x0A. argc, argv$ ./nargs hello, world
 2
 julien@ubuntu:~/0x0A. argc, argv$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
@@ -96,7 +96,7 @@ but
 not
 everything.
 julien@ubuntu:~/0x0A. argc, argv$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
@@ -122,7 +122,7 @@ julien@ubuntu:~/0x0A. argc, argv$ ./mul 245 3245342
 julien@ubuntu:~/0x0A. argc, argv$ ./mul
 Error
 julien@ubuntu:~/0x0A. argc, argv$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
@@ -147,7 +147,7 @@ Error
 julien@ubuntu:~/0x0A. argc, argv$ ./add
 0
 julien@ubuntu:~/0x0A. argc, argv$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
@@ -176,7 +176,7 @@ julien@ubuntu:~/0x0A. argc, argv$ ./change 101
 julien@ubuntu:~/0x0A. argc, argv$ ./change 13
 3
 julien@ubuntu:~/0x0A. argc, argv$
-Repo:
+**Repo:**
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0A-argc_argv`
