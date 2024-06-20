@@ -7,8 +7,9 @@ What does argc and argv mean?
 how to compile with unused variables
 Additional Resources
 Command Line Arguments (Argc & Argv) in C Programming
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/DBgGt1BaQ75AkikI88WbEw), **without the help of Google:**
 
 General
 - How to use arguments passed to your program
