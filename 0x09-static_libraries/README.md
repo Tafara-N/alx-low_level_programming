@@ -57,6 +57,66 @@ You do not need to learn about dynamic libraries, yet.
 
 ## Quiz questions
 
+Question #0
+What command is used to create a static library from object files?
+
+
+nm
+
+
+gcc
+
+
+ld
+
+
+ar
+
+
+ranlib
+
+Question #1
+What is the format of a static library?
+
+
+An archive
+
+
+A relocatable ELF file
+
+
+An executable ELF file
+
+
+A shared ELF file
+
+Question #2
+What is the point of using ranlib?
+
+
+List the content of a library
+
+
+Creating an archive
+
+
+Indexing an archive
+
+
+Create a library from a simple archive
+
+### Question #3
+
+What command(s) can be used to list the symbols stored in a static library?
+
+- [ ] ld
+
+- [ ] nm
+
+- [ ] ranlib
+
+- [ ] ar
+
 ## Tasks
 
 ### 0. A library is not a luxury but one of the necessities of life
