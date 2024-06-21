@@ -96,16 +96,17 @@ julien@ubuntu:~/0x0b. more malloc, free$
 - Directory: `0x0C-more_malloc_free`
 - File: 0-malloc_checked.c
 
-1. string_nconcat
-mandatory
-Score: 65.0% (Checks completed: 100.0%)
+### 1. string_nconcat
+
 Write a function that concatenates two strings.
 
-Prototype: char *string_nconcat(char *s1, char *s2, unsigned int n);
-The returned pointer shall point to a newly allocated space in memory, which contains s1, followed by the first n bytes of s2, and null terminated
-If the function fails, it should return NULL
-If n is greater or equal to the length of s2 then use the entire string s2
-if NULL is passed, treat it as an empty string
+- Prototype: `char *string_nconcat(char *s1, char *s2, unsigned int n);`
+- The returned pointer shall point to a newly allocated space in memory, which contains `s1`, followed by the first `n` bytes of `s2`, and null terminated
+- If the function fails, it should return `NULL`
+- If `n` is greater or equal to the length of `s2` then use the entire string `s2`
+- if `NULL` is passed, treat it as an empty string
+
+```bash
 julien@ubuntu:~/0x0b. more malloc, free$ cat 1-main.c
 #include "main.h"
 #include <stdio.h>
@@ -129,11 +130,12 @@ julien@ubuntu:~/0x0b. more malloc, free$ gcc -Wall -pedantic -Werror -Wextra -st
 julien@ubuntu:~/0x0b. more malloc, free$ ./1-string_nconcat
 Best School
 julien@ubuntu:~/0x0b. more malloc, free$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0C-more_malloc_free`
-- File: 1-string_nconcat.c
+- File: `1-string_nconcat.c`
 
 ### 2. _calloc
 
