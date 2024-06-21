@@ -436,18 +436,19 @@ julien@ubuntu:~/0x0a. malloc, free$
 - Directory: `0x0B-malloc_free`
 - File: 100-argstostr.c
 
-6. I will show you how great I am
-#advanced
-Score: 100.0% (Checks completed: 100.0%)
+### 6. I will show you how great I am
+
 Write a function that splits a string into words.
 
-Prototype: char **strtow(char *str);
-The function returns a pointer to an array of strings (words)
-Each element of this array should contain a single word, null-terminated
-The last element of the returned array should be NULL
-Words are separated by spaces
-Returns NULL if str == NULL or str == ""
-If your function fails, it should return NULL
+- Prototype: char **strtow(char *str);
+- The function returns a pointer to an array of strings (words)
+- Each element of this array should contain a single word, null-terminated
+- The last element of the returned array should be NULL
+- Words are separated by spaces
+- Returns NULL if str == NULL or str == ""
+- If your function fails, it should return NULL
+
+```bash
 julien@ubuntu:~/0x0a. malloc, free$ cat 101-main.c
 #include "main.h"
 #include <stdio.h>
@@ -493,8 +494,9 @@ ALX$
 School$
 #cisfun$
 julien@ubuntu:~/0x0a. malloc, free$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0B-malloc_free`
 - File: `101-strtow.c`
