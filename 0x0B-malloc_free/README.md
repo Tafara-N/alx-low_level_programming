@@ -63,19 +63,19 @@ It’s a program to validate memory allocation
 
 It’s a new step when I compile with gcc
 
-Question #1
+### Question #1
+
 How many bytes will this statement allocate?
 
+```c
 malloc(sizeof(unsigned int) * 2)
+```
 
+- [ ] 2
 
-2
+- [ ] 4
 
-
-4
-
-
-8
+- [ ] 8
 
 ### Question #2
 
