@@ -2,10 +2,11 @@ Concepts
 For this project, we expect you to look at this concept:
 
 Automatic and dynamic allocation, malloc and free
-Resources
-Read or watch:
+# Resources
 
-Do I cast the result of malloc?
+**Read or watch:**
+- [Do I cast the result of malloc?](https://intranet.alxswe.com/rltoken/PzoxOdLmWQ9TQFZiRXuh_w)
+
 **man or help:**
 - `exit (3)`
 - `calloc`
