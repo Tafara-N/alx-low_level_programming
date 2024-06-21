@@ -294,13 +294,14 @@ julien@ubuntu:~/0x0a. malloc, free$
 - Directory: `0x0B-malloc_free`
 - File: 3-alloc_grid.c
 
-4. It's not bragging if you can back it up
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Write a function that frees a 2 dimensional grid previously created by your alloc_grid function.
+### 4. It's not bragging if you can back it up
 
-Prototype: void free_grid(int **grid, int height);
-Note that we will compile with your alloc_grid.c file. Make sure it compiles.
+Write a function that frees a 2 dimensional grid previously created by your `alloc_grid` function.
+
+- Prototype: `void free_grid(int **grid, int height);`
+- Note that we will compile with your `alloc_grid.c` file. Make sure it compiles.
+
+```bash
 julien@ubuntu:~/0x0a. malloc, free$ cat 4-main.c
 #include "main.h"
 #include <stdio.h>
@@ -381,11 +382,12 @@ julien@ubuntu:~/0x0a. malloc, free$ valgrind ./f
 ==5013== For counts of detected and suppressed errors, rerun with: -v
 ==5013== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
 julien@ubuntu:~/0x0a. malloc, free$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0B-malloc_free`
-- File: 4-free_grid.c
+- File: `4-free_grid.c`
 
 ### 5. It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe
 
