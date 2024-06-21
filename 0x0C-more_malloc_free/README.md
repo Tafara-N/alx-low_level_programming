@@ -94,7 +94,7 @@ julien@ubuntu:~/0x0b. more malloc, free$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0C-more_malloc_free`
-File: 0-malloc_checked.c
+- File: 0-malloc_checked.c
 
 1. string_nconcat
 mandatory
@@ -133,7 +133,7 @@ julien@ubuntu:~/0x0b. more malloc, free$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0C-more_malloc_free`
-File: 1-string_nconcat.c
+- File: 1-string_nconcat.c
 
 2. _calloc
 mandatory
@@ -215,7 +215,7 @@ julien@ubuntu:~/0x0b. more malloc, free$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0C-more_malloc_free`
-File: 2-calloc.c
+- File: 2-calloc.c
 
 3. array_range
 mandatory
@@ -284,7 +284,7 @@ julien@ubuntu:~/0x0b. more malloc, free$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0C-more_malloc_free`
-File: 3-array_range.c
+- File: 3-array_range.c
 
 4. _realloc
 #advanced
@@ -375,7 +375,7 @@ julien@ubuntu:~/0x0b. more malloc, free$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0C-more_malloc_free`
-File: 100-realloc.c
+- File: 100-realloc.c
 
 5. We must accept finite disappointment, but never lose infinite hope
 #advanced
@@ -400,4 +400,4 @@ julien@ubuntu:~/0x0b. more malloc, free$
 
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0C-more_malloc_free`
-File: `101-mul.c`
+- File: `101-mul.c`
