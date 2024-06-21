@@ -77,22 +77,21 @@ malloc(sizeof(unsigned int) * 2)
 
 8
 
-Question #2
+### Question #2
+
 How many bytes will this statement allocate?
 
+```c
 malloc(sizeof(int) * 4)
+```
 
+- [ ] 32
 
-32
+- [ ] 4
 
+- [ ] 8
 
-4
-
-
-8
-
-
-16
+- [ ] 16
 
 ### Question #3
 
