@@ -1,7 +1,9 @@
-Concepts
-For this project, we expect you to look at this concept:
+# Concepts
 
-Automatic and dynamic allocation, malloc and free
+**For this project, we expect you to look at this concept:**
+
+- [Automatic and dynamic allocation, malloc and free](https://intranet.alxswe.com/concepts/62)
+
 # Resources
 
 **Read or watch:**
