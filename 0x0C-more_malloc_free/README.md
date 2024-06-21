@@ -217,16 +217,17 @@ julien@ubuntu:~/0x0b. more malloc, free$
 - Directory: `0x0C-more_malloc_free`
 - File: 2-calloc.c
 
-3. array_range
-mandatory
-Score: 65.0% (Checks completed: 100.0%)
+### 3. array_range
+
 Write a function that creates an array of integers.
 
-Prototype: int *array_range(int min, int max);
-The array created should contain all the values from min (included) to max (included), ordered from min to max
-Return: the pointer to the newly created array
-If min > max, return NULL
-If malloc fails, return NULL
+- Prototype: `int *array_range(int min, int max);`
+- The array created should contain all the values from `min` (included) to `max` (included), ordered from `min` to `max`
+- Return: the pointer to the newly created array
+- If `min` > `max`, return `NULL`
+- If `malloc` fails, return `NULL`
+
+```bash
 julien@ubuntu:~/0x0b. more malloc, free$ cat 3-main.c
 #include "main.h"
 #include <stdio.h>
@@ -280,11 +281,12 @@ julien@ubuntu:~/0x0b. more malloc, free$ ./3-array_range
 0x00 0x01 0x02 0x03 0x04 0x05 0x06 0x07 0x08 0x09
 0x0a
 julien@ubuntu:~/0x0b. more malloc, free$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0C-more_malloc_free`
-- File: 3-array_range.c
+- File: `3-array_range.c`
 
 ### 4. _realloc
 
