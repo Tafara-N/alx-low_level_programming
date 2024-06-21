@@ -120,7 +120,7 @@ julien@ubuntu:~/0x0a. malloc, free$ ./a
 0x48 0x48 0x48 0x48 0x48 0x48 0x48 0x48 0x48 0x48
 0x48 0x48 0x48 0x48 0x48 0x48 0x48 0x48
 julien@ubuntu:~/0x0a. malloc, free$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x0B-malloc_free
@@ -165,7 +165,7 @@ julien@ubuntu:~/0x0a. malloc, free$ gcc -Wall -pedantic -Werror -Wextra -std=gnu
 julien@ubuntu:~/0x0a. malloc, free$ ./s
 ALX SE
 julien@ubuntu:~/0x0a. malloc, free$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x0B-malloc_free
@@ -208,7 +208,7 @@ julien@ubuntu:~/0x0a. malloc, free$ gcc -Wall -pedantic -Werror -Wextra -std=gnu
 julien@ubuntu:~/c/curriculum_by_julien/holbertonschool-low_level_programming/0x0a. malloc, free$ ./c | cat -e
 Betty Holberton$
 julien@ubuntu:~/c/curriculum_by_julien/holbertonschool-low_level_programming/0x0a. malloc, free$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x0B-malloc_free
@@ -288,7 +288,7 @@ julien@ubuntu:~/0x0a. malloc, free$ ./g
 0 0 0 0 0 0
 0 0 0 0 402 0
 julien@ubuntu:~/0x0a. malloc, free$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x0B-malloc_free
@@ -381,7 +381,7 @@ julien@ubuntu:~/0x0a. malloc, free$ valgrind ./f
 ==5013== For counts of detected and suppressed errors, rerun with: -v
 ==5013== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
 julien@ubuntu:~/0x0a. malloc, free$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x0B-malloc_free
@@ -430,7 +430,7 @@ great
 I
 am
 julien@ubuntu:~/0x0a. malloc, free$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x0B-malloc_free
@@ -493,7 +493,7 @@ ALX$
 School$
 #cisfun$
 julien@ubuntu:~/0x0a. malloc, free$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x0B-malloc_free
