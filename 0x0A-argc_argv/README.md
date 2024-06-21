@@ -81,36 +81,31 @@ What is `argv[0]`
 
 - [ ] The first command line argument
 
-Question #4
-In the following command, what is argv[2]?
+### Question #4
 
+In the following command, what is `argv[2]`?
+
+```c
 $ ./argv My School is fun
+```
 
-My School is fun
+- [ ] My School is fun
 
+- [ ] NULL
 
-NULL
+- [ ] fun
 
+- [ ] ./argv
 
-fun
+- [ ] My School
 
+- [ ] is
 
-./argv
+- [ ] School
 
+- [ ] is fun
 
-My School
-
-
-is
-
-
-School
-
-
-is fun
-
-
-My
+- [ ] My
 
 ### Question #5
 
