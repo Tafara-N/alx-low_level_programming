@@ -214,15 +214,16 @@ julien@ubuntu:~/c/curriculum_by_julien/holbertonschool-low_level_programming/0x0
 - Directory: `0x0B-malloc_free`
 - File: 2-str_concat.c
 
-3. If you even dream of beating me you'd better wake up and apologize
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 3. If you even dream of beating me you'd better wake up and apologize
+
 Write a function that returns a pointer to a 2 dimensional array of integers.
 
-Prototype: int **alloc_grid(int width, int height);
-Each element of the grid should be initialized to 0
-The function should return NULL on failure
-If width or height is 0 or negative, return NULL
+- Prototype: `int **alloc_grid(int width, int height);`
+- Each element of the grid should be initialized to `0`
+- The function should return `NULL` on failure
+- If `width` or `height` is `0` or negative, return `NULL`
+
+```bash
 julien@ubuntu:~/0x0a. malloc, free$ cat 3-main.c
 #include "main.h"
 #include <stdio.h>
@@ -288,11 +289,12 @@ julien@ubuntu:~/0x0a. malloc, free$ ./g
 0 0 0 0 0 0
 0 0 0 0 402 0
 julien@ubuntu:~/0x0a. malloc, free$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0B-malloc_free`
-- File: 3-alloc_grid.c
+- File: `3-alloc_grid.c`
 
 ### 4. It's not bragging if you can back it up
 
