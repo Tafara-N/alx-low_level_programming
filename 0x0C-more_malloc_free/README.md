@@ -41,15 +41,17 @@ The prototypes of all your functions and the prototype of the function _putchar 
 Don’t forget to push your header file
 Quiz questions
 Great! You've completed the quiz successfully! Keep going! (Show quiz)
-Tasks
-0. Trust no one
-mandatory
-Score: 65.0% (Checks completed: 100.0%)
-Write a function that allocates memory using malloc.
+## Tasks
 
-Prototype: void *malloc_checked(unsigned int b);
-Returns a pointer to the allocated memory
-if malloc fails, the malloc_checked function should cause normal process termination with a status value of 98
+### 0. Trust no one
+
+Write a function that allocates memory using `malloc`.
+
+- Prototype: `void *malloc_checked(unsigned int b);`
+- Returns a pointer to the allocated memory
+- if `malloc` fails, the `malloc_checked` function should cause normal process termination with a status value of `98`
+
+```bash
 julien@ubuntu:~/0x0b. more malloc, free$ cat 0-main.c
 #include "main.h"
 #include <stdio.h>
@@ -90,11 +92,12 @@ julien@ubuntu:~/0x0b. more malloc, free$ ./a
 julien@ubuntu:~/0x0b. more malloc, free$ echo $?
 98
 julien@ubuntu:~/0x0b. more malloc, free$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0C-more_malloc_free`
-- File: 0-malloc_checked.c
+- File: `0-malloc_checked.c`
 
 ### 1. string_nconcat
 
