@@ -48,20 +48,17 @@ You do not have to learn about `calloc` and `realloc`.
 
 ## Quiz questions
 
-Question #0
+### Question #0
+
 What is Valgrind?
 
+- [ ] It’s a program to test a C program in a specific environment
 
-It’s a program to test a C program in a specific environment
+- [ ] A container service
 
+- [ ] It’s a program to validate memory allocation
 
-A container service
-
-
-It’s a program to validate memory allocation
-
-
-It’s a new step when I compile with gcc
+- [ ] It’s a new step when I compile with `gcc`
 
 ### Question #1
 
