@@ -48,7 +48,113 @@ You do not have to learn about `calloc` and `realloc`.
 
 ## Quiz questions
 
+Question #0
+What is Valgrind?
 
+
+It’s a program to test a C program in a specific environment
+
+
+A container service
+
+
+It’s a program to validate memory allocation
+
+
+It’s a new step when I compile with gcc
+
+Question #1
+How many bytes will this statement allocate?
+
+malloc(sizeof(unsigned int) * 2)
+
+
+2
+
+
+4
+
+
+8
+
+Question #2
+How many bytes will this statement allocate?
+
+malloc(sizeof(int) * 4)
+
+
+32
+
+
+4
+
+
+8
+
+
+16
+
+Question #3
+How many bytes will this statement allocate?
+
+malloc(sizeof(int) * 10)
+
+
+40
+
+
+32
+
+
+10
+
+Question #4
+How many bytes will this statement allocate?
+
+malloc(sizeof(char) * 10)
+
+
+10
+
+
+20
+
+
+40
+
+### Question #5
+
+How many bytes will this statement allocate?
+
+```c
+malloc((sizeof(char) * 10) + 1)
+```
+
+- [ ] 11
+
+- [ ] 1
+
+- [ ] 10
+
+- [ ] 20
+
+- [ ] 21
+
+### Question #6
+
+How many bytes will this statement allocate?
+
+```c
+malloc(10)
+```
+
+- [ ] 40
+
+- [ ] 2
+
+- [ ] 10
+
+- [ ] 4
 
 ### 0. Float like a butterfly, sting like a bee
 
