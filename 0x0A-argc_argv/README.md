@@ -33,6 +33,153 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ### Quiz questions
 
+Question #0
+What is argc?
+
+
+The length of the first command line argument
+
+
+The number of command line arguments
+
+
+A flag set to 1 when command line arguments are present
+
+
+The size of the argv array
+
+Question #1
+What is argv[argc]?
+
+
+The last command line argument
+
+
+NULL
+
+
+It does not always exist
+
+
+The program name
+
+
+The first command line argument
+
+Question #2
+What is argv?
+
+
+An array containing the program compilation flags
+
+
+An array containing the program command line arguments
+
+
+An array of size argc
+
+Question #3
+What is argv[0]
+
+
+The program name
+
+
+NULL
+
+
+It does not always exist
+
+
+The first command line argument
+
+Question #4
+In the following command, what is argv[2]?
+
+$ ./argv My School is fun
+
+My School is fun
+
+
+NULL
+
+
+fun
+
+
+./argv
+
+
+My School
+
+
+is
+
+
+School
+
+
+is fun
+
+
+My
+
+Question #5
+In the following command, what is argv[2]?
+
+$ ./argv "My School is fun"
+
+My School is fun
+
+
+NULL
+
+
+fun
+
+
+./argv
+
+
+My School
+
+
+is
+
+
+School
+
+
+is fun
+
+
+My
+
+### Question #6
+
+In the following command, what is `argv[2]`?
+
+```c
+$ ./argv "My School" "is fun"
+```
+
+- [ ] My School is fun
+
+- [ ] NULL
+
+- [ ] fun
+
+- [ ] ./argv
+
+- [ ] My School
+
+- [ ] is
+
+- [ ] School
+
+- [ ] is fun
+
+- [ ] My
 
 ## Tasks
 
