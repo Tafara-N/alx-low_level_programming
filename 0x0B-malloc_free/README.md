@@ -122,7 +122,7 @@ julien@ubuntu:~/0x0a. malloc, free$ ./a
 julien@ubuntu:~/0x0a. malloc, free$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x0B-malloc_free
 - File: 0-create_array.c
 
@@ -167,7 +167,7 @@ ALX SE
 julien@ubuntu:~/0x0a. malloc, free$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x0B-malloc_free
 - File: 1-strdup.c
 
@@ -210,7 +210,7 @@ Betty Holberton$
 julien@ubuntu:~/c/curriculum_by_julien/holbertonschool-low_level_programming/0x0a. malloc, free$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x0B-malloc_free
 - File: 2-str_concat.c
 
@@ -290,7 +290,7 @@ julien@ubuntu:~/0x0a. malloc, free$ ./g
 julien@ubuntu:~/0x0a. malloc, free$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x0B-malloc_free
 - File: 3-alloc_grid.c
 
@@ -383,7 +383,7 @@ julien@ubuntu:~/0x0a. malloc, free$ valgrind ./f
 julien@ubuntu:~/0x0a. malloc, free$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x0B-malloc_free
 - File: 4-free_grid.c
 
@@ -432,7 +432,7 @@ am
 julien@ubuntu:~/0x0a. malloc, free$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x0B-malloc_free
 - File: 100-argstostr.c
 
@@ -495,6 +495,6 @@ School$
 julien@ubuntu:~/0x0a. malloc, free$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 Directory: 0x0B-malloc_free
 - File: `101-strtow.c`
