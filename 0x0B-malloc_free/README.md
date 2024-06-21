@@ -47,14 +47,16 @@ You do not have to learn about calloc and realloc.
 Quiz questions
 Great! You've completed the quiz successfully! Keep going! (Show quiz)
 Tasks
-0. Float like a butterfly, sting like a bee
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+
+### 0. Float like a butterfly, sting like a bee
+
 Write a function that creates an array of chars, and initializes it with a specific char.
 
-Prototype: char *create_array(unsigned int size, char c);
-Returns NULL if size = 0
-Returns a pointer to the array, or NULL if it fails
+- Prototype: `char *create_array(unsigned int size, char c);`
+- Returns `NULL` if size = `0`
+- Returns a pointer to the array, or `NULL` if it fails
+
+```bash
 julien@ubuntu:~/0x0a. malloc, free$ cat 0-main.c
 #include "main.h"
 #include <stdio.h>
@@ -120,15 +122,15 @@ julien@ubuntu:~/0x0a. malloc, free$ ./a
 0x48 0x48 0x48 0x48 0x48 0x48 0x48 0x48 0x48 0x48
 0x48 0x48 0x48 0x48 0x48 0x48 0x48 0x48
 julien@ubuntu:~/0x0a. malloc, free$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0B-malloc_free`
-- File: 0-create_array.c
+- File: `0-create_array.c`
 
-1. The woman who has no imagination has no wings
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 1. The woman who has no imagination has no wings
+
 Write a function that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter.
 
 - Prototype: `char *_strdup(char *str);`
