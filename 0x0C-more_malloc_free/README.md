@@ -11,14 +11,16 @@ man or help:
 exit (3)
 calloc
 realloc
-Additional Resources
-Practical use of MALLOC in C - Dynamic Memory Allocation
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-General
-How to use the exit function
-What are the functions calloc and realloc from the standard library and how to use them
+# Additional Resources
+- [Practical use of MALLOC in C - Dynamic Memory Allocation](https://intranet.alxswe.com/rltoken/KAIl1hV_EYMXsEWKkUudwg)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/XQ_E28qyePVdJn1Irb_Dfg), **without the help of Google:**
+
+## General
+- How to use the `exit` function
+- What are the functions `calloc` and `realloc` from the standard library and how to use them
 
 # Requirements
 
