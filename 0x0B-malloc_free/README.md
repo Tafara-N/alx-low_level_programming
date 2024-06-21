@@ -7,20 +7,22 @@ Read or watch:
 
 0x0a - malloc & free - quick overview.pdf
 Dynamic memory allocation in C - malloc calloc realloc free (stop at 6:50)
-man or help:
 
-malloc
-free
-Additional Resources
-Dynamic Memory Allocation in C Programming Explained
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+**man or help:**
+- `malloc`
+- `free`
 
-General
-What is the difference between automatic and dynamic allocation
-What is malloc and free and how to use them
-Why and when use malloc
-How to use valgrind to check for memory leak
+# Additional Resources
+- [Dynamic Memory Allocation in C Programming Explained](https://intranet.alxswe.com/rltoken/c2SmWMGJAHwmZHVwrTbjaQ)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/f-MGO-Fu4KSrem3R6GkEyw), **without the help of Google:**
+
+## General
+- What is the difference between automatic and dynamic allocation
+- What is `malloc` and `free` and how to use them
+- Why and when use `malloc`
+- How to use `valgrind` to check for memory leak
 
 # Requirements
 
@@ -35,7 +37,7 @@ How to use valgrind to check for memory leak
 - You are not allowed to use the standard library. Any use of functions like `printf`, `puts`, etc… is forbidden
 - You are allowed to use [_putchar](https://github.com/alx-tools/_putchar.c/blob/master/_putchar.c)
 - You don’t have to push `_putchar.c`, we will use our file. If you do it won’t be taken into account
-- In the following examples, `the main.c` files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own `main.c` files at compilation. Our `main.c` files might be different from the one shown in the examples
+- In the following examples, the `main.c` files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own `main.c` files at compilation. Our `main.c` files might be different from the one shown in the examples
 - The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
 - Don’t forget to push your header file
 
