@@ -6,11 +6,10 @@ Resources
 Read or watch:
 
 Do I cast the result of malloc?
-man or help:
-
-exit (3)
-calloc
-realloc
+**man or help:**
+- `exit (3)`
+- `calloc`
+- `realloc`
 
 # Additional Resources
 - [Practical use of MALLOC in C - Dynamic Memory Allocation](https://intranet.alxswe.com/rltoken/KAIl1hV_EYMXsEWKkUudwg)
