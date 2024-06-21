@@ -44,9 +44,9 @@ Don’t forget to push your header file
 More Info
 You do not have to learn about calloc and realloc.
 
-Quiz questions
-Great! You've completed the quiz successfully! Keep going! (Show quiz)
-Tasks
+## Quiz questions
+
+
 
 ### 0. Float like a butterfly, sting like a bee
 
