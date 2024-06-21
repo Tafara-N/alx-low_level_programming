@@ -92,7 +92,7 @@ julien@ubuntu:~/0x0b. more malloc, free$ echo $?
 julien@ubuntu:~/0x0b. more malloc, free$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x0C-more_malloc_free`
 File: 0-malloc_checked.c
 
@@ -131,7 +131,7 @@ Best School
 julien@ubuntu:~/0x0b. more malloc, free$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x0C-more_malloc_free`
 File: 1-string_nconcat.c
 
@@ -213,7 +213,7 @@ julien@ubuntu:~/0x0b. more malloc, free$ ./2-calloc
 julien@ubuntu:~/0x0b. more malloc, free$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x0C-more_malloc_free`
 File: 2-calloc.c
 
@@ -282,7 +282,7 @@ julien@ubuntu:~/0x0b. more malloc, free$ ./3-array_range
 julien@ubuntu:~/0x0b. more malloc, free$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x0C-more_malloc_free`
 File: 3-array_range.c
 
@@ -373,7 +373,7 @@ julien@ubuntu:~/0x0b. more malloc, free$ ./100-realloc
 julien@ubuntu:~/0x0b. more malloc, free$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x0C-more_malloc_free`
 File: 100-realloc.c
 
@@ -398,6 +398,6 @@ julien@ubuntu:~/0x0b. more malloc, free$ ./101-mul 23523469326943643622344652654
 julien@ubuntu:~/0x0b. more malloc, free$
 Repo:
 
-GitHub repository: alx-low_level_programming
+- GitHub repository: `alx-low_level_programming`
 - Directory: `0x0C-more_malloc_free`
 File: `101-mul.c`
