@@ -135,18 +135,19 @@ julien@ubuntu:~/0x0b. more malloc, free$
 - Directory: `0x0C-more_malloc_free`
 - File: 1-string_nconcat.c
 
-2. _calloc
-mandatory
-Score: 65.0% (Checks completed: 100.0%)
-Write a function that allocates memory for an array, using malloc.
+### 2. _calloc
 
-Prototype: void *_calloc(unsigned int nmemb, unsigned int size);
-The _calloc function allocates memory for an array of nmemb elements of size bytes each and returns a pointer to the allocated memory.
-The memory is set to zero
-If nmemb or size is 0, then _calloc returns NULL
-If malloc fails, then _calloc returns NULL
-FYI: The standard library provides a different function: calloc. Run man calloc to learn more.
+Write a function that allocates memory for an array, using `malloc`.
 
+- Prototype: `void *_calloc(unsigned int nmemb, unsigned int size);`
+- The `_calloc` function allocates memory for an array of `nmemb` elements of `size` bytes each and returns a pointer to the allocated memory.
+- The memory is set to zero
+- If `nmemb` or `size` is `0`, then `_calloc` returns `NULL`
+- If `malloc` fails, then `_calloc` returns `NULL`
+
+FYI: The standard library provides a different function: `calloc`. Run `man calloc` to learn more.
+
+```bash
 julien@ubuntu:~/0x0b. more malloc, free$ cat 2-main.c
 #include "main.h"
 #include <stdio.h>
@@ -211,11 +212,12 @@ julien@ubuntu:~/0x0b. more malloc, free$ ./2-calloc
 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x00
 0x00 0x00 0x00 0x00 0x00 0x00 0x00 0x21
 julien@ubuntu:~/0x0b. more malloc, free$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0C-more_malloc_free`
-- File: 2-calloc.c
+- File: `2-calloc.c`
 
 ### 3. array_range
 
