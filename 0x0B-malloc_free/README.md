@@ -171,15 +171,16 @@ julien@ubuntu:~/0x0a. malloc, free$
 - Directory: `0x0B-malloc_free`
 - File: 1-strdup.c
 
-2. He who is not courageous enough to take risks will accomplish nothing in life
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 2. He who is not courageous enough to take risks will accomplish nothing in life
+
 Write a function that concatenates two strings.
 
-Prototype: char *str_concat(char *s1, char *s2);
-The returned pointer should point to a newly allocated space in memory which contains the contents of s1, followed by the contents of s2, and null terminated
-if NULL is passed, treat it as an empty string
-The function should return NULL on failure
+- Prototype: `char *str_concat(char *s1, char *s2);`
+- The returned pointer should point to a newly allocated space in memory which contains the contents of `s1`, followed by the contents of `s2`, and null terminated
+- if `NULL` is passed, treat it as an empty string
+- The function should return `NULL` on failure
+
+```bash
 julien@ubuntu:~/0x0a. malloc, free$ cat 2-main.c
 #include "main.h"
 #include <stdio.h>
@@ -208,11 +209,12 @@ julien@ubuntu:~/0x0a. malloc, free$ gcc -Wall -pedantic -Werror -Wextra -std=gnu
 julien@ubuntu:~/c/curriculum_by_julien/holbertonschool-low_level_programming/0x0a. malloc, free$ ./c | cat -e
 Betty Holberton$
 julien@ubuntu:~/c/curriculum_by_julien/holbertonschool-low_level_programming/0x0a. malloc, free$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0B-malloc_free`
-- File: 2-str_concat.c
+- File: `2-str_concat.c`
 
 ### 3. If you even dream of beating me you'd better wake up and apologize
 
