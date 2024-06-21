@@ -31,22 +31,19 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - Don’t forget to push your header file
 - You are allowed to use the standard library
 
-### Quiz questions
+## Quiz questions
 
-Question #0
+### Question #0
+
 What is argc?
 
+- [ ] The length of the first command line argument
 
-The length of the first command line argument
+- [ ] The number of command line arguments
 
+- [ ] A flag set to 1 when command line arguments are present
 
-The number of command line arguments
-
-
-A flag set to 1 when command line arguments are present
-
-
-The size of the argv array
+- [ ] The size of the argv array
 
 Question #1
 What is argv[argc]?
