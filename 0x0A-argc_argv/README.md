@@ -124,36 +124,31 @@ is fun
 
 My
 
-Question #5
-In the following command, what is argv[2]?
+### Question #5
 
+In the following command, what is `argv[2]`?
+
+```c
 $ ./argv "My School is fun"
+```
 
-My School is fun
+- [ ] My School is fun
 
+- [ ] NULL
 
-NULL
+- [ ] fun
 
+- [ ] ./argv
 
-fun
+- [ ] My School
 
+- [ ] is
 
-./argv
+- [ ] School
 
+- [ ] is fun
 
-My School
-
-
-is
-
-
-School
-
-
-is fun
-
-
-My
+- [ ] My
 
 ### Question #6
 
