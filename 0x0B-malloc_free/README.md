@@ -108,19 +108,19 @@ malloc(sizeof(int) * 10)
 
 10
 
-Question #4
+### Question #4
+
 How many bytes will this statement allocate?
 
+```c
 malloc(sizeof(char) * 10)
+```
 
+- [ ] 10
 
-10
+- [ ] 20
 
-
-20
-
-
-40
+- [ ] 40
 
 ### Question #5
 
