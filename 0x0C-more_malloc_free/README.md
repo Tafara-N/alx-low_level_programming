@@ -80,14 +80,13 @@ malloc(10 * int)
 
 malloc(10 * sizeof(int))
 
-Question #3
+### Question #3
+
 malloc returns an address
 
+- [ ] False
 
-False
-
-
-True
+- [ ] True
 
 ### Question #4
 
