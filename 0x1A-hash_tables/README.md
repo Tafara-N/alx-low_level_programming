@@ -1,27 +1,25 @@
-Resources
-Read or watch:
+# Resources
 
-What is a HashTable Data Structure - Introduction to Hash Tables , Part 0
-Hash function
-Hash table
-All about hash tables
-why hash tables and not arrays
+**Read or watch:**
+- [What is a HashTable Data Structure - Introduction to Hash Tables , Part 0]()
+- [Hash function]()
+- [Hash table]()
+- [All about hash tables]()
+- [why hash tables and not arrays]()
+
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
-General
-What is a hash function
-What makes a good hash function
-What is a hash table, how do they work and how to use them
-What is a collision and what are the main ways of dealing with collisions in the context of a hash table
-What are the advantages and drawbacks of using hash tables
-What are the most common use cases of hash tables
-Copyright - Plagiarism
-You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
-You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
-You are not allowed to publish any content of this project.
-Any form of plagiarism is strictly forbidden and will result in removal from the program.
-Requirements
+## General
+- What is a hash function
+- What makes a good hash function
+- What is a hash table, how do they work and how to use them
+- What is a collision and what are the main ways of dealing with collisions in the context of a hash table
+- What are the advantages and drawbacks of using hash tables
+- What are the most common use cases of hash tables
+
+# Requirements
+
 General
 Allowed editors: vi, vim, emacs
 All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
@@ -34,10 +32,14 @@ You are allowed to use the C standard library
 The prototypes of all your functions should be included in your header file called hash_tables.h
 Don’t forget to push your header file
 All your header files should be include guarded
-More Info
-Data Structures
+
+# More Info
+
+### Data Structures
+
 Please use these data structures for this project:
 
+```c
 /**
  * struct hash_node_s - Node of a hash table
  *
@@ -66,18 +68,22 @@ typedef struct hash_table_s
      unsigned long int size;
      hash_node_t **array;
 } hash_table_t;
-Tests
+```
+
+## Tests
+
 We strongly encourage you to work all together on a set of tests
 
-Python Dictionaries
-Python dictionaries are implemented using hash tables. When you will be done with this project, you will be able to better understand the power and simplicity of Python dictionaries. So much is actually happening when you type d = {'a': 1, 'b': 2}, but everything looks so simple for the user. Python doesn’t use the exact same implementation than the one you will work on today though. If you are curious on how it works under the hood, here is a good blog post about how dictionaries are implemented in Python 2.7 (not mandatory).
+## Python Dictionaries
 
-Note that all dictionaries are not implemented using hash tables and there is a difference between a dictionary and a hash table. Read more here (not mandatory).
+Python dictionaries are implemented using hash tables. When you will be done with this project, you will be able to better understand the power and simplicity of Python dictionaries. So much is actually happening when you type `d = {'a': 1, 'b': 2}`, but everything looks so simple for the user. Python doesn’t use the exact same implementation than the one you will work on today though. If you are curious on how it works under the hood, here is a good blog post about [how dictionaries are implemented in Python 2.7](https://intranet.alxswe.com/rltoken/hKhDFfKKcxdM9U8GZVPOHQ) (not mandatory).
 
-Tasks
-0. >>> ht = {}
-mandatory
-Score: 80.0% (Checks completed: 80.0%)
+Note that all dictionaries are not implemented using hash tables and there is a difference between a dictionary and a hash table. [Read more here](https://intranet.alxswe.com/rltoken/6wE80OFPwL-As1zGh2iMFg) (not mandatory).
+
+## Tasks
+
+### 0. >>> ht = {}
+
 Write a function that creates a hash table.
 
 Prototype: hash_table_t *hash_table_create(unsigned long int size);
@@ -136,12 +142,12 @@ Directory: 0x1A-hash_tables
 File: 0-hash_table_create.c
 
 1. djb2
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+
 Write a hash function implementing the djb2 algorithm.
 
 Prototype: unsigned long int hash_djb2(const unsigned char *str);
-You are allowed to copy and paste the function from this page
+You are allowed to copy and paste the function from [this page](https://intranet.alxswe.com/rltoken/3B7lCUBD4yZh66Pbl2KcEQ)
+
 julien@ubuntu:~/0x1A. Hash tables$ cat 1-djb2.c
 unsigned long int hash_djb2(const unsigned char *str)
 {
@@ -483,20 +489,21 @@ GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
 File: 6-hash_table_delete.c
 
-7. $ht['Betty'] = 'Cool'
-#advanced
-Score: 100.0% (Checks completed: 100.0%)
-In PHP, hash tables are ordered. Wait… WAT? How is this even possible?
+### 7. $ht['Betty'] = 'Cool'
 
+In [PHP](https://intranet.alxswe.com/rltoken/UoWjDMSf7CR02W8bnn1geg), hash tables are ordered. Wait… WAT? How is this even possible?
 
+![PHP: Ordered Hash Tables](whaaat.gif)
 
-Before you continue, please take a moment to think about it: how you would implement it if you were asked to during an interview or a job. What data structures would you use? How would it work?
+**Before you continue**, please take a moment to think about it: how you would implement it if you were asked to during an interview or a job. What data structures would you use? How would it work?
 
 For this task, please:
 
-Read PHP Internals Book: HashTable
+Read [PHP Internals Book: HashTable](https://intranet.alxswe.com/rltoken/SIdpN9PE_9aYBCHUGPX-fw)
 Use the same hash function
 Use these data structures:
+
+```c
 /**
  * struct shash_node_s - Node of a sorted hash table
  *
@@ -533,6 +540,8 @@ typedef struct shash_table_s
      shash_node_t *shead;
      shash_node_t *stail;
 } shash_table_t;
+```
+
 Rewrite the previous functions using these data structures:
 
 shash_table_t *shash_table_create(unsigned long int size);
