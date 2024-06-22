@@ -109,14 +109,15 @@ int main(void)
  ((void *)0);
  return (0);
 }
-Question #4
-The macro __FILE__ expands to the name of the current input file, in the form of a C string constant.
+```
 
+### Question #4
 
-False
+The macro `__FILE__` expands to the name of the current input file, in the form of a C string constant.
 
+- [ ] False
 
-True
+- [ ] True
 
 ### Question #5
 
