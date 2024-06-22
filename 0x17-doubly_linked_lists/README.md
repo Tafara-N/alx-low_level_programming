@@ -12,7 +12,8 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 - Understand and know how to implement the various operations (deletion, insertion, etc) with doubly linked lists
 - Start to look for the right source of information without too much help
 
-Requirements
+# Requirements
+
 General
 Allowed editors: vi, vim, emacs
 All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
