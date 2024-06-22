@@ -44,10 +44,9 @@ How to use typedef
 
 ## Tasks
 
-0. Poppy
-mandatory
-Score: 85.71% (Checks completed: 85.71%)
+### 0. Poppy
 
+![Poppy](poppy.jpg)
 
 Define a new type struct dog with the following elements:
 
