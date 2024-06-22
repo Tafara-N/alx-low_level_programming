@@ -127,43 +127,43 @@ compiler 2. preprocessor 3. assembler 4. linker
 preprocessor 2.compiler 3. assembler 4. linker
 
 preprocessor 2.compiler 3. linker 4. assembler
-Question #6
+
+### Question #6
+
 The preprocessor links our code with libraries.
 
+- [ ] False
 
-False
+- [ ] True
 
+### Question #7
 
-True
-
-Question #7
 The preprocessor generates assembly code
 
+- [ ] False
 
-False
+- [ ] True
 
+### Question #8
 
-True
-
-Question #8
 This code will try to allocate 1024 bytes in the heap:
 
+```c
 #define BUFFER_SIZE 1024
 malloc(BUFFER_SIZE)
+```
 
-False
+- [ ] False
 
+- [ ] True
 
-True
+### Question #9
 
-Question #9
 The preprocessor generates object code
 
+- [ ] False
 
-False
-
-
-True
+- [ ] True
 
 ### Question #10
 
