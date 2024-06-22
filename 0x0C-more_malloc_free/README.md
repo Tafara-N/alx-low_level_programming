@@ -68,17 +68,15 @@ The heap
 
 The stack
 
-Question #2
+### Question #2
+
 To allocate enough space for an array of 10 integers (on a 64bit, Linux machine), I can use:
 
+- [ ] malloc(64 * 10)
 
-malloc(64 * 10)
+- [ ] malloc(10 * int)
 
-
-malloc(10 * int)
-
-
-malloc(10 * sizeof(int))
+- [ ] malloc(10 * sizeof(int))
 
 ### Question #3
 
