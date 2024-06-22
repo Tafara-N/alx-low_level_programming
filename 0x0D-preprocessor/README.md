@@ -208,9 +208,11 @@ False
 
 True
 
-Question #13
+### Question #13
+
 What will be the output of this program? (on a standard 64 bits, Linux machine)
 
+```c
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -224,23 +226,19 @@ int main(void)
     printf ("sizeof(i) = %lu", sizeof(i));
     return (EXIT_SUCCESS);
 }
+```
 
-sizeof(i) = 1
+- [ ] sizeof(i) = 1
 
+- [ ] sizeof(i) = 4
 
-sizeof(i) = 4
+- [ ] Segmentation Fault
 
+- [ ] It does not compile
 
-Segmentation Fault
+- [ ] sizeof(i) = 5
 
-
-It does not compile
-
-
-sizeof(i) = 5
-
-
-sizeof(i) = 8
+- [ ] sizeof(i) = 8
 
 ### Question #14
 
