@@ -167,17 +167,19 @@ There is no comment
 
 You can’t call strcpy with a string literal
 
-Question #8
+### Question #8
+
 You can do this:
 
+```c
 char str[] = "Best School";
 
 free (str);
+```
 
-No
+- [ ] No
 
-
-Yes
+- [ ] Yes
 
 ### Question #9
 
