@@ -39,11 +39,11 @@ All your header files should be include guarded
 Quiz questions
 Great! You've completed the quiz successfully! Keep going! (Show quiz)
 Tasks
-0. Object-like Macro
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Create a header file that defines a macro named SIZE as an abbreviation for the token 1024.
+### 0. Object-like Macro
 
+Create a header file that defines a macro named `SIZE` as an abbreviation for the token `1024`.
+
+```bash
 julien@ubuntu:~/0x0c. macro, structures$ cat 0-main.c
 #include "0-object_like_macro.h"
 #include "0-object_like_macro.h"
@@ -66,11 +66,12 @@ julien@ubuntu:~/0x0c. macro, structures$ gcc -Wall -pedantic -Werror -Wextra -st
 julien@ubuntu:~/0x0c. macro, structures$ ./a
 1122
 julien@ubuntu:~/0x0c. macro, structures$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0D-preprocessor`
-- File: 0-object_like_macro.h
+- File: `0-object_like_macro.h`
 
 ### 1. Pi
 
