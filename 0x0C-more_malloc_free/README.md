@@ -110,9 +110,11 @@ malloc(12)
 
 malloc(11)
 
-Question #5
+### Question #5
+
 What will you see on the terminal?
 
+```c
 int main(void)
 {
     int *ptr;
@@ -121,17 +123,15 @@ int main(void)
     printf("%d\n", *ptr);
     return (0);
 }
+```
 
-Segmentation Fault
+- [ ] Segmentation Fault
 
+- [ ] 0
 
-0
+- [ ] 98
 
-
-98
-
-
-It doesn’t compile
+- [ ] It doesn’t compile
 
 ### Question #6
 
