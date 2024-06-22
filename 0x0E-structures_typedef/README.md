@@ -1,24 +1,26 @@
 ![Dog sitting](sitting_dog.jpg)
 
-Resources
-Read or watch:
+# Resources
 
-0x0d. Structures.pdf
-struct (C programming language)
-Documentation: structures
-0x0d. Typedef and structures.pdf
-typedef
-Programming in C by Stephen Kochan - Chapter 8, Working with Structures p163-189
-Additional Resource
-Structs & Typedef in C Explained
-Practical use of structs & typedef with coding examples
-The Lost Art of C Structure Packing (Advanced - not mandatory)
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+**Read or watch:**
+- [0x0d. Structures.pdf]()
+- [struct (C programming language)]()
+- [Documentation: structures]()
+- [0x0d. Typedef and structures.pdf]()
+- [typedef]()
+- **Programming in C** *by Stephen Kochan - Chapter 8, Working with Structures p163-189*
 
-General
-What are structures, when, why and how to use them
-How to use typedef
+# Additional Resource
+- [Structs & Typedef in C Explained]()
+- [Practical use of structs & typedef with coding examples]()
+- [The Lost Art of C Structure Packing]() (*Advanced - not mandatory*)
+
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/qkcS8PT80wmgcNlCEdBzrQ), **without the help of Google:**
+
+## General
+- What are structures, when, why and how to use them
+- How to use `typedef`
 
 # Requirements
 
@@ -82,9 +84,8 @@ GitHub repository: alx-low_level_programming
 Directory: 0x0E-structures_typedef
 File: dog.h
 
-1. A dog is the only thing on earth that loves you more than you love yourself
-mandatory
-Score: 85.71% (Checks completed: 85.71%)
+### 1. A dog is the only thing on earth that loves you more than you love yourself
+
 Write a function that initialize a variable of type struct dog
 
 Prototype: void init_dog(struct dog *d, char *name, float age, char *owner);
@@ -115,10 +116,9 @@ GitHub repository: alx-low_level_programming
 Directory: 0x0E-structures_typedef
 File: 1-init_dog.c
 
-2. A dog will teach you unconditional love. If you can have that in your life, things won't be too bad
-mandatory
-Score: 83.33% (Checks completed: 83.33%)
+### 2. A dog will teach you unconditional love. If you can have that in your life, things won't be too bad
 
+![A dog will teach you unconditional love. If you can have that in your life, things won't be too bad](playful_dog.jpg)
 
 Write a function that prints a struct dog
 
@@ -158,10 +158,9 @@ GitHub repository: alx-low_level_programming
 Directory: 0x0E-structures_typedef
 File: 2-print_dog.c
 
-3. Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read
-mandatory
-Score: 85.71% (Checks completed: 85.71%)
+### 3. Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read
 
+![Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read](starring_dog.jpg)
 
 Define a new type dog_t as a new name for the type struct dog.
 
@@ -194,10 +193,9 @@ GitHub repository: alx-low_level_programming
 Directory: 0x0E-structures_typedef
 File: dog.h
 
-4. A door is what a dog is perpetually on the wrong side of
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 4. A door is what a dog is perpetually on the wrong side of
 
+![A door is what a dog is perpetually on the wrong side of](two_dogs.jpg)
 
 Write a function that creates a new dog.
 
@@ -231,10 +229,9 @@ GitHub repository: alx-low_level_programming
 Directory: 0x0E-structures_typedef
 File: 4-new_dog.c
 
-5. How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 5. How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg
 
+![How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg](happy_dog.jpg)
 
 Write a function that frees dogs.
 
