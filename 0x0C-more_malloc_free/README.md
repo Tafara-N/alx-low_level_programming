@@ -43,7 +43,153 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Quiz questions
 
+Question #0
+You can do this:
 
+char *s;
+
+s = strdup("Best School");
+if (s != NULL)
+{
+    free(s);
+}
+
+No
+
+
+Yes
+
+Question #1
+The memory space reserved when calling malloc is on:
+
+
+The heap
+
+
+The stack
+
+Question #2
+To allocate enough space for an array of 10 integers (on a 64bit, Linux machine), I can use:
+
+
+malloc(64 * 10)
+
+
+malloc(10 * int)
+
+
+malloc(10 * sizeof(int))
+
+Question #3
+malloc returns an address
+
+
+False
+
+
+True
+
+Question #4
+If I want to copy the string “Best School” into a new space in memory, I can use this statement to reserve enough space for it (select all valid answers):
+
+
+malloc(strlen(“Best School”) + 1)
+
+
+malloc(sizeof(“Best School”) + 1)
+
+
+malloc(sizeof(“Best School”))
+
+
+malloc(strlen(“Best School”))
+
+
+malloc(12)
+
+
+malloc(11)
+
+Question #5
+What will you see on the terminal?
+
+int main(void)
+{
+    int *ptr;
+
+    *ptr = 98;
+    printf("%d\n", *ptr);
+    return (0);
+}
+
+Segmentation Fault
+
+
+0
+
+
+98
+
+
+It doesn’t compile
+
+Question #6
+malloc returns a pointer
+
+
+False
+
+
+True
+
+Question #7
+What is wrong with this code:
+
+
+
+int cp(void)
+{
+    char *s;
+
+    s = malloc(12);
+    strcpy(s, "Best School");
+    return (0);
+}
+
+malloc can fail so we should check its return value all the time before using the pointers returned by the function.
+
+
+You don’t have enough space to store the copy of the string “Best School”
+
+
+There is no comment
+
+
+You can’t call strcpy with a string literal
+
+Question #8
+You can do this:
+
+char str[] = "Best School";
+
+free (str);
+
+No
+
+
+Yes
+
+### Question #9
+
+You can do this:
+
+```c
+free("Best School");
+```
+
+- [ ] No
+
+- [ ] Yes
 
 ## Tasks
 
