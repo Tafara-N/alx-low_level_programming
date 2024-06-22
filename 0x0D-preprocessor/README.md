@@ -118,15 +118,15 @@ False
 
 True
 
-Question #5
+### Question #5
+
 What are the steps of compilation?
 
+- [ ] compiler 2. preprocessor 3. assembler 4. linker
 
-compiler 2. preprocessor 3. assembler 4. linker
+- [ ] preprocessor 2.compiler 3. assembler 4. linker
 
-preprocessor 2.compiler 3. assembler 4. linker
-
-preprocessor 2.compiler 3. linker 4. assembler
+- [ ] preprocessor 2.compiler 3. linker 4. assembler
 
 ### Question #6
 
