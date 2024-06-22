@@ -133,14 +133,13 @@ Segmentation Fault
 
 It doesn’t compile
 
-Question #6
+### Question #6
+
 malloc returns a pointer
 
+- [ ] False
 
-False
-
-
-True
+- [ ] True
 
 ### Question #7
 
