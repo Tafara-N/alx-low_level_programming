@@ -38,14 +38,13 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Quiz questions
 
-Question #0
+### Question #0
+
 Why should we use include guards in our header files?
 
+- [ ] To avoid the problem of double inclusion when dealing with the include directive.
 
-To avoid the problem of double inclusion when dealing with the include directive.
-
-
-Because we said so, and we should never ask why.
+- [ ] Because we said so, and we should never ask why.
 
 ### Question #1
 
