@@ -175,29 +175,23 @@ False
 
 True
 
-Question #11
-What is the gcc option that runs only the preprocessor?
+### Question #11
 
+What is the `gcc` option that runs only the preprocessor?
 
--preprocessor
+- [ ] -preprocessor
 
+- [ ] -a
 
--a
+- [ ] -cisfun
 
+- [ ] -P
 
--cisfun
+- [ ] -E
 
+- [ ] -pedantic
 
--P
-
-
--E
-
-
--pedantic
-
-
--p
+- [ ] -p
 
 ### Question #12
 
