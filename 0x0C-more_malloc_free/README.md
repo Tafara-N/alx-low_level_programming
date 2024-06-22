@@ -142,10 +142,11 @@ False
 
 True
 
-Question #7
+### Question #7
+
 What is wrong with this code:
 
-
+```c
 
 int cp(void)
 {
@@ -155,17 +156,15 @@ int cp(void)
     strcpy(s, "Best School");
     return (0);
 }
+```
 
-malloc can fail so we should check its return value all the time before using the pointers returned by the function.
+- [ ] malloc can fail so we should check its return value all the time before using the pointers returned by the function.
 
+- [ ] You don’t have enough space to store the copy of the string “Best School”
 
-You don’t have enough space to store the copy of the string “Best School”
+- [ ] There is no comment
 
-
-There is no comment
-
-
-You can’t call strcpy with a string literal
+- [ ] You can’t call `strcpy` with a string literal
 
 ### Question #8
 
