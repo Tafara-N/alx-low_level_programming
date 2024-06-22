@@ -119,7 +119,7 @@ True
 False: the second does not compile
 
 
-False: the members of the structures will not have the same values
+False: the members of the structures will not have the same values.
 
 ## Tasks
 
