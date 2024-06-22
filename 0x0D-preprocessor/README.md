@@ -47,37 +47,47 @@ To avoid the problem of double inclusion when dealing with the include directive
 
 Because we said so, and we should never ask why.
 
-Question #1
-This is the correct way to define the macro SUB:
+### Question #1
 
+This is the correct way to define the macro `SUB`:
+
+```c
 #define SUB(a, b) a - b
+```
 
-No, it should be written this way:
+- [ ] No, it should be written this way:
 
+```c
 #define SUB(a, b) ((a) - (b))
+```
 
-Yes
+- [ ] Yes
 
+- [ ] No, it should be written this way:
 
-No, it should be written this way:
-
+```c
 #define SUB(a, b) (a - b)
+```
 
-No, it should be written this way:
+- [ ] No, it should be written this way:
 
+```c
 #define SUB(a, b) (a) - (b)
-Question #2
-NULL is a macro
+```
 
+### Question #2
 
-False
+`NULL` is a macro
 
+- [ ] False
 
-True
+- [ ] True
 
-Question #3
-What will be the last 5 lines of the output of the command gcc -E on this code?
+### Question #3
 
+What will be the last 5 lines of the output of the command `gcc -E` on this code?
+
+```c
 #include <stdlib.h>
 
 int main(void)
@@ -85,25 +95,35 @@ int main(void)
     NULL;
     return (EXIT_SUCCESS);
 }
+```
 
+Choose:
+
+```c
 int main(void)
 {
  '\0';
  return (0);
 }
+```
 
+```c
 int main(void)
 {
  0;
  return (0);
 }
+```
 
+```c
 int main()
 {
  0;
  return (0);
 }
+```
 
+```c
 int main(void)
 {
  ((void *)0);
