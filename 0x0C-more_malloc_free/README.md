@@ -89,26 +89,22 @@ False
 
 True
 
-Question #4
+### Question #4
+
 If I want to copy the string “Best School” into a new space in memory, I can use this statement to reserve enough space for it (select all valid answers):
 
 
-malloc(strlen(“Best School”) + 1)
+- [ ] malloc(strlen(“Best School”) + 1)
 
+- [ ] malloc(sizeof(“Best School”) + 1)
 
-malloc(sizeof(“Best School”) + 1)
+- [ ] malloc(sizeof(“Best School”))
 
+- [ ] malloc(strlen(“Best School”))
 
-malloc(sizeof(“Best School”))
+- [ ] malloc(12)
 
-
-malloc(strlen(“Best School”))
-
-
-malloc(12)
-
-
-malloc(11)
+- [ ] malloc(11)
 
 ### Question #5
 
