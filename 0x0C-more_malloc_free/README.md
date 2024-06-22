@@ -43,9 +43,11 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Quiz questions
 
-Question #0
+### Question #0
+
 You can do this:
 
+```c
 char *s;
 
 s = strdup("Best School");
@@ -53,20 +55,19 @@ if (s != NULL)
 {
     free(s);
 }
+```
 
-No
+- [ ] No
 
+- [ ] Yes
 
-Yes
+### Question #1
 
-Question #1
-The memory space reserved when calling malloc is on:
+The memory space reserved when calling `malloc` is on:
 
+- [ ] The heap
 
-The heap
-
-
-The stack
+- [ ] The stack
 
 ### Question #2
 
