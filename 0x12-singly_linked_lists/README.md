@@ -40,9 +40,11 @@ In the following examples, the main.c files are shown as examples. You can use t
 The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called lists.h
 Don’t forget to push your header file
 All your header files should be include guarded
-More Info
+
+# More Info
 Please use this data structure for this project:
 
+```c
 /**
  * struct list_s - singly linked list
  * @str: string - (malloc'ed string)
@@ -57,12 +59,103 @@ typedef struct list_s
     unsigned int len;
     struct list_s *next;
 } list_t;
-Quiz questions
-Great! You've completed the quiz successfully! Keep going! (Show quiz)
-Tasks
-0. Print list
-mandatory
-Score: 88.89% (Checks completed: 88.89%)
+```
+
+## Quiz questions
+
+Question #0
+What’s a node? (select all possible answers)
+
+
+It’s a space allocated in memory
+
+
+It’s a server
+
+
+It’s a structure with a pointer to the next node and value information
+
+
+It’s an integer
+
+
+It’s a cell in an array
+
+Question #1
+In a singly linked list, what are possible directions to traverse it? (select all possible answers)
+
+
+Backward
+
+
+Forward
+
+Question #2
+What’s the “head” of a linked list?
+
+
+It’s the node with the pointer to the next equals to `NULL`
+
+
+It’s the last node
+
+
+It’s the node with the highest value
+
+
+It’s the node with the lowest value
+
+
+It’s the first node
+
+Question #3
+
+What’s the “tail” of a linked list?
+
+
+It’s the node with the lowest value
+
+
+It’s the node with the pointer to the next equals to `NULL`
+
+
+It’s the first node
+
+
+It’s the node with the highest value
+
+Question #4
+
+Arrays Vs Linked Lists: select all true statements
+
+
+Memory is aligned for an Array - each elements are back to back in the memory
+
+
+We can add elements indefinitely to a linked list
+
+
+Memory is aligned for a Linked list - each elements are back to back in the memory
+
+
+We can add elements indefinitely to an array
+
+
+We can easily remove an element from an Array
+
+
+We can easily removed an element from a Linked list
+
+
+Array can contain as value a structure
+
+
+Linked list can contain as value a structure
+
+## Tasks
+
+### 0. Print list
+
 Write a function that prints all the elements of a list_t list.
 
 Prototype: size_t print_list(const list_t *h);
