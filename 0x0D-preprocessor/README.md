@@ -107,12 +107,13 @@ julien@ubuntu:~/0x0c. macro, structures$
 - Directory: `0x0D-preprocessor`
 - File: 1-pi.h
 
-2. File name
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+### 2. File name
+
 Write a program that prints the name of the file it was compiled from, followed by a new line.
 
-You are allowed to use the standard library
+- You are allowed to use the standard library
+
+```bash
 julien@ubuntu:~/0x0c. macro, structures$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 2-main.c -o c
 julien@ubuntu:~/0x0c. macro, structures$ ./c
 2-main.c
@@ -121,11 +122,12 @@ julien@ubuntu:~/0x0c. macro, structures$ gcc -Wall -pedantic -Werror -Wextra -st
 julien@ubuntu:~/0x0c. macro, structures$ ./cc
 02-main.c
 julien@ubuntu:~/0x0c. macro, structures$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0D-preprocessor`
-- File: 2-main.c
+- File: `2-main.c`
 
 ### 3. Function-like macro
 
