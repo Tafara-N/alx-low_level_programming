@@ -162,11 +162,11 @@ julien@ubuntu:~/0x0c. macro, structures$
 - Directory: `0x0D-preprocessor`
 - File: 3-function_like_macro.h
 
-4. SUM
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Write a function-like macro SUM(x, y) that computes the sum of the numbers x and y.
+### 4. SUM
 
+Write a function-like macro `SUM(x, y)` that computes the sum of the numbers `x` and `y`.
+
+```bash
 julien@ubuntu:~/0x0c. macro, structures$ cat 4-main.c
 #include <stdio.h>
 #include "4-sum.h"
@@ -189,8 +189,9 @@ julien@ubuntu:~/0x0c. macro, structures$ gcc -Wall -pedantic -Werror -Wextra -st
 julien@ubuntu:~/0x0c. macro, structures$ ./e
 1122
 julien@ubuntu:~/0x0c. macro, structures$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0D-preprocessor`
 - File: `4-sum.h`
