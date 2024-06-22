@@ -127,11 +127,11 @@ julien@ubuntu:~/0x0c. macro, structures$
 - Directory: `0x0D-preprocessor`
 - File: 2-main.c
 
-3. Function-like macro
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Write a function-like macro ABS(x) that computes the absolute value of a number x.
+### 3. Function-like macro
 
+Write a function-like macro `ABS(x)` that computes the absolute value of a number `x`.
+
+```bash
 julien@ubuntu:~/0x0c. macro, structures$ cat 3-main.c
 #include <stdio.h>
 #include "3-function_like_macro.h"
@@ -156,11 +156,12 @@ julien@ubuntu:~/0x0c. macro, structures$ gcc -Wall -pedantic -Werror -Wextra -st
 julien@ubuntu:~/0x0c. macro, structures$ ./d
 980, 980
 julien@ubuntu:~/0x0c. macro, structures$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0D-preprocessor`
-- File: 3-function_like_macro.h
+- File: `3-function_like_macro.h`
 
 ### 4. SUM
 
