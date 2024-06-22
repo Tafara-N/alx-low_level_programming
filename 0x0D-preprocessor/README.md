@@ -66,7 +66,7 @@ julien@ubuntu:~/0x0c. macro, structures$ gcc -Wall -pedantic -Werror -Wextra -st
 julien@ubuntu:~/0x0c. macro, structures$ ./a
 1122
 julien@ubuntu:~/0x0c. macro, structures$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x0D-preprocessor
@@ -101,7 +101,7 @@ julien@ubuntu:~/0x0c. macro, structures$ gcc -Wall -pedantic -Werror -Wextra -st
 julien@ubuntu:~/0x0c. macro, structures$ ./b
 30171.855
 julien@ubuntu:~/0x0c. macro, structures$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x0D-preprocessor
@@ -121,7 +121,7 @@ julien@ubuntu:~/0x0c. macro, structures$ gcc -Wall -pedantic -Werror -Wextra -st
 julien@ubuntu:~/0x0c. macro, structures$ ./cc
 02-main.c
 julien@ubuntu:~/0x0c. macro, structures$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x0D-preprocessor
@@ -156,7 +156,7 @@ julien@ubuntu:~/0x0c. macro, structures$ gcc -Wall -pedantic -Werror -Wextra -st
 julien@ubuntu:~/0x0c. macro, structures$ ./d
 980, 980
 julien@ubuntu:~/0x0c. macro, structures$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x0D-preprocessor
@@ -189,7 +189,7 @@ julien@ubuntu:~/0x0c. macro, structures$ gcc -Wall -pedantic -Werror -Wextra -st
 julien@ubuntu:~/0x0c. macro, structures$ ./e
 1122
 julien@ubuntu:~/0x0c. macro, structures$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x0D-preprocessor
