@@ -199,14 +199,13 @@ What is the gcc option that runs only the preprocessor?
 
 -p
 
-Question #12
+### Question #12
+
 The preprocessor removes all comments
 
+- [ ] False
 
-False
-
-
-True
+- [ ] True
 
 ### Question #13
 
