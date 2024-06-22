@@ -72,11 +72,11 @@ julien@ubuntu:~/0x0c. macro, structures$
 - Directory: `0x0D-preprocessor`
 - File: 0-object_like_macro.h
 
-1. Pi
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Create a header file that defines a macro named PI as an abbreviation for the token 3.14159265359.
+### 1. Pi
 
+Create a header file that defines a macro named `PI` as an abbreviation for the token `3.14159265359`.
+
+```bash
 julien@ubuntu:~/0x0c. macro, structures$ cat 1-main.c
 #include "1-pi.h"
 #include "1-pi.h"
@@ -101,11 +101,12 @@ julien@ubuntu:~/0x0c. macro, structures$ gcc -Wall -pedantic -Werror -Wextra -st
 julien@ubuntu:~/0x0c. macro, structures$ ./b
 30171.855
 julien@ubuntu:~/0x0c. macro, structures$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x0D-preprocessor`
-- File: 1-pi.h
+- File: `1-pi.h`
 
 ### 2. File name
 
