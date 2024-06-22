@@ -165,15 +165,17 @@ False
 
 True
 
-Question #10
+### Question #10
+
 This portion of code is actually using the library stdlib.
 
+```c
 #include <stdlib.h>
+```
 
-False
+- [ ] False
 
-
-True
+- [ ] True
 
 ### Question #11
 
