@@ -1,4 +1,5 @@
 # Resources
+
 ## Read or watch:
 - [Search algorithm](https://intranet.alxswe.com/rltoken/ap2kuRv8qrUMyQ0-MY3EXw)
 - [Space complexity (1)](https://intranet.alxswe.com/rltoken/QK9ENdoTyqGs0d4_M3XE3g)
@@ -14,6 +15,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - What is the best search algorithm to use depending on your needs
 
 # Requirements
+
 ## General
 - Allowed editors: `vi`, `vim`, `emacs`
 - All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
@@ -55,7 +57,7 @@ Write a function that searches for a value in an array of integers using the [Li
 - If `value` is not present in `array` or if `array` is `NULL`, your function must return `-1`
 - Every time you compare a value in the array to the value you are searching, you have to print this value (see example below)
 
-```
+```bash
 wilfried@0x1E-search_algorithms$ cat 0-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -123,7 +125,7 @@ Write a function that searches for a value in a sorted array of integers using t
 - If `value` is not present in `array` or if `array` is `NULL`, your function must return `-1`
 - You must print the array being searched every time it changes. (e.g. at the beginning and when you search a subarray) (See example)
 
-```
+```bash
 wilfried@0x1E-search_algorithms$ cat 1-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -210,7 +212,7 @@ What is the `space complexity` (worst case) of a binary search in an array of si
 
 What is the space complexity of this function / algorithm?
 
-```
+```bash
 int **allocate_map(int n, int m)
 {
      int **map;
@@ -244,7 +246,7 @@ Write a function that searches for a value in a sorted array of integers using t
 - You can use the `sqrt()` function included in `<math.h>` (don’t forget to compile with -lm)
 - Every time you compare a value in the array to the value you are searching for, you have to print this value (see example)
 
-```
+```bash
 wilfried@0x1E-search_algorithms$ cat 100-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -321,7 +323,7 @@ Write a function that searches for a value in a sorted array of integers using t
 - To determine the probe position, you can use : `size_t pos = low + (((double)(high - low) / (array[high] - array[low])) * (value - array[low]))`
 - Every time you compare a value in the array to the value you are searching, you have to print this value (see example below)
 
-```
+```bash
 wilfried@0x1E-search_algorithms$ cat 102-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -378,7 +380,7 @@ Write a function that searches for a value in a sorted array of integers using t
 - Once you’ve found the good range, you need to use a binary search:
 	- Every time you split the array, you have to print the new array (or subarray) you’re searching in (See example)
 
-```
+```bash
 wilfried@0x1E-search_algorithms$ cat 103-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -451,7 +453,7 @@ Write a function that searches for a value in a sorted array of integers.
 - Every time you split the array, you have to print the new array (or subarray) you’re searching in (See example)
 - You have to use recursion. You may only use one loop (`while`, `for`, `do while`, etc.) in order to print the array
 
-```
+```bash
 wilfried@0x1E-search_algorithms$ cat 104-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -504,7 +506,7 @@ You might think that linear search is not as effective as any other algorithm, r
 
 Please define the following data structure in your `search_algos.h` header file:
 
-```
+```bash
 /**
  * struct listint_s - singly linked list
  *
@@ -537,7 +539,7 @@ Write a function that searches for a value in a sorted list of integers using th
 
 NOTE: [You can find here](https://intranet.alxswe.com/rltoken/7EwC08L6K_vQyI2wknLvnQ) the functions used in the example. You don’t need to push them, we will compile your file with our own implementation during the correction.
 
-```
+```bash
 wilfried@0x1E-search_algorithms$ cat 105-main.c
 #include <stdio.h>
 #include <stdlib.h>
@@ -633,7 +635,7 @@ As you see now, looking for a specific value in a singly linked list always lead
 
 Please define the following data structure in your `search_algos.h` header file:
 
-```
+```bash
 /**
  * struct skiplist_s - Singly linked list with an express lane
  *
@@ -666,7 +668,7 @@ Every time you compare a value in the list to the value you are searching, you h
 
 NOTE: [You can find here](https://intranet.alxswe.com/rltoken/Br9jXygWf5gbgGxZI45ukA) the functions used in the example. You don’t need to push them, we will compile your file with our own implementation during the correction.
 
-```
+```bash
 wilfried@0x1E-search_algorithms$ cat 106-main.c
 #include <stdio.h>
 #include <stdlib.h>
