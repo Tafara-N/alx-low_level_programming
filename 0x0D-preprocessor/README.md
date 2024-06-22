@@ -69,7 +69,7 @@ julien@ubuntu:~/0x0c. macro, structures$
 **Repo:**
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x0D-preprocessor
+- Directory: `0x0D-preprocessor`
 - File: 0-object_like_macro.h
 
 1. Pi
@@ -104,7 +104,7 @@ julien@ubuntu:~/0x0c. macro, structures$
 **Repo:**
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x0D-preprocessor
+- Directory: `0x0D-preprocessor`
 - File: 1-pi.h
 
 2. File name
@@ -124,7 +124,7 @@ julien@ubuntu:~/0x0c. macro, structures$
 **Repo:**
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x0D-preprocessor
+- Directory: `0x0D-preprocessor`
 - File: 2-main.c
 
 3. Function-like macro
@@ -159,7 +159,7 @@ julien@ubuntu:~/0x0c. macro, structures$
 **Repo:**
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x0D-preprocessor
+- Directory: `0x0D-preprocessor`
 - File: 3-function_like_macro.h
 
 4. SUM
@@ -192,5 +192,5 @@ julien@ubuntu:~/0x0c. macro, structures$
 **Repo:**
 
 - GitHub repository: `alx-low_level_programming`
-Directory: 0x0D-preprocessor
+- Directory: `0x0D-preprocessor`
 - File: `4-sum.h`
