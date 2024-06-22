@@ -1,11 +1,14 @@
-# Resources  
+![Makefile](giphy-2.gif)
+
+# Resources
+
 ## Read or watch:
 - [What is a makefile and how does it work](https://intranet.alxswe.com/rltoken/pWZA00v30Bk4bNIv9atGeg)
 - [Installing the make utility](https://intranet.alxswe.com/rltoken/1AUviCUw3TrznESzWbrKAQ)
 - [make-official documentation](https://intranet.alxswe.com/rltoken/vQFeXLq1izNua2z2dVl5Yg)
 - [More about Makefile](https://intranet.alxswe.com/rltoken/moIpBFMN3sJcVMNn5VIFlA)
 
-## Learning Objectives  
+## Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/u_RzOFqA4lSt5AdGRAfQ_w), **without the help of Google:**
 
 ## General
@@ -16,7 +19,8 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - What are the most common / useful rules
 - What are variables and how to set and use them
 
-# Requirements  
+# Requirements
+
 ## General
 - Allowed editors: `vi`, `vim`, `emacs`
 - OS: Ubuntu 20.04 LTS
@@ -24,15 +28,16 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - Version of `make`: GNU Make 4.2.1
 - All your files should end with a new line
 - A `README.md` file, at the root of the folder of the project, is mandatory
- 
-# More Info  
-## Files  
+
+# More Info
+
+## Files
 In the following tasks, we are going to use [these files](https://github.com/alx-tools/0x1B.c). We want to compile these only.
 
 ## Tasks
 
 ### 0. make -f 0-Makefile
- 
+
 Create your first Makefile.
 
 Requirements:
@@ -42,9 +47,9 @@ Requirements:
 - variables: none
 
 ```shell
-julien@ubuntu:~/0x1C. Makefiles$ make -f 0-Makefile 
+julien@ubuntu:~/0x1C. Makefiles$ make -f 0-Makefile
 gcc main.c school.c -o school
-julien@ubuntu:~/0x1C. Makefiles$ ./school 
+julien@ubuntu:~/0x1C. Makefiles$ ./school
 j#0000000000000000000000000000000000000
 j#000000000000000000@Q**g00000000000000
 j#0000000000000000*]++]4000000000000000
@@ -77,7 +82,7 @@ julien@ubuntu:~/0x1C. Makefiles$
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1C-makefiles`
 - File: `0-Makefile`
-   
+
 ### 1. make -f 1-Makefile
 
 Requirements:
@@ -100,7 +105,7 @@ julien@ubuntu:~/0x1C. Makefiles$
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1C-makefiles`
 - File: `1-Makefile`
-   
+
 ### 2. make -f 2-Makefile
 
 Create your first useful Makefile.
@@ -135,7 +140,7 @@ julien@ubuntu:~/0x1C. Makefiles$
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1C-makefiles`
 - File: `2-Makefile`
-   
+
 ### 3. make -f 3-Makefile
 
 Requirements:
@@ -184,11 +189,11 @@ main.c
 main.c~
 main.o
 m.h
-julien@ubuntu:~/0x1C. Makefiles$ make clean -f 3-Makefile 
+julien@ubuntu:~/0x1C. Makefiles$ make clean -f 3-Makefile
 rm -f *~ school
-julien@ubuntu:~/0x1C. Makefiles$ make oclean -f 3-Makefile 
+julien@ubuntu:~/0x1C. Makefiles$ make oclean -f 3-Makefile
 rm -f main.o school.o
-julien@ubuntu:~/0x1C. Makefiles$ make fclean -f 3-Makefile 
+julien@ubuntu:~/0x1C. Makefiles$ make fclean -f 3-Makefile
 rm -f *~ school
 rm -f main.o school.o
 julien@ubuntu:~/0x1C. Makefiles$ make all -f 3-Makefile
@@ -209,7 +214,7 @@ julien@ubuntu:~/0x1C. Makefiles$
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1C-makefiles`
 - File: `3-Makefile`
-   
+
 ### 4. A complete Makefile
 
 Requirements:
@@ -244,7 +249,7 @@ julien@ubuntu:~/0x1C. Makefiles$
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1C-makefiles`
 - File: `4-Makefile`
-   
+
 ### 5. Island Perimeter
 
 **Technical interview preparation:**
@@ -285,7 +290,7 @@ if __name__ == "__main__":
     ]
     print(island_perimeter(grid))
 
-guillaume@ubuntu:~/0x1C$ 
+guillaume@ubuntu:~/0x1C$
 guillaume@ubuntu:~/0x1C$ ./5-main.py
 12
 guillaume@ubuntu:~/0x1C$
@@ -295,7 +300,7 @@ guillaume@ubuntu:~/0x1C$
 - GitHub repository: `alx-low_level_programming`
 - Directory: `0x1C-makefiles`
 - File: `5-island_perimeter.py`
-   
+
 ### 6. make -f 100-Makefile
 
 Requirements:
