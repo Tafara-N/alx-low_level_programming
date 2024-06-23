@@ -1,13 +1,13 @@
 # Resources
 
 **Read or watch:**
-- [What is difference between Dynamic and Static library (Static and Dynamic linking)]()
-- [Creating a dynamic library in C]()
-- [Chapter 17. Creating libraries with GCC]()
-- [create dynamic libraries on Linux]()
+- [What is difference between Dynamic and Static library (Static and Dynamic linking)](https://intranet.alxswe.com/rltoken/XLLmLISlteUIxrLzNdm3_Q)
+- [Creating a dynamic library in C](https://intranet.alxswe.com/rltoken/kNeByCwDzg1CI6EpnDFoPA)
+- [Chapter 17. Creating libraries with GCC](https://intranet.alxswe.com/rltoken/LhNeaQ5B-IVHi5bCj2oNgg)
+- [create dynamic libraries on Linux](https://intranet.alxswe.com/rltoken/i9Sw0q7H-RL4nyvzYO5fNQ)
 
-Learning Objectives
-At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
+# Learning Objectives
+At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/OLGzIaD19ia5NZ-WCMckeg), **without the help of Google:**
 
 ## General
 - What is a dynamic library, how does it work, how to create one, and how to use it
@@ -18,35 +18,35 @@ At the end of this project, you are expected to be able to explain to anyone, wi
 # Requirements
 
 ## C
-Allowed editors: vi, vim, emacs
-All your files will be compiled on Ubuntu 20.04 LTS using gcc, using the options -Wall -Werror -Wextra -pedantic -std=gnu89
-All your files should end with a new line
-A README.md file, at the root of the folder of the project is mandatory
-Your code should use the Betty style. It will be checked using betty-style.pl and betty-doc.pl
-You are not allowed to use global variables
-No more than 5 functions per file
-You are not allowed to use the standard library. Any use of functions like printf, puts, etc… is forbidden
-You are allowed to use _putchar
-You don’t have to push _putchar.c, we will use our file. If you do it won’t be taken into account
-In the following examples, the main.c files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own main.c files at compilation. Our main.c files might be different from the one shown in the examples
-The prototypes of all your functions and the prototype of the function _putchar should be included in your header file called main.h
-Don’t forget to push your header file
+- Allowed editors: `vi`, `vim`, `emacs`
+- All your files will be compiled on Ubuntu 20.04 LTS using `gcc`, using the options `-Wall -Werror -Wextra -pedantic -std=gnu89`
+- All your files should end with a new line
+- A `README.md` file, at the root of the folder of the project is mandatory
+- Your code should use the `Betty` style. It will be checked using [betty-style.pl](https://github.com/alx-tools/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github.com/alx-tools/Betty/blob/master/betty-doc.pl)
+- You are not allowed to use global variables
+- No more than 5 functions per file
+- You are not allowed to use the standard library. Any use of functions like `printf`, `puts`, etc… is forbidden
+- You are allowed to use [_putchar](https://github.com/alx-tools/_putchar.c/blob/master/_putchar.c)
+- You don’t have to push `_putchar.c`, we will use our file. If you do it won’t be taken into account
+- In the following examples, the `main.c` files are shown as examples. You can use them to test your functions, but you don’t have to push them to your repo (if you do we won’t take them into account). We will use our own `main.c` files at compilation. Our `main.c` files might be different from the one shown in the examples
+- The prototypes of all your functions and the prototype of the function `_putchar` should be included in your header file called `main.h`
+- Don’t forget to push your header file
 
 ## Bash
-Allowed editors: vi, vim, emacs
-All your scripts will be tested on Ubuntu 20.04 LTS
-All your files should end with a new line ([why?](http://unix.stackexchange.com/questions/18743/whats-the-point-in-adding-a-new-line-to-the-end-of-a-file/18789))
-The first line of all your files should be exactly #!/bin/bash
-A README.md file, at the root of the folder of the project, describing what each script is doing
-All your files must be executable
+- Allowed editors: `vi`, `vim`, `emacs`
+- All your scripts will be tested on Ubuntu 20.04 LTS
+- All your files should end with a new line ([why?](http://unix.stackexchange.com/questions/18743/whats-the-point-in-adding-a-new-line-to-the-end-of-a-file/18789))
+- The first line of all your files should be exactly `#!/bin/bash`
+- A `README.md` file, at the root of the folder of the project, describing what each script is doing
+- All your files must be executable
 
 ## Tasks
 
 ### 0. A library is not a luxury but one of the necessities of life
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
+
 Create the dynamic library libdynamic.so containing all the functions listed below:
 
+```bash
 int _putchar(char c);
 int _islower(int c);
 int _isalpha(int c);
@@ -67,9 +67,12 @@ char *_strchr(char *s, char c);
 unsigned int _strspn(char *s, char *accept);
 char *_strpbrk(char *s, char *accept);
 char *_strstr(char *haystack, char *needle);
-If you haven’t coded all of the above functions create empty ones, with the right prototype.
-Don’t forget to push your main.h file in your repository, containing at least all the prototypes of the above functions.
+```
 
+If you haven’t coded all of the above functions create empty ones, with the right prototype.
+Don’t forget to push your `main.h` file in your repository, containing at least all the prototypes of the above functions.
+
+```bash
 julien@ubuntu:~/0x18. Dynamic libraries$ ls -la lib*
 -rwxrwxr-x 1 julien julien 13632 Jan  7 06:25 libdynamic.so
 julien@ubuntu:~/0x18. Dynamic libraries$ nm -D libdynamic.so
@@ -133,16 +136,16 @@ julien@ubuntu:~/0x18. Dynamic libraries$ ldd len
 julien@ubuntu:~/0x18. Dynamic libraries$ ./len
 10
 julien@ubuntu:~/0x18. Dynamic libraries$
-Repo:
+```
 
+Repo:
 GitHub repository: alx-low_level_programming
 Directory: 0x18-dynamic_libraries
-File: libdynamic.so, main.h
+File: `libdynamic.so, main.h`
 
-1. Without libraries what have we? We have no past and no future
-mandatory
-Score: 100.0% (Checks completed: 100.0%)
-Create a script that creates a dynamic library called liball.so from all the .c files that are in the current directory.
+### 1. Without libraries what have we? We have no past and no future
+
+Create a script that creates a dynamic library called `liball.so` from all the `.c` files that are in the current directory.
 
 julien@ubuntu:~/0x18. Dynamic libraries$ ls *.c
 abs.c   isalpha.c  islower.c  memcpy.c  putchar.c  strcat.c  strcmp.c  strlen.c   strncpy.c  strspn.c
@@ -175,19 +178,20 @@ julien@ubuntu:~/0x18. Dynamic libraries$ nm -D --defined-only liball.so
 000000000000109d T _strspn
 0000000000001176 T _strstr
 julien@ubuntu:~/0x18. Dynamic libraries$
-Repo:
+```
 
+Repo:
 GitHub repository: alx-low_level_programming
 Directory: 0x18-dynamic_libraries
-File: 1-create_dynamic_lib.sh
+File: `1-create_dynamic_lib.sh`
 
-2. Let's call C functions from Python
-#advanced
-Score: 100.0% (Checks completed: 100.0%)
+### 2. Let's call C functions from Python
+
 I know, you’re missing C when coding in Python. So let’s fix that!
 
 Create a dynamic library that contains C functions that can be called from Python. See example for more detail.
 
+```bash
 julien@ubuntu:~/0x18$ cat 100-tests.py
 import random
 import ctypes
@@ -225,19 +229,20 @@ julien@ubuntu:~/0x18$ python3 100-tests.py
 39 / -62 = 0
 39 % -62 = 39
 julien@ubuntu:~/0x18$
-Repo:
+```
 
+Repo:
 GitHub repository: alx-low_level_programming
 Directory: 0x18-dynamic_libraries
-File: 100-operations.so
+File: `100-operations.so`
 
-3. Code injection: Win the Giga Millions!
+### 3. Code injection: Win the Giga Millions!
 
 ![Code injection: Win the Giga Millions!](code_injection.jpg)
 
 I bought a ticket for the Giga Millions and chose these numbers: 9, 8, 10, 24, 75 + 9. If you could run two commands on the same server where the Giga Millions program runs, could you make me win the Jackpot?
 
-Our mole got us a copy of the program, you can download it [here](https://github.com/alx-tools/0x18.c). Our mole also gave us a piece of documentation:
+- Our mole got us a copy of the program, you can download it [here](https://github.com/alx-tools/0x18.c). Our mole also gave us a piece of documentation:
 
 ```c
 /* Giga Millions program
@@ -250,18 +255,20 @@ Our mole got us a copy of the program, you can download it [here](https://github
   * usage: ./gm n1 n2 n3 n4 n5 bonus
 ```
 
-You can’t modify the program gm itself as Master Sysadmin Sylvain (MSS) always checks its [MD5](https://intranet.alxswe.com/rltoken/uFp7pQzfyzDA7z2cVOKIaQ) before running it
-The system is an Linux Ubuntu 16.04
-The server has internet access
-Our mole will be only able to run two commands from a shell script, without being detected by MSS
-Your shell script should be maximum 3 lines long. You are not allowed to use ;, &&, ||, |, ` (it would be detected by MSS), and have a maximum of two commands
-Our mole has only the authorization to upload one file on the server. It will be your shell script
-Our mole will run your shell script this way: mss@gm_server$ . ./101-make_me_win.sh
-Our mole will run your shell script from the same directory containing the program gm, exactly 98 seconds before MSS runs gm with my numbers: ./gm 9 8 10 24 75 9
-MSS will use the same terminal and session than our mole
-Before running the gm program, MSS always check the content of the directory
-MSS always exit after running the program gm
-TL;DR; This is what is going to happen
+- You can’t modify the program `gm` itself as Master Sysadmin Sylvain (MSS) always checks its [MD5](https://intranet.alxswe.com/rltoken/uFp7pQzfyzDA7z2cVOKIaQ) before running it
+- The system is an `Linux Ubuntu 16.04`
+- The server has internet access
+- Our mole will be only able to run two commands from a shell script, without being detected by MSS
+- Your shell script should be maximum 3 lines long. You are not allowed to use `;`, `&&`, `||`, `|`, ` (it would be detected by MSS), and have a maximum of two commands
+- Our mole has only the authorization to upload one file on the server. It will be your shell script
+- Our mole will run your shell script this way: `mss@gm_server$ . ./101-make_me_win.sh`
+- Our mole will run your shell script from the same directory containing the program `gm`, exactly 98 seconds before MSS runs `gm` with my numbers: `./gm 9 8 10 24 75 9`
+- MSS will use the same terminal and session than our mole
+- Before running the `gm` program, MSS always check the content of the directory
+- MSS always exit after running the program `gm`
+- TL;DR; This is what is going to happen
+
+```bash
 mss@gm_server$ . ./101-make_me_win.sh
 mss@gm_server$ rm 101-make_me_win.sh
 mss@gm_server$ ls -la
@@ -275,10 +282,11 @@ d52e6c18e0723f5b025a75dea19ef365  gm
 mss@gm_server$ ./gm 9 8 10 24 75 9
 --> Please make me win!
 mss@gm_server$ exit
-Tip: LD_PRELOAD
+```
+
+> Tip: `LD_PRELOAD`
 
 Repo:
-
 GitHub repository: alx-low_level_programming
 Directory: 0x18-dynamic_libraries
-File: 101-make_me_win.sh
+File: `101-make_me_win.sh`
