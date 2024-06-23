@@ -644,21 +644,20 @@ julien@ubuntu:~/monty/bf$ bf 1002-mul.bf
 - Directory: `bf`
 - File: 1002-mul.bf
 
-19. Multiplication level up
-#advanced
-Score: 100.0% (Checks completed: 100.0%)
+### 19. Multiplication level up
+
 Multiply two digits given by the user.
 
+- Read the two digits from stdin, multiply them, and print the result, followed by a new line
 
-
-
-Read the two digits from stdin, multiply them, and print the result, followed by a new line
+```bash
 julien@ubuntu:~/monty/bf$ bf 1003-mul.bf
 77
 49
 julien@ubuntu:~/monty/bf$
-**Repo:**
+```
 
+**Repo:**
 - GitHub repository: `monty`
 - Directory: `bf`
-- File: 1003-mul.bf
+- File: `1003-mul.bf`
