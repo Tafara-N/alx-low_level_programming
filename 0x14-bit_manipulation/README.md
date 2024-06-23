@@ -3,16 +3,16 @@
 # Resources
 
 **Read or watch:**
-- [Operators in C - Part 6]()
-- [Operators in C - Part 7 (Bitwise Operators-II)]()
-- [Bitwise Operators 1: The AND Operation]()
-- [Bitwise Operators 2: The OR Operation]()
-- [Bitwise Operators 3: The XOR Operation]()
-- [Bitwise Operators 4: The Logical Shift Operation]()
-- [Bit Manipulation]()
-- [Bitwise Operators]()
-- [Google]()
-- [Youtube]()
+- [Operators in C - Part 6](https://intranet.alxswe.com/rltoken/NcSgQBRu1FTD6IYol7YxMw)
+- [Operators in C - Part 7 (Bitwise Operators-II)](https://intranet.alxswe.com/rltoken/FZqWjIeUKvcMHycZClxJmA)
+- [Bitwise Operators 1: The AND Operation](https://intranet.alxswe.com/rltoken/y5G3PQyj93BfeKWdKg4qZQ)
+- [Bitwise Operators 2: The OR Operation](https://intranet.alxswe.com/rltoken/WO6Vqxl1DUvnKNSX_k19pQ)
+- [Bitwise Operators 3: The XOR Operation](https://intranet.alxswe.com/rltoken/a_5cu8KKPivZurpJnXVpAw)
+- [Bitwise Operators 4: The Logical Shift Operation](https://intranet.alxswe.com/rltoken/QV4k4fBJ1cYmZubJSZCmGQ)
+- [Bit Manipulation](https://intranet.alxswe.com/rltoken/wTSa_lRda5k1rH6JTsSoFw)
+- [Bitwise Operators](https://intranet.alxswe.com/rltoken/avGgN526-UnTPvpunGviig)
+- [Google](https://intranet.alxswe.com/rltoken/-tOFAtANisYQthxNBmJB8g)
+- [Youtube](https://intranet.alxswe.com/rltoken/-PNa1vv5T3tqVVY4PRlGrg)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/ipbpW8pLm91jdr3YD-AENg), **without the help of Google:**
@@ -41,304 +41,231 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Quiz questions
 
-Question #0
+### Question #0
 
 What is `98` in base2?
 
+- [ ] 0b01010010
 
-0b01010010
+- [ ] 0b01100010
 
+- [ ] 0b10011000
 
-0b01100010
-
-
-0b10011000
-
-Question #1
+### Question #1
 
 `~ 0x12 =` ?
 
+- [ ] 0x21
 
-0x21
+- [ ] 0xED
 
+- [ ] 0xFD
 
-0xED
+- [ ] 0xEE
 
-
-0xFD
-
-
-0xEE
-
-Question #2
+### Question #2
 
 What is `98` in base16?
 
+- [ ] 0x62
 
-0x62
+- [ ] 0x98
 
+- [ ] 0x96
 
-0x98
-
-
-0x96
-
-Question #3
+### Question #3
 
 `0x13 << 1 =` ?
 
+- [ ] 0x98
 
-0x98
+- [ ] 0x13
 
+- [ ] 0x26
 
-0x13
+- [ ] 0x4C
 
-
-0x26
-
-
-0x4C
-
-Question #4
+### Question #4
 
 What is `0b001010010` in base10?
 
+- [ ] 84
 
-84
+- [ ] 81
 
+- [ ] 82
 
-81
+- [ ] 83
 
-
-82
-
-
-83
-
-Question #5
+### Question #5
 
 `0x88 & 0x01 =` ?
 
+- [ ] 0x89
 
-0x89
+- [ ] 0x00
 
+- [ ] 0x01
 
-0x00
+- [ ] 0x88
 
-
-0x01
-
-
-0x88
-
-Question #6
+### Question #6
 
 `0x02 >> 1 =` ?
 
+- [ ] 0x02
 
-0x02
+- [ ] 0x01
 
+- [ ] 0x00
 
-0x01
-
-
-0x00
-
-Question #7
+### Question #7
 
 `~ 0x98 =` ?
 
+- [ ] 0x66
 
-0x66
+- [ ] 0x67
 
+- [ ] 0x68
 
-0x67
-
-
-0x68
-
-Question #8
+### Question #8
 
 `0x01 & 0x01 =` ?
 
+- [ ] 0x00
 
-0x00
+- [ ] 0x01
 
+- [ ] 0x02
 
-0x01
-
-
-0x02
-
-Question #9
+### Question #9
 
 `0x01 | 0x00 =` ?
 
+- [ ] 0x00
 
-0x00
+- [ ] 0x01
 
+- [ ] 0x02
 
-0x01
-
-
-0x02
-
-Question #10
+### Question #10
 
 `0x01 | 0x01 =` ?
 
+- [ ] 0x00
 
-0x00
+- [ ] 0x01
 
+- [ ] 0x02
 
-0x01
-
-
-0x02
-
-Question #11
+### Question #11
 
 `0x89 >> 3 =` ?
 
+- [ ] 0x08
 
-0x08
+- [ ] 0x89
 
+- [ ] 0x44
 
-0x89
+- [ ] 0x11
 
+- [ ] 0x22
 
-0x44
-
-
-0x11
-
-
-0x22
-
-Question #12
+### Question #12
 
 `0x01 & 0x00 =` ?
 
+- [ ] 0x00
 
-0x00
+- [ ] 0x01
 
+- [ ] 0x02
 
-0x01
-
-
-0x02
-
-Question #13
+### Question #13
 
 `0x66 & 0x22 =` ?
 
+- [ ] 0x22
 
-0x22
+- [ ] 0x44
 
+- [ ] 0x66
 
-0x44
-
-
-0x66
-
-Question #14
+### Question #14
 
 `0x89 & 0x01 =` ?
 
+- [ ] 0x89
 
-0x89
+- [ ] 0x00
 
+- [ ] 0x01
 
-0x00
+- [ ] 0x88
 
-
-0x01
-
-
-0x88
-
-Question #15
+### Question #15
 
 `0x44 | 0x22 =` ?
 
+- [ ] 0x22
 
-0x22
+- [ ] 0x44
 
+- [ ] 0x66
 
-0x44
-
-
-0x66
-
-Question #16
+### Question #16
 
 What is `0b01101101` in base16?
 
+- [ ] 0xD6
 
-0xD6
+- [ ] 0x36
 
+- [ ] 0x6D
 
-0x36
+- [ ] 0x7D
 
+- [ ] 0x6E
 
-0x6D
-
-
-0x7D
-
-
-0x6E
-
-Question #17
+### Question #17
 
 What is `0x89` in base2?
 
+- [ ] 0b10001000
 
-0b10001000
+- [ ] 0b10101001
 
+- [ ] 0b10001001
 
-0b10101001
+- [ ] 0b01101001
 
-
-0b10001001
-
-
-0b01101001
-
-Question #18
+### Question #18
 
 What is `0x89` in base10?
 
+- [ ] 139
 
-139
+- [ ] 89
 
+- [ ] 135
 
-89
+- [ ] 137
 
-
-135
-
-
-137
-
-Question #19
+### Question #19
 
 `0x01 << 1 =` ?
 
+- [ ] 0x10
 
-0x10
+- [ ] 0x00
 
+- [ ] 0x01
 
-0x00
+- [ ] 0x03
 
-
-0x01
-
-
-0x03
-
-
-0x02
+- [ ] 0x02
 
 ## Tasks
 
