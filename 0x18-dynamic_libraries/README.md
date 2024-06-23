@@ -138,15 +138,16 @@ julien@ubuntu:~/0x18. Dynamic libraries$ ./len
 julien@ubuntu:~/0x18. Dynamic libraries$
 ```
 
-Repo:
-GitHub repository: alx-low_level_programming
-Directory: 0x18-dynamic_libraries
-File: `libdynamic.so, main.h`
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x18-dynamic_libraries`
+- File: `libdynamic.so, main.h`
 
 ### 1. Without libraries what have we? We have no past and no future
 
 Create a script that creates a dynamic library called `liball.so` from all the `.c` files that are in the current directory.
 
+```bash
 julien@ubuntu:~/0x18. Dynamic libraries$ ls *.c
 abs.c   isalpha.c  islower.c  memcpy.c  putchar.c  strcat.c  strcmp.c  strlen.c   strncpy.c  strspn.c
 atoi.c  isdigit.c  isupper.c  memset.c  puts.c     strchr.c  strcpy.c  strncat.c  strpbrk.c  strstr.c
@@ -180,10 +181,10 @@ julien@ubuntu:~/0x18. Dynamic libraries$ nm -D --defined-only liball.so
 julien@ubuntu:~/0x18. Dynamic libraries$
 ```
 
-Repo:
-GitHub repository: alx-low_level_programming
-Directory: 0x18-dynamic_libraries
-File: `1-create_dynamic_lib.sh`
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x18-dynamic_libraries`
+- File: `1-create_dynamic_lib.sh`
 
 ### 2. Let's call C functions from Python
 
@@ -231,10 +232,10 @@ julien@ubuntu:~/0x18$ python3 100-tests.py
 julien@ubuntu:~/0x18$
 ```
 
-Repo:
-GitHub repository: alx-low_level_programming
-Directory: 0x18-dynamic_libraries
-File: `100-operations.so`
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x18-dynamic_libraries`
+- File: `100-operations.so`
 
 ### 3. Code injection: Win the Giga Millions!
 
@@ -286,7 +287,7 @@ mss@gm_server$ exit
 
 > Tip: `LD_PRELOAD`
 
-Repo:
-GitHub repository: alx-low_level_programming
-Directory: 0x18-dynamic_libraries
-File: `101-make_me_win.sh`
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x18-dynamic_libraries`
+- File: `101-make_me_win.sh`
