@@ -610,7 +610,7 @@ julien@ubuntu:~/monty/bf$
 
 - GitHub repository: `monty`
 - Directory: `bf`
-File: 1000-school.bf
+- File: 1000-school.bf
 
 17. Add two digits
 #advanced
@@ -626,7 +626,7 @@ julien@ubuntu:~/monty/bf$ bf ./1001-add.bf
 
 - GitHub repository: `monty`
 - Directory: `bf`
-File: 1001-add.bf
+- File: 1001-add.bf
 
 18. Multiplication
 #advanced
@@ -642,7 +642,7 @@ julien@ubuntu:~/monty/bf$ bf 1002-mul.bf
 
 - GitHub repository: `monty`
 - Directory: `bf`
-File: 1002-mul.bf
+- File: 1002-mul.bf
 
 19. Multiplication level up
 #advanced
@@ -661,4 +661,4 @@ julien@ubuntu:~/monty/bf$
 
 - GitHub repository: `monty`
 - Directory: `bf`
-File: 1003-mul.bf
+- File: 1003-mul.bf
