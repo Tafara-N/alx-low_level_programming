@@ -137,8 +137,8 @@ julien@ubuntu:~/0x1A. Hash tables$ valgrind ./a
 julien@ubuntu:~/0x1A. Hash tables$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x1A-hash_tables
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x1A-hash_tables`
 - File: 0-hash_table_create.c
 
 1. djb2
@@ -193,8 +193,8 @@ julien@ubuntu:~/0x1A. Hash tables$ ./b
 julien@ubuntu:~/0x1A. Hash tables$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x1A-hash_tables
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x1A-hash_tables`
 - File: 1-djb2.c
 
 2. key -> index
@@ -247,8 +247,8 @@ julien@ubuntu:~/0x1A. Hash tables$ ./c
 julien@ubuntu:~/0x1A. Hash tables$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x1A-hash_tables
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x1A-hash_tables`
 - File: 2-key_index.c
 
 3. >>> ht['betty'] = 'cool'
@@ -294,8 +294,8 @@ redescribed collides with urites
 dram collides with vivency
 **Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x1A-hash_tables
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x1A-hash_tables`
 - File: 3-hash_table_set.c
 
 4. >>> ht['betty']
@@ -364,8 +364,8 @@ javascript:(null)
 julien@ubuntu:~/0x1A. Hash tables$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x1A-hash_tables
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x1A-hash_tables`
 - File: 4-hash_table_get.c
 
 5. >>> print(ht)
@@ -413,8 +413,8 @@ julien@ubuntu:~/0x1A. Hash tables$ ./f
 julien@ubuntu:~/0x1A. Hash tables$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x1A-hash_tables
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x1A-hash_tables`
 - File: 5-hash_table_print.c
 
 6. >>> del ht
@@ -485,8 +485,8 @@ julien@ubuntu:~/0x1A. Hash tables$ valgrind ./g
 julien@ubuntu:~/0x1A. Hash tables$
 **Repo:**
 
-GitHub repository: alx-low_level_programming
-Directory: 0x1A-hash_tables
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x1A-hash_tables`
 - File: 6-hash_table_delete.c
 
 ### 7. $ht['Betty'] = 'Cool'
@@ -608,6 +608,6 @@ julien@ubuntu:~/0x1A. Hash tables$
 ![PHP](php.png)
 
 **Repo:**
-GitHub repository: alx-low_level_programming
-Directory: 0x1A-hash_tables
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x1A-hash_tables`
 - File: 100-sorted_hash_table.c
