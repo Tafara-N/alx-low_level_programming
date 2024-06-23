@@ -135,7 +135,7 @@ julien@ubuntu:~/0x1A. Hash tables$ valgrind ./a
 ==7602== For counts of detected and suppressed errors, rerun with: -v
 ==7602== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
 julien@ubuntu:~/0x1A. Hash tables$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
@@ -191,7 +191,7 @@ julien@ubuntu:~/0x1A. Hash tables$ ./b
 3749890792216096085
 5861846
 julien@ubuntu:~/0x1A. Hash tables$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
@@ -245,7 +245,7 @@ julien@ubuntu:~/0x1A. Hash tables$ ./c
 5861846
 470
 julien@ubuntu:~/0x1A. Hash tables$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
@@ -292,7 +292,7 @@ stylist collides with subgenera
 joyful collides with synaphea
 redescribed collides with urites
 dram collides with vivency
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
@@ -362,7 +362,7 @@ Betty:Cool
 c:isfun
 javascript:(null)
 julien@ubuntu:~/0x1A. Hash tables$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
@@ -411,7 +411,7 @@ julien@ubuntu:~/0x1A. Hash tables$ ./f
 {}
 {'Betty': 'Cool', 'python': 'awesome', 'Bob': 'and Kris love asm', '98': 'Battery Street', 'N': 'queens', 'c': 'fun', 'Asterix': 'Obelix'}
 julien@ubuntu:~/0x1A. Hash tables$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
@@ -483,7 +483,7 @@ julien@ubuntu:~/0x1A. Hash tables$ valgrind ./g
 ==6621== For counts of detected and suppressed errors, rerun with: -v
 ==6621== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
 julien@ubuntu:~/0x1A. Hash tables$
-Repo:
+**Repo:**
 
 GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
@@ -607,7 +607,7 @@ julien@ubuntu:~/0x1A. Hash tables$
 
 ![PHP](php.png)
 
-Repo:
+**Repo:**
 GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
 - File: 100-sorted_hash_table.c
