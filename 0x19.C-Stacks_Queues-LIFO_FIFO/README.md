@@ -1,4 +1,4 @@
-![Make Tea Not Love](CFYYWy6UEAE9Ow-.png)
+![Make Tea Not Love](make_tea.png)
 
 # Resources
 
