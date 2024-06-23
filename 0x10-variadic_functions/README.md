@@ -9,7 +9,7 @@
 - `stdarg`
 
 # Additional Resources
-- [Variadic Functions in C Programming]()
+- [Variadic Functions in C Programming](https://intranet.alxswe.com/rltoken/GCUec79qbapf6ZeGLmMRFg)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/ipbpW8pLm91jdr3YD-AENg), **without the help of Google:**
@@ -74,10 +74,10 @@ julien@ubuntu:~/0x0f. variadic functions$ ./a
 julien@ubuntu:~/0x0f. variadic functions$
 ```
 
-Repo:
-GitHub repository: alx-low_level_programming
-Directory: 0x10-variadic_functions
-File: `0-sum_them_all.c`
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x10-variadic_functions`
+- File: `0-sum_them_all.c`
 
 ### 1. To be is to be the value of a variable
 
@@ -110,10 +110,10 @@ julien@ubuntu:~/0x0f. variadic functions$ ./b
 julien@ubuntu:~/0x0f. variadic functions$
 ```
 
-Repo:
-GitHub repository: alx-low_level_programming
-Directory: 0x10-variadic_functions
-File: `1-print_numbers.c`
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x10-variadic_functions`
+- File: `1-print_numbers.c`
 
 ### 2. One woman's constant is another woman's variable
 
@@ -147,10 +147,10 @@ Jay, Django
 julien@ubuntu:~/0x0f. Variadic functions$
 ```
 
-Repo:
-GitHub repository: alx-low_level_programming
-Directory: 0x10-variadic_functions
-File: `2-print_strings.c`
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x10-variadic_functions`
+- File: `2-print_strings.c`
 
 ### 3. To be is a to be the value of a variable
 
@@ -192,7 +192,7 @@ B, 3, stSchool
 julien@ubuntu:~/0x0f. Variadic functions$
 ```
 
-Repo:
-GitHub repository: alx-low_level_programming
-Directory: 0x10-variadic_functions
-File: `3-print_all.c`
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x10-variadic_functions`
+- File: `3-print_all.c`
