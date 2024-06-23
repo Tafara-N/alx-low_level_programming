@@ -168,7 +168,7 @@ julien@ubuntu:~/monty$ ./monty bytecodes/00.m
 2
 1
 julien@ubuntu:~/monty$
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 
@@ -195,7 +195,7 @@ julien@ubuntu:~/monty$ ./monty bytecodes/06.m
 2
 3
 julien@ubuntu:~/monty$
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 
@@ -229,7 +229,7 @@ julien@ubuntu:~/monty$ ./monty bytecodes/07.m
 1
 1
 julien@ubuntu:~/monty$
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 
@@ -259,7 +259,7 @@ julien@ubuntu:~/monty$ ./monty bytecodes/09.m
 3
 1
 julien@ubuntu:~/monty$
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 
@@ -292,7 +292,7 @@ julien@ubuntu:~/monty$ ./monty bytecodes/12.m
 5
 1
 julien@ubuntu:~/monty$
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 
@@ -306,7 +306,7 @@ The nop opcode
 The opcode nop doesn’t do anything.
 
 Usage: nop
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 
@@ -336,7 +336,7 @@ julien@ubuntu:~/monty$ ./monty bytecodes/19.m
 2
 1
 julien@ubuntu:~/monty$
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 
@@ -355,7 +355,7 @@ The result is stored in the second top element of the stack, and the top element
 The top element of the stack contains the result
 The stack is one element shorter
 If the top element of the stack is 0, print the error message L<line_number>: division by zero, followed by a new line, and exit with the status EXIT_FAILURE
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 
@@ -373,7 +373,7 @@ If the stack contains less than two elements, print the error message L<line_num
 The result is stored in the second top element of the stack, and the top element is removed, so that at the end:
 The top element of the stack contains the result
 The stack is one element shorter
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 
@@ -392,7 +392,7 @@ The result is stored in the second top element of the stack, and the top element
 The top element of the stack contains the result
 The stack is one element shorter
 If the top element of the stack is 0, print the error message L<line_number>: division by zero, followed by a new line, and exit with the status EXIT_FAILURE
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 
@@ -401,7 +401,7 @@ Repo:
 Score: 100.0% (Checks completed: 100.0%)
 Every good language comes with the capability of commenting. When the first non-space character of a line is #, treat this line as a comment (don’t do anything).
 
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 
@@ -424,7 +424,7 @@ pchar
 julien@ubuntu:~/monty$ ./monty bytecodes/28.m
 H
 julien@ubuntu:~/monty$
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 
@@ -462,7 +462,7 @@ pstr
 julien@ubuntu:~/monty$ ./monty bytecodes/31.m
 School
 julien@ubuntu:~/monty$
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 
@@ -514,7 +514,7 @@ julien@ubuntu:~/monty$ ./monty bytecodes/35.m
 1
 0
 julien@ubuntu:~/monty$
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 
@@ -530,7 +530,7 @@ The opcode rotr rotates the stack to the bottom.
 Usage: rotr
 The last element of the stack becomes the top element of the stack
 rotr never fails
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 
@@ -591,7 +591,7 @@ julien@ubuntu:~/monty$ ./monty bytecodes/47.m
 3
 11111
 julien@ubuntu:~/monty$
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 
@@ -606,7 +606,7 @@ Read: Brainf*ck
 julien@ubuntu:~/monty/bf$ bf 1000-school.bf
 School
 julien@ubuntu:~/monty/bf$
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 - Directory: `bf`
@@ -622,7 +622,7 @@ The total of the two digits with be one digit-long (<10)
 julien@ubuntu:~/monty/bf$ bf ./1001-add.bf
 81
 9julien@ubuntu:~/monty/bf$
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 - Directory: `bf`
@@ -638,7 +638,7 @@ The result of the multiplication will be one digit-long (<10)
 julien@ubuntu:~/monty/bf$ bf 1002-mul.bf
 24
 8julien@ubuntu:~/monty/bf$
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 - Directory: `bf`
@@ -657,7 +657,7 @@ julien@ubuntu:~/monty/bf$ bf 1003-mul.bf
 77
 49
 julien@ubuntu:~/monty/bf$
-Repo:
+**Repo:**
 
 - GitHub repository: `monty`
 - Directory: `bf`
