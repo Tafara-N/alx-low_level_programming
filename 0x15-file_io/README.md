@@ -360,10 +360,10 @@ Heap earth upon it.
 julien@ubuntu:~/0x15. File descriptors and permissions$
 ```
 
-Repo:
-GitHub repository: alx-low_level_programming
-Directory: 0x15-file_io
-File: `0-read_textfile.c`
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x15-file_io`
+- File: `0-read_textfile.c`
 
 ### 1. Under the snow
 
@@ -410,10 +410,10 @@ julien@ubuntu:~/0x15. File descriptors and permissions$ cat hello
 worldjulien@ubuntu:~/0x15. File descriptors and permis$
 ```
 
-Repo:
-GitHub repository: alx-low_level_programming
-Directory: 0x15-file_io
-File: `1-create_file.c`
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x15-file_io`
+- File: `1-create_file.c`
 
 ### 2. Speak gently, she can hear
 
@@ -462,10 +462,10 @@ Hello World!
 julien@ubuntu:~/0x15. File descriptors and permissions$
 ```
 
-Repo:
-GitHub repository: alx-low_level_programming
-Directory: 0x15-file_io
-File: `2-append_text_to_file.c`
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x15-file_io`
+- File: `2-append_text_to_file.c`
 
 ### 3. cp
 
@@ -502,10 +502,10 @@ http://imgur.com/a/Mq1tc
 julien@ubuntu:~/0x15. File descriptors and permissions$
 ```
 
-Repo:
-GitHub repository: alx-low_level_programming
-Directory: 0x15-file_io
-File: `3-cp.c`
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x15-file_io`
+- File: `3-cp.c`
 
 ### 4. elf
 
@@ -643,7 +643,7 @@ ELF Header:
 julien@ubuntu:~/0x15. File descriptors and permissions$
 ```
 
-Repo:
-GitHub repository: alx-low_level_programming
-Directory: 0x15-file_io
-File: `100-elf_header.c`
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x15-file_io`
+- File: `100-elf_header.c`
