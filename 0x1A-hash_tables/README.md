@@ -139,7 +139,7 @@ Repo:
 
 GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
-File: 0-hash_table_create.c
+- File: 0-hash_table_create.c
 
 1. djb2
 
@@ -195,7 +195,7 @@ Repo:
 
 GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
-File: 1-djb2.c
+- File: 1-djb2.c
 
 2. key -> index
 mandatory
@@ -249,7 +249,7 @@ Repo:
 
 GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
-File: 2-key_index.c
+- File: 2-key_index.c
 
 3. >>> ht['betty'] = 'cool'
 mandatory
@@ -296,7 +296,7 @@ Repo:
 
 GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
-File: 3-hash_table_set.c
+- File: 3-hash_table_set.c
 
 4. >>> ht['betty']
 mandatory
@@ -366,7 +366,7 @@ Repo:
 
 GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
-File: 4-hash_table_get.c
+- File: 4-hash_table_get.c
 
 5. >>> print(ht)
 mandatory
@@ -415,7 +415,7 @@ Repo:
 
 GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
-File: 5-hash_table_print.c
+- File: 5-hash_table_print.c
 
 6. >>> del ht
 mandatory
@@ -487,7 +487,7 @@ Repo:
 
 GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
-File: 6-hash_table_delete.c
+- File: 6-hash_table_delete.c
 
 ### 7. $ht['Betty'] = 'Cool'
 
@@ -603,11 +603,11 @@ julien@ubuntu:~/0x1A. Hash tables$ ./sht
 {'a': '6', 'b': '3', 'c': '2', 'j': '1', 'm': '7', 'n': '5', 'y': '0', 'z': '4'}
 {'z': '4', 'y': '0', 'n': '5', 'm': '7', 'j': '1', 'c': '2', 'b': '3', 'a': '6'}
 julien@ubuntu:~/0x1A. Hash tables$
+```
 
 ![PHP](php.png)
 
 Repo:
-
 GitHub repository: alx-low_level_programming
 Directory: 0x1A-hash_tables
-File: 100-sorted_hash_table.c
+- File: 100-sorted_hash_table.c
