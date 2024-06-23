@@ -170,7 +170,7 @@ julien@ubuntu:~/monty$ ./monty bytecodes/00.m
 julien@ubuntu:~/monty$
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 
 1. pint
 mandatory
@@ -197,7 +197,7 @@ julien@ubuntu:~/monty$ ./monty bytecodes/06.m
 julien@ubuntu:~/monty$
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 
 2. pop
 mandatory
@@ -231,7 +231,7 @@ julien@ubuntu:~/monty$ ./monty bytecodes/07.m
 julien@ubuntu:~/monty$
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 
 3. swap
 mandatory
@@ -261,7 +261,7 @@ julien@ubuntu:~/monty$ ./monty bytecodes/09.m
 julien@ubuntu:~/monty$
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 
 4. add
 mandatory
@@ -294,7 +294,7 @@ julien@ubuntu:~/monty$ ./monty bytecodes/12.m
 julien@ubuntu:~/monty$
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 
 5. nop
 mandatory
@@ -308,7 +308,7 @@ The opcode nop doesn’t do anything.
 Usage: nop
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 
 6. sub
 #advanced
@@ -338,7 +338,7 @@ julien@ubuntu:~/monty$ ./monty bytecodes/19.m
 julien@ubuntu:~/monty$
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 
 7. div
 #advanced
@@ -357,7 +357,7 @@ The stack is one element shorter
 If the top element of the stack is 0, print the error message L<line_number>: division by zero, followed by a new line, and exit with the status EXIT_FAILURE
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 
 8. mul
 #advanced
@@ -375,7 +375,7 @@ The top element of the stack contains the result
 The stack is one element shorter
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 
 9. mod
 #advanced
@@ -394,7 +394,7 @@ The stack is one element shorter
 If the top element of the stack is 0, print the error message L<line_number>: division by zero, followed by a new line, and exit with the status EXIT_FAILURE
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 
 10. comments
 #advanced
@@ -403,7 +403,7 @@ Every good language comes with the capability of commenting. When the first non-
 
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 
 11. pchar
 #advanced
@@ -426,7 +426,7 @@ H
 julien@ubuntu:~/monty$
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 
 12. pstr
 #advanced
@@ -464,7 +464,7 @@ School
 julien@ubuntu:~/monty$
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 
 13. rotl
 #advanced
@@ -516,7 +516,7 @@ julien@ubuntu:~/monty$ ./monty bytecodes/35.m
 julien@ubuntu:~/monty$
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 
 14. rotr
 #advanced
@@ -532,7 +532,7 @@ The last element of the stack becomes the top element of the stack
 rotr never fails
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 
 15. stack, queue
 #advanced
@@ -593,7 +593,7 @@ julien@ubuntu:~/monty$ ./monty bytecodes/47.m
 julien@ubuntu:~/monty$
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 
 16. Brainf*ck
 #advanced
@@ -608,7 +608,7 @@ School
 julien@ubuntu:~/monty/bf$
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 - Directory: `bf`
 File: 1000-school.bf
 
@@ -624,7 +624,7 @@ julien@ubuntu:~/monty/bf$ bf ./1001-add.bf
 9julien@ubuntu:~/monty/bf$
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 - Directory: `bf`
 File: 1001-add.bf
 
@@ -640,7 +640,7 @@ julien@ubuntu:~/monty/bf$ bf 1002-mul.bf
 8julien@ubuntu:~/monty/bf$
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 - Directory: `bf`
 File: 1002-mul.bf
 
@@ -659,6 +659,6 @@ julien@ubuntu:~/monty/bf$ bf 1003-mul.bf
 julien@ubuntu:~/monty/bf$
 Repo:
 
-GitHub repository: monty
+- GitHub repository: `monty`
 - Directory: `bf`
 File: 1003-mul.bf
