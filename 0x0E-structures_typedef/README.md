@@ -3,17 +3,17 @@
 # Resources
 
 **Read or watch:**
-- [0x0d. Structures.pdf]()
-- [struct (C programming language)]()
-- [Documentation: structures]()
-- [0x0d. Typedef and structures.pdf]()
-- [typedef]()
+- [0x0d. Structures.pdf](https://intranet.alxswe.com/rltoken/giS4eNQT2BQ9RLK0PMhgJQ)
+- [struct (C programming language)](https://intranet.alxswe.com/rltoken/MinJEDOHpeZs31qaXU8v1w)
+- [Documentation: structures](https://intranet.alxswe.com/rltoken/Nexam-lEwrNHg2awV5Gv8g)
+- [0x0d. Typedef and structures.pdf](https://intranet.alxswe.com/rltoken/TGQ3RopVP7CjUTzF-XDXUw)
+- [typedef](https://intranet.alxswe.com/rltoken/aqqM2t7PLG5cyHaKwm5nBg)
 - **Programming in C** *by Stephen Kochan - Chapter 8, Working with Structures p163-189*
 
 # Additional Resource
-- [Structs & Typedef in C Explained]()
-- [Practical use of structs & typedef with coding examples]()
-- [The Lost Art of C Structure Packing]() (*Advanced - not mandatory*)
+- [Structs & Typedef in C Explained](https://intranet.alxswe.com/rltoken/cxDJMc3MyMoIQINJV7tGnA)
+- [Practical use of structs & typedef with coding examples](https://intranet.alxswe.com/rltoken/_ELgShQc-DQapWwjw2axkg)
+- [The Lost Art of C Structure Packing](https://intranet.alxswe.com/rltoken/emb4ohNT7XKi8Peep5lyeA) (*Advanced - not mandatory*)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/qkcS8PT80wmgcNlCEdBzrQ), **without the help of Google:**
@@ -42,84 +42,86 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 ## Quiz questions
 
-Question #0
+### Question #0
+
 You should write documentation for all the structures you create
 
+- [ ] True
 
-True
+- [ ] I’ll do it 5 minutes before the deadline when I try Betty on my header file
 
+- [ ] As soon as I write my structure.
 
-I’ll do it 5 minutes before the deadline when I try Betty on my header file
+### Question #1
 
-
-As soon as I write my structure.
-
-Question #1
 Given this code:
 
+```c
 struct point {
    int x;
    int y;
 };
 struct point my_point = { 3, 7 };
 struct point *p = &my_point;
+```
+
 To set the member y of my variable my_point to 98, I can do (select all valid answers):
 
+- [ ] p->y = 98;
 
-p->y = 98;
+- [ ] my_point.y = 98;
 
+- [ ] my_point->y = 98;
 
-my_point.y = 98;
+- [ ] (*p).y = 98;
 
+- [ ] p.y = 98;
 
-my_point->y = 98;
+### Question #2
 
-
-(*p).y = 98;
-
-
-p.y = 98;
-
-Question #2
 The general syntax for a struct declaration in C is:
 
+```c
 struct tag_name {
    type member1;
    type member2;
    /* declare as many members as desired, but the entire structure size must be known to the compiler. */
 };
+```
 
-True
+- [ ] True
 
+- [ ] False
 
-False
+- [ ] Maybe
 
+### Question #3
 
-Maybe
-
-Question #3
 Those two codes do the same thing:
 
+```c
 typedef struct point point;
 struct point {
    int    x;
    int    y;
 };
 point p = {1, 2};
+```
+
+```c
 typedef struct point point;
 struct point {
    int    x;
    int    y;
 };
 point p = { .y = 2, .x = 1 };
+```
 
-True
+- [ ] True
 
+- [ ] False: the second does not compile
 
-False: the second does not compile
-
-
-False: the members of the structures will not have the same values.
+- [ ] False: the members of the structures will not have the same values.
 
 ## Tasks
 
@@ -127,11 +129,13 @@ False: the members of the structures will not have the same values.
 
 ![Poppy](poppy.jpg)
 
-Define a new type struct dog with the following elements:
+Define a new type `struct dog` with the following elements:
 
-name, type = char *
-age, type = float
-owner, type = char *
+- `name`, type = `char *`
+- `age`, type = `float`
+- `owner`, type = `char *`
+
+```bash
 julien@ubuntu:~/0x0d. structures, typedef$ cat 0-main.c
 #include <stdio.h>
 #include "dog.h"
@@ -155,17 +159,20 @@ julien@ubuntu:~/0x0d. structures, typedef$ gcc -Wall -pedantic -Werror -Wextra -
 julien@ubuntu:~/0x0d. structures, typedef$ ./a
 My name is Poppy, and I am 3.5 :) - Woof!
 julien@ubuntu:~/0x0d. structures, typedef$
-Repo:
+```
 
-GitHub repository: alx-low_level_programming
-Directory: 0x0E-structures_typedef
-File: dog.h
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x0E-structures_typedef`
+- File: `dog.h`
 
 ### 1. A dog is the only thing on earth that loves you more than you love yourself
 
-Write a function that initialize a variable of type struct dog
+Write a function that initialize a variable of type `struct dog`
 
-Prototype: void init_dog(struct dog *d, char *name, float age, char *owner);
+- Prototype: `void init_dog(struct dog *d, char *name, float age, char *owner);`
+
+```bash
 julien@ubuntu:~/0x0d. structures, typedef$ cat 1-main.c
 #include <stdio.h>
 #include "dog.h"
@@ -187,23 +194,26 @@ julien@ubuntu:~/0x0d. structures, typedef$ gcc -Wall -pedantic -Werror -Wextra -
 julien@ubuntu:~/0x0d. structures, typedef$ ./b
 My name is Poppy, and I am 3.5 :) - Woof!
 julien@ubuntu:~/0x0d. structures, typedef$
-Repo:
+```
 
-GitHub repository: alx-low_level_programming
-Directory: 0x0E-structures_typedef
-File: 1-init_dog.c
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x0E-structures_typedef`
+- File: `1-init_dog.c`
 
 ### 2. A dog will teach you unconditional love. If you can have that in your life, things won't be too bad
 
 ![A dog will teach you unconditional love. If you can have that in your life, things won't be too bad](playful_dog.jpg)
 
-Write a function that prints a struct dog
+Write a function that prints a `struct dog`
 
-Prototype: void print_dog(struct dog *d);
-Format: see example bellow
-You are allowed to use the standard library
-If an element of d is NULL, print (nil) instead of this element. (if name is NULL, print Name: (nil))
-If d is NULL print nothing.
+- Prototype: `void print_dog(struct dog *d);`
+- Format: see example bellow
+- You are allowed to use the standard library
+- If an element of `d` is `NULL`, print `(nil)` instead of this element. (if `name` is `NULL`, print `Name: (nil)`)
+- If `d` is `NULL` print nothing.
+
+```bash
 julien@ubuntu:~/0x0d. structures, typedef$ cat 2-main.c
 #include <stdio.h>
 #include "dog.h"
@@ -229,18 +239,20 @@ Name: Poppy
 Age: 3.500000
 Owner: Bob
 julien@ubuntu:~/0x0d. structures, typedef$
-Repo:
+```
 
-GitHub repository: alx-low_level_programming
-Directory: 0x0E-structures_typedef
-File: 2-print_dog.c
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x0E-structures_typedef`
+- File: `2-print_dog.c`
 
 ### 3. Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read
 
 ![Outside of a dog, a book is a man's best friend. Inside of a dog it's too dark to read](starring_dog.jpg)
 
-Define a new type dog_t as a new name for the type struct dog.
+Define a new type `dog_t` as a new name for the type `struct dog`.
 
+```bash
 julien@ubuntu:~/0x0d. structures, typedef$ cat 3-main.c
 #include <stdio.h>
 #include "dog.h"
@@ -264,11 +276,12 @@ julien@ubuntu:~/0x0d. structures, typedef$ gcc -Wall -pedantic -Werror -Wextra -
 julien@ubuntu:~/0x0d. structures, typedef$ ./d
 My name is Poppy, and I am 3.5 :) - Woof!
 julien@ubuntu:~/0x0d. structures, typedef$
-Repo:
+```
 
-GitHub repository: alx-low_level_programming
-Directory: 0x0E-structures_typedef
-File: dog.h
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x0E-structures_typedef`
+- File: `dog.h`
 
 ### 4. A door is what a dog is perpetually on the wrong side of
 
@@ -276,9 +289,11 @@ File: dog.h
 
 Write a function that creates a new dog.
 
-Prototype: dog_t *new_dog(char *name, float age, char *owner);
-You have to store a copy of name and owner
-Return NULL if the function fails
+- Prototype: `dog_t *new_dog(char *name, float age, char *owner);`
+- You have to store a copy of `name` and `owner`
+- Return `NULL` if the function fails
+
+```bash
 julien@ubuntu:~/0x0d. structures, typedef$ cat 4-main.c
 #include <stdio.h>
 #include "dog.h"
@@ -300,11 +315,12 @@ julien@ubuntu:~/0x0d. structures, typedef$ gcc -Wall -pedantic -Werror -Wextra -
 julien@ubuntu:~/0x0d. structures, typedef$ ./e
 My name is Poppy, and I am 3.5 :) - Woof!
 julien@ubuntu:~/0x0d. structures, typedef$
-Repo:
+```
 
-GitHub repository: alx-low_level_programming
-Directory: 0x0E-structures_typedef
-File: 4-new_dog.c
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x0E-structures_typedef`
+- File: `4-new_dog.c`
 
 ### 5. How many legs does a dog have if you call his tail a leg? Four. Saying that a tail is a leg doesn't make it a leg
 
@@ -312,7 +328,9 @@ File: 4-new_dog.c
 
 Write a function that frees dogs.
 
-Prototype: void free_dog(dog_t *d);
+- Prototype: `void free_dog(dog_t *d);`
+
+```bash
 julien@ubuntu:~/0x0d. structures, typedef$ cat 5-main.c
 #include <stdio.h>
 #include "dog.h"
@@ -349,8 +367,9 @@ My name is Poppy, and I am 3.5 :) - Woof!
 ==22840== For counts of detected and suppressed errors, rerun with: -v
 ==22840== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
 julien@ubuntu:~/0x0d. structures, typedef$
-Repo:
+```
 
-GitHub repository: alx-low_level_programming
-Directory: 0x0E-structures_typedef
-File: 5-free_dog.c
+**Repo:**
+- GitHub repository: `alx-low_level_programming`
+- Directory: `0x0E-structures_typedef`
+- File: `5-free_dog.c`
