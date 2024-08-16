@@ -6,7 +6,7 @@
 ___
 
 - [Argc and Argv](0x0A-argc_argv/README.md)
-- [Binary Trees]()
+- [Binary Trees](https://github.com/Tafara-N/binary_trees/blob/main/README.md)
 - [Bit Manipulation](0x14-bit_manipulation/README.md)
 - [Debugging](0x03-debugging/README.md)
 - [Doubly Linked Lists](0x17-doubly_linked_lists/README.md)
@@ -28,7 +28,7 @@ ___
 - [Printf](printf/README.md)
 - [Recursion](0x08-recursion/README.md)
 - [Search Algorithms](0x1E-search_algorithms/README.md)
-- [Simple Shell]()
+- [Simple Shell](https://github.com/Tafara-N/simple_shell/blob/master/README.md)
 - [Singly Linked Lists: I](0x12-singly_linked_lists/README.md)
 - [Singly Linked Lists: II](0x13-more_singly_linked_lists/README.md)
 - [Sorting Algorithms](https://github.com/Tafara-N/sorting_algorithms/blob/main/README.md)
@@ -38,7 +38,6 @@ ___
 - [Variables, If, Else and While](0x01-variables_if_else_while/README.md)
 - [Variadic Functions](0x10-variadic_functions/README.md)
 - []()
-
 ___
 
 - [More Info](#more-info)
