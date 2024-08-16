@@ -5,13 +5,49 @@
 - [Description](#description)
 ___
 
+- [Argc and Argv](0x0A-argc_argv/README.md)
+- [Binary Trees]()
+- [Bit Manipulation](0x14-bit_manipulation/README.md)
+- [Debugging](0x03-debugging/README.md)
+- [Doubly Linked Lists](0x17-doubly_linked_lists/README.md)
+- [Dynamic Libraries](0x18-dynamic_libraries/README.md)
+- [File Input and Output](0x15-file_io/README.md)
+- [First Day Of C](first_day_of_C/README.md)
+- [Function Pointers](0x0F-function_pointers/README.md)
+- [Functions and Nested Loops: I](0x02-functions_nested_loops/README.md)
+- [Functions and Nested Loops: II](0x04-more_functions_nested_loops/README.md)
+- [Hash Tables](0x1A-hash_tables/README.md)
+- [Hello World](0x00-hello_world/README.md)
+- [MakeFile](0x1C-makefiles/README.md)
+- [Malloc and Free: I](0x0B-malloc_free/README.md)
+- [Malloc and Free: II](0x0C-more_malloc_free/README.md)
+- [Pointers, Arrays and Strings: I](0x05-pointers_arrays_strings/README.md)
+- [Pointers, Arrays and Strings: II](0x06-pointers_arrays_strings/README.md)
+- [Pointers, Arrays and Strings: III](0x07-pointers_arrays_strings/README.md)
+- [Preprocessor](0x0D-preprocessor/README.md)
+- [Printf](printf/README.md)
+- [Recursion](0x08-recursion/README.md)
+- [Search Algorithms](0x1E-search_algorithms/README.md)
+- [Simple Shell]()
+- [Singly Linked Lists: I](0x12-singly_linked_lists/README.md)
+- [Singly Linked Lists: II](0x13-more_singly_linked_lists/README.md)
+- [Sorting Algorithms](https://github.com/Tafara-N/sorting_algorithms/blob/main/README.md)
+- [Stacks, Queues: LIFO and FIFO](0x19.C-Stacks_Queues-LIFO_FIFO/README.md)
+- [Static Libraries](0x09-static_libraries/README.md)
+- [Structures and Typedef](0x0E-structures_typedef/README.md)
+- [Variables, If, Else and While](0x01-variables_if_else_while/README.md)
+- [Variadic Functions](0x10-variadic_functions/README.md)
+- []()
 
 ___
 
 - [More Info](#more-info)
 - [Requirements](#requirements)
 
-### Concepts
+# Description
+
+## Concepts
+
 *For this project, we expect you to look at these concepts:*
 
 - [Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://intranet.alxswe.com/concepts/100039)
