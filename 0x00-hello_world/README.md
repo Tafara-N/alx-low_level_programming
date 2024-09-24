@@ -21,9 +21,9 @@ ____
 - [Understanding C program Compilation Process](https://www.youtube.com/watch?v=VDslRumKvRA)
 - [Betty Coding Style](https://github.com/alx-tools/Betty/wiki)
 - [Hash-bang under the hood](https://x.com/unix_byte/status/1024147947393495040) (*Look at only after you finish consuming the other resources*)
-- [Linus Torvalds on C vs. C++](https://intranet.alxswe.com/rltoken/JrokM8Pk6bd9wPqQvEfSAA) (*Look at only after you finish consuming the other resources*)
+- [Linus Torvalds on C vs. C++](https://harmful.cat-v.org/software/c++/linus) (*Look at only after you finish consuming the other resources*)
 
-## man or help:
+**man or help:**
 - `gcc`
 - `printf (3)`
 - `puts`
