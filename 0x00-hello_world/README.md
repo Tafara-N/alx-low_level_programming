@@ -16,7 +16,7 @@ ____
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
 - [“C” Programming Language: Brian Kernighan](https://www.youtube.com/watch?v=de2Hsvxaf8M)
 - [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
-- [Learning to program in C part 1](https://intranet.alxswe.com/rltoken/aE_pZLbexuLroHA0FmjLbw)
+- [Learning to program in C part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ)
 - [Learning to program in C part 2](https://intranet.alxswe.com/rltoken/3a5y1N-0FlTaPbKRxlRLlQ)
 - [Understanding C program Compilation Process](https://intranet.alxswe.com/rltoken/idYJyVfQRZ9e5aljiT5UKg)
 - [Betty Coding Style](https://intranet.alxswe.com/rltoken/wJg_qB9ducisfVQNk62htg)
