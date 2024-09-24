@@ -13,7 +13,7 @@ ____
 # Resources
 
 **Read or watch:**
-- [Everything you need to know to start with C.pdf](https://intranet.alxswe.com/rltoken/P01aLj9BDfDUOv-y9x82Yw) (*You do not have to learn everything in there yet, but make sure you read it entirely first*)
+- [Everything you need to know to start with C.pdf](resources/all_about_c.pdf) (*You do not have to learn everything in there yet, but make sure you read it entirely first*)
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
 - [“C” Programming Language: Brian Kernighan](https://intranet.alxswe.com/rltoken/W4oygfMgAp5Hyc7o6QuSYQ)
 - [Why C Programming Is Awesome](https://intranet.alxswe.com/rltoken/WYdE1novaWa0yt5fzGvLBw)
