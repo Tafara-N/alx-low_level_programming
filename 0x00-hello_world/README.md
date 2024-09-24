@@ -77,7 +77,7 @@ To run the Betty linter just with command `betty <filename>`:
 - Install the linter with `sudo ./install.sh`
 - `emacs` or `vi` a new file called `betty`, and copy the script below:
 
-```
+```sh
 #!/bin/bash
 # Simply a wrapper script to keep you from having to use betty-style
 # and betty-doc separately on every item.
