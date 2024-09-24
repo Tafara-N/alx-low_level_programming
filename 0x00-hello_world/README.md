@@ -184,6 +184,7 @@ Comment
 - [ ] ```c
       /*
       Comment
+      */
       ```
 
 ## Question #5
