@@ -19,8 +19,8 @@ ____
 - [Learning to program in C part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ)
 - [Learning to program in C part 2](https://www.youtube.com/watch?v=FwpP_MsZWnU)
 - [Understanding C program Compilation Process](https://www.youtube.com/watch?v=VDslRumKvRA)
-- [Betty Coding Style](https://intranet.alxswe.com/rltoken/wJg_qB9ducisfVQNk62htg)
-- [Hash-bang under the hood](https://intranet.alxswe.com/rltoken/zwv5CHLybXN6KFmsjbu_tg) (*Look at only after you finish consuming the other resources*)
+- [Betty Coding Style](https://github.com/alx-tools/Betty/wiki)
+- [Hash-bang under the hood](https://x.com/unix_byte/status/1024147947393495040) (*Look at only after you finish consuming the other resources*)
 - [Linus Torvalds on C vs. C++](https://intranet.alxswe.com/rltoken/JrokM8Pk6bd9wPqQvEfSAA) (*Look at only after you finish consuming the other resources*)
 
 ## man or help:
