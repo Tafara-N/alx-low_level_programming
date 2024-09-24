@@ -181,6 +181,11 @@ Comment
 */
 ```
 
+- [ ] ```c
+      /*
+      Comment
+      ```
+
 ## Question #5
 
 What are the different steps to form an executable file from C source code
