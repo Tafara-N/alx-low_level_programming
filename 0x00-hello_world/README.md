@@ -4,11 +4,14 @@
 
 - [Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://intranet.alxswe.com/concepts/100039)
 - [C programming](https://intranet.alxswe.com/concepts/26)
+____
 
+[YouTube Video]()
 
 
 # Resources
-## Read or watch:
+
+**Read or watch:**
 - [Everything you need to know to start with C.pdf](https://intranet.alxswe.com/rltoken/P01aLj9BDfDUOv-y9x82Yw) (*You do not have to learn everything in there yet, but make sure you read it entirely first*)
 - [Dennis Ritchie](https://intranet.alxswe.com/rltoken/YWFrRob_-Yo-_NQikMLI-g)
 - [“C” Programming Language: Brian Kernighan](https://intranet.alxswe.com/rltoken/W4oygfMgAp5Hyc7o6QuSYQ)
