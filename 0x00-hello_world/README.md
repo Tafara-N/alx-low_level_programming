@@ -67,6 +67,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - The first line of all your files should be exactly `#!/bin/bash`
 
 # More Info
+
 ## Betty linter
 To run the Betty linter just with command `betty <filename>`:
 
