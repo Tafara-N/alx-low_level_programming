@@ -195,7 +195,7 @@ What are the different steps to form an executable file from C source code
 
 - [ ] Interpretation, assembly and compilation
 
-# Tasks
+## Tasks
 
 ### 0. Preprocessor
 
