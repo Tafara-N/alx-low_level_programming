@@ -6,8 +6,9 @@
 - [C programming](https://intranet.alxswe.com/concepts/26)
 ____
 
-[YouTube Video]()
+[YouTube Video](https://www.youtube.com/watch?v=co0b0xLEuRM)
 
+____
 
 # Resources
 
