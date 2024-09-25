@@ -4,7 +4,8 @@
 - [Struggling with the sandbox? Try this: Using Docker & WSL on your local host](https://intranet.alxswe.com/concepts/100039)
 
 # Resources
-## Read or watch:
+
+**Read or watch:**
 - [Everything you need to know to start with C.pdf](https://intranet.alxswe.com/rltoken/P01aLj9BDfDUOv-y9x82Yw) (*You do not have to learn everything in there yet, but make sure you read it entirely first and make sure you understand the slides: “comments”, “Data types | Integer types”, “Declaration”, “Characters”, “Arithmetic operators”, “Variables assignments”, “Comparisons”, “Logical operators”, “if, if…else”, “while loops”.*)
 - [Keywords and identifiers](https://intranet.alxswe.com/rltoken/58ThnAAxwJv5s_ceKMMPhw)
 - [integers](https://intranet.alxswe.com/rltoken/2sXkmDiD7BF7pNIOxMQWFA)
