@@ -24,7 +24,7 @@
 - [Introduction to C (Basic structure and variables)](https://www.youtube.com/watch?v=LM6IjCbtpZA)
 
 # Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/VGWjGaWZbgcLYTwfLEBmmQ), **without the help of Google:**
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 ## General
 - What are the arithmetic operators and how to use them
