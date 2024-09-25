@@ -188,7 +188,7 @@ This program will assign a random number to the variable `n` each time it is exe
 		- if the number is less than 0: `is negative`
 	- followed by a new line
 
-```
+```bash
 julien@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 0-positive_or_negative.c -o 0-positive_or_negative
 julien@ubuntu:~/0x01$ ./0-positive_or_negative
 -520693284 is negative
