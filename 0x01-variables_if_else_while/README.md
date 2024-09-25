@@ -12,7 +12,7 @@
 - [Arithmetic Operators in C](https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm)
 - [If statements in C](https://www.cprogramming.com/tutorial/c/lesson2.html)
 - [if…else statement](https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm)
-- [Relational operators](https://intranet.alxswe.com/rltoken/O1N-qacaTC-BHXm3Dp3eUA)
+- [Relational operators](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
 - [Logical operators](https://intranet.alxswe.com/rltoken/TaX_y6ll4cRfxCrxG8ZuNQ)
 - [while loop in C](https://intranet.alxswe.com/rltoken/mwx2_bj3gIFEgCqdwdTp4w)
 - [While loop](https://intranet.alxswe.com/rltoken/MW4Ob-6JLWt7Zn6vZ0EsBw)
