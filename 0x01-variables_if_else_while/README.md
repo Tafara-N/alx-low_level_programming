@@ -15,7 +15,7 @@
 - [Relational operators](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
 - [Logical operators](https://www.fresh2refresh.com/c-programming/c-operators-expressions/c-logical-operators/)
 - [while loop in C](https://www.tutorialspoint.com/cprogramming/c_while_loop.htm)
-- [While loop](https://intranet.alxswe.com/rltoken/MW4Ob-6JLWt7Zn6vZ0EsBw)
+- [While loop](https://www.youtube.com/watch?v=Ju1LYO9pkaI)
 
 **man or help:**
 - `ascii` (*You do not need to learn about `scanf`, `getc`, `getchar`, `EOF`, `EXIT_SUCCESS`, `time`, `rand`, `srand`, `RAND_MAX`, `for` loops, `do...while` loops, functions.*)
