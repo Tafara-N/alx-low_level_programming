@@ -355,7 +355,7 @@ Write a program that prints all single digit numbers of base 10 starting from `0
 - You can only use `putchar` twice in your code
 - All your code should be in the `main` function
 
-```
+```bash
 julien@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 6-print_numberz.c -o 6-print_numberz
 julien@ubuntu:~/0x01$ ./6-print_numberz
 0123456789
