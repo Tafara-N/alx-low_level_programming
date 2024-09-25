@@ -13,7 +13,7 @@
 - [If statements in C](https://www.cprogramming.com/tutorial/c/lesson2.html)
 - [if…else statement](https://www.tutorialspoint.com/cprogramming/if_else_statement_in_c.htm)
 - [Relational operators](https://www.tutorialspoint.com/cprogramming/c_relational_operators.htm)
-- [Logical operators](https://intranet.alxswe.com/rltoken/TaX_y6ll4cRfxCrxG8ZuNQ)
+- [Logical operators](https://www.fresh2refresh.com/c-programming/c-operators-expressions/c-logical-operators/)
 - [while loop in C](https://intranet.alxswe.com/rltoken/mwx2_bj3gIFEgCqdwdTp4w)
 - [While loop](https://intranet.alxswe.com/rltoken/MW4Ob-6JLWt7Zn6vZ0EsBw)
 
