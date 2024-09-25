@@ -9,7 +9,7 @@
 - [Everything you need to know to start with C.pdf](https://intranet.alxswe.com/rltoken/P01aLj9BDfDUOv-y9x82Yw) (*You do not have to learn everything in there yet, but make sure you read it entirely first and make sure you understand the slides: “comments”, “Data types | Integer types”, “Declaration”, “Characters”, “Arithmetic operators”, “Variables assignments”, “Comparisons”, “Logical operators”, “if, if…else”, “while loops”.*)
 - [Keywords and identifiers](https://publications.gbdirect.co.uk//c_book/chapter2/keywords_and_identifiers.html)
 - [integers](https://publications.gbdirect.co.uk//c_book/chapter2/integral_types.html)
-- [Arithmetic Operators in C](https://intranet.alxswe.com/rltoken/S-b9MN2iELhSEwCI093Vzw)
+- [Arithmetic Operators in C](https://www.tutorialspoint.com/cprogramming/c_arithmetic_operators.htm)
 - [If statements in C](https://intranet.alxswe.com/rltoken/usvxrTB3ko5kGTq48p5fSA)
 - [if…else statement](https://intranet.alxswe.com/rltoken/CU6mSX1qdZKOhDEgmToUGA)
 - [Relational operators](https://intranet.alxswe.com/rltoken/O1N-qacaTC-BHXm3Dp3eUA)
