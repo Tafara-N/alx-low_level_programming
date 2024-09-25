@@ -230,7 +230,7 @@ This program will assign a random number to the variable `n` each time it is exe
 		- if the last digit of `n` is less than 6 and not 0: the string `and is less than 6 and not 0`
 	- followed by a new line
 
-```
+```bash
 julien@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 1-last_digit.c -o 1-last_digit
 julien@ubuntu:~/0x01$ ./1-last_digit
 Last digit of 629438752 is 2 and is less than 6 and not 0
