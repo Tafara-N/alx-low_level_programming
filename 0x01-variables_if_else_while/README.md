@@ -315,7 +315,7 @@ Write a program that prints the alphabet in lowercase, followed by a new line.
 - All your code should be in the `main` function
 - You can only use `putchar` twice in your code
 
-```
+```bash
 julien@ubuntu:~/0x01$ gcc -Wall -pedantic -Werror -Wextra -std=gnu89 4-print_alphabt.c -o 4-print_alphabt
 julien@ubuntu:~/0x01$ ./4-print_alphabt
 abcdfghijklmnoprstuvwxyz
