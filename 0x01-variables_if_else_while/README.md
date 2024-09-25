@@ -54,7 +54,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - You are not allowed to use `system`
 - Your code should use the Betty style. It will be checked using [betty-style.pl](https://github.com/alx-tools/Betty/blob/master/betty-style.pl) and [betty-doc.pl](https://github.com/alx-tools/Betty/blob/master/betty-doc.pl)
 
-### Quiz questions
+## Quiz questions
 
 ### Question #0
 
