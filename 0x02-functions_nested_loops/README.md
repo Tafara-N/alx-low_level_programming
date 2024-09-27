@@ -1,6 +1,6 @@
 # Resources
 
-## Read or watch:
+**Read or watch:**
 - [Nested while loops](https://intranet.alxswe.com/rltoken/_4aLZ5nW24njUT2VbSZdQQ)
 - [C - Functions](https://intranet.alxswe.com/rltoken/Vg1zzzrxLhPh71405uggSg)
 - [Learning to Program in C (Part 06)](https://intranet.alxswe.com/rltoken/jveXtnJII2S0z7a06c7-JA) (*stop at 14:00*)
