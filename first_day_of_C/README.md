@@ -30,7 +30,7 @@ The two channels below are well known for their down to earth content on C progr
 
 - [Jenny’s lecture Youtube Channel](https://www.youtube.com/@JennyslecturesCSIT)
 
-- [Neso Academy YouTube Channel](https://intranet.alxswe.com/rltoken/eXQfTdMzvxjAlMqyDXunpA)
+- [Neso Academy YouTube Channel](https://www.youtube.com/@nesoacademy)
 
 ### 1. On your playlist
 
