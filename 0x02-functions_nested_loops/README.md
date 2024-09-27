@@ -12,7 +12,7 @@
 - [Functions in C programming](https://www.youtube.com/watch?v=u40rF7zCYaQ)
 
 # Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/-ERX2Jh115GIdTUsSixnnA), **without the help of Google:**
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 ## General
 - What are nested loops and how to use them
