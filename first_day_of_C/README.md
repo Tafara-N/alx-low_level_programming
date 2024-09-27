@@ -24,7 +24,7 @@ As your first task for C programming, go ahead and subscribe to these YouTube ch
 
 - [Julien Barbier YouTube Channel](https://www.youtube.com/@0xJulien): Provides useful tips, videos, and live coding sessions that can help you solve problems and improve your coding skills.
 
-- [Dr. Ehoneah Obed YouTube Channel](https://intranet.alxswe.com/rltoken/cp0irj0T_qS-s6BS18NzJw): Student-led discussions on various topics covered in the ALX SE program.
+- [Dr. Ehoneah Obed YouTube Channel](https://www.youtube.com/@ehoneahobed): Student-led discussions on various topics covered in the ALX SE program.
 
 The two channels below are well known for their down to earth content on C programming:
 
