@@ -3,7 +3,7 @@
 **Read or watch:**
 - [Nested while loops](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
 - [C - Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
-- [Learning to Program in C (Part 06)](https://intranet.alxswe.com/rltoken/jveXtnJII2S0z7a06c7-JA) (*stop at 14:00*)
+- [Learning to Program in C (Part 06)](https://www.youtube.com/watch?v=qMlnFwYdqIw) (*stop at 14:00*)
 - [What is the purpose of a function prototype?](https://intranet.alxswe.com/rltoken/XZ--UJZO76ZoUWNA9bTmbg)
 - [C - Header Files](https://intranet.alxswe.com/rltoken/AS8JW4ObD5gmyX2mgtqV0A) (*stop before the “Once-Only Headers” paragraph*)
 
