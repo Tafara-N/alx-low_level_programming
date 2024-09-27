@@ -5,7 +5,7 @@
 - [C - Functions](https://www.tutorialspoint.com/cprogramming/c_functions.htm)
 - [Learning to Program in C (Part 06)](https://www.youtube.com/watch?v=qMlnFwYdqIw) (*stop at 14:00*)
 - [What is the purpose of a function prototype?](https://www.geeksforgeeks.org/what-is-the-purpose-of-a-function-prototype/)
-- [C - Header Files](https://intranet.alxswe.com/rltoken/AS8JW4ObD5gmyX2mgtqV0A) (*stop before the “Once-Only Headers” paragraph*)
+- [C - Header Files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm) (*stop before the “Once-Only Headers” paragraph*)
 
 ## Additional Resources
 - [C Programming Loops & Functions](https://intranet.alxswe.com/rltoken/gUP3uyA8Y-ENgRJ9QbxWmw)
