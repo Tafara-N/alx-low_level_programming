@@ -38,7 +38,7 @@ Check out the following playlists and bookmark them for future references when w
 
 - [Programming in C - Jenny’s Lecture](https://www.youtube.com/watch?v=EjavYOFoJJ0&list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S)
 
-- [C Programming - Dr. Ehoneah Obed](https://intranet.alxswe.com/rltoken/9dDT4mVRzydJXjkG0XgMzg)
+- [C Programming - Dr. Ehoneah Obed](https://www.youtube.com/watch?v=LM6IjCbtpZA&list=PLqEaji1b3wvRaudEAMvyt1dIClA_y6SLS)
 
 - [CS50 2022 - Lecture 1 - C](https://intranet.alxswe.com/rltoken/mp95znhPI2kStC4uK9BABQ)
 
