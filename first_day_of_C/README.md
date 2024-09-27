@@ -42,4 +42,4 @@ Check out the following playlists and bookmark them for future references when w
 
 - [CS50 2022 - Lecture 1 - C](https://www.youtube.com/live/ywg7cW0Txs4)
 
-- [C Programming Neso Academy](https://intranet.alxswe.com/rltoken/XVYW9nZX_zbwEkPoGiyzUw)
+- [C Programming Neso Academy](https://www.youtube.com/watch?v=rLf3jnHxSmU&list=PLBlnK6fEyqRggZZgYpPMUxdY1CYkZtARR)
