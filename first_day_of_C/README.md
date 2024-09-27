@@ -36,7 +36,7 @@ The two channels below are well known for their down to earth content on C progr
 
 Check out the following playlists and bookmark them for future references when working on your C programming projects.
 
-- [Programming in C - Jenny’s Lecture](https://intranet.alxswe.com/rltoken/fC0HdSob2xPGqEYquWxSAg)
+- [Programming in C - Jenny’s Lecture](https://www.youtube.com/watch?v=EjavYOFoJJ0&list=PLdo5W4Nhv31a8UcMN9-35ghv8qyFWD9_S)
 
 - [C Programming - Dr. Ehoneah Obed](https://intranet.alxswe.com/rltoken/9dDT4mVRzydJXjkG0XgMzg)
 
