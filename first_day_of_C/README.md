@@ -22,7 +22,7 @@ C is a powerful and foundational programming language with immense importance in
 
 As your first task for C programming, go ahead and subscribe to these YouTube channels where you can find extensive and easy to understand explanation of various concepts in the C language.
 
-- [Julien Barbier YouTube Channel](https://intranet.alxswe.com/rltoken/rRA9Jzfo2KMvIfS95plJdw): Provides useful tips, videos, and live coding sessions that can help you solve problems and improve your coding skills.
+- [Julien Barbier YouTube Channel](https://www.youtube.com/@0xJulien): Provides useful tips, videos, and live coding sessions that can help you solve problems and improve your coding skills.
 
 - [Dr. Ehoneah Obed YouTube Channel](https://intranet.alxswe.com/rltoken/cp0irj0T_qS-s6BS18NzJw): Student-led discussions on various topics covered in the ALX SE program.
 
