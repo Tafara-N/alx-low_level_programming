@@ -43,7 +43,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 You do not have to understand the call by reference (address), stack, static variables, recursions or arrays, yet.
 
-### Quiz questions
+## Quiz questions
 
 ### Question #0
 
