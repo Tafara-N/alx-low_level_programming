@@ -40,6 +40,6 @@ Check out the following playlists and bookmark them for future references when w
 
 - [C Programming - Dr. Ehoneah Obed](https://www.youtube.com/watch?v=LM6IjCbtpZA&list=PLqEaji1b3wvRaudEAMvyt1dIClA_y6SLS)
 
-- [CS50 2022 - Lecture 1 - C](https://intranet.alxswe.com/rltoken/mp95znhPI2kStC4uK9BABQ)
+- [CS50 2022 - Lecture 1 - C](https://www.youtube.com/live/ywg7cW0Txs4)
 
 - [C Programming Neso Academy](https://intranet.alxswe.com/rltoken/XVYW9nZX_zbwEkPoGiyzUw)
