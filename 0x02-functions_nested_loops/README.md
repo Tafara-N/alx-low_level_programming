@@ -1,7 +1,7 @@
 # Resources
 
 **Read or watch:**
-- [Nested while loops](https://intranet.alxswe.com/rltoken/_4aLZ5nW24njUT2VbSZdQQ)
+- [Nested while loops](https://www.youtube.com/watch?v=Z3iGeQ1gIss)
 - [C - Functions](https://intranet.alxswe.com/rltoken/Vg1zzzrxLhPh71405uggSg)
 - [Learning to Program in C (Part 06)](https://intranet.alxswe.com/rltoken/jveXtnJII2S0z7a06c7-JA) (*stop at 14:00*)
 - [What is the purpose of a function prototype?](https://intranet.alxswe.com/rltoken/XZ--UJZO76ZoUWNA9bTmbg)
