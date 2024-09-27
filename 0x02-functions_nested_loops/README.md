@@ -9,7 +9,7 @@
 
 ## Additional Resources
 - [C Programming Loops & Functions](https://www.youtube.com/watch?v=3i1IPkzFVcM)
-- [Functions in C programming](https://intranet.alxswe.com/rltoken/jEOJNPfcm56Pfrrff1ZqBg)
+- [Functions in C programming](https://www.youtube.com/watch?v=u40rF7zCYaQ)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/-ERX2Jh115GIdTUsSixnnA), **without the help of Google:**
