@@ -28,7 +28,7 @@ As your first task for C programming, go ahead and subscribe to these YouTube ch
 
 The two channels below are well known for their down to earth content on C programming:
 
-- [Jenny’s lecture Youtube Channel](https://intranet.alxswe.com/rltoken/Fg7O_eVe_Qx-ngF0Bxa1ZQ)
+- [Jenny’s lecture Youtube Channel](https://www.youtube.com/@JennyslecturesCSIT)
 
 - [Neso Academy YouTube Channel](https://intranet.alxswe.com/rltoken/eXQfTdMzvxjAlMqyDXunpA)
 
