@@ -8,7 +8,7 @@
 - [C - Header Files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm) (*stop before the “Once-Only Headers” paragraph*)
 
 ## Additional Resources
-- [C Programming Loops & Functions](https://intranet.alxswe.com/rltoken/gUP3uyA8Y-ENgRJ9QbxWmw)
+- [C Programming Loops & Functions](https://www.youtube.com/watch?v=3i1IPkzFVcM)
 - [Functions in C programming](https://intranet.alxswe.com/rltoken/jEOJNPfcm56Pfrrff1ZqBg)
 
 # Learning Objectives
