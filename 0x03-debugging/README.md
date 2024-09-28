@@ -26,9 +26,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 - A `README.md` file at the root of the repo, containing a description of the repository
 A `README.md` file, at the root of the folder of this project (i.e. `0x03-debugging`), describing what this project is about
 
-### Quiz questions
-
-## Tasks
+## Quiz questions
 
 ### Question #0
 
