@@ -9,7 +9,7 @@ Debugging is the process of finding and fixing errors in software that prevents 
 ![Debugging C](https://github.com/Tafara-N/Project-Images/blob/main/alx-low_level_programming/0x03-debugging/images/rubber_duck.jpg)
 
 # Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/b8uX1nIy0A55tWVlIRTaHQ), **without the help of Google:**
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 ## General
 - What is debugging
