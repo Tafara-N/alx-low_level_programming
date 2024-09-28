@@ -260,6 +260,8 @@ carrie@ubuntu:/debugging$
 
 - [ ] We want to compare `j` so we need an `i`f statement before `j == j - 1`
 
+## Tasks
+
 ### 0. Multiple mains
 
 In most projects, we often give you only one main file to test with. For example, this main file is a test for a `postitive_or_negative()` function similar to the one you worked with in [an earlier C project](https://intranet.alxswe.com/rltoken/lKcOFkG-GCivSDXgWgld2g):
