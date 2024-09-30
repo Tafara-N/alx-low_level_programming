@@ -14,7 +14,7 @@
 - [C - Header Files](https://www.tutorialspoint.com/cprogramming/c_header_files.htm) (*stop before the “Once-Only Headers” paragraph*)
 
 ## Additional Resources
-- [Functions in C programming](https://intranet.alxswe.com/rltoken/8JJn02_7QAAYqap7m8ZqVg)
+- [Functions in C programming](https://www.youtube.com/watch?v=u40rF7zCYaQ)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/Ya6FG69nkA7hRf_WG4E8gQ), **without the help of Google:**
