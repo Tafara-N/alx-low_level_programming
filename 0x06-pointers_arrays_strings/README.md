@@ -574,7 +574,7 @@ julien@ubuntu:~/0x06$
 
 ### 8. rot13
 
-Write a function that encodes a string using [rot13](https://intranet.alxswe.com/rltoken/YRxmNA7BnP6yZhl09TKX3A).
+Write a function that encodes a string using [rot13](https://en.wikipedia.org/wiki/ROT13).
 
 - Prototype: `char *rot13(char *);`
 - You can only use `if` statement once in your code
