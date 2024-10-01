@@ -7,7 +7,7 @@
 ![Happy Clapping](happy-clapping.gif)
 
 # Additional Resource
-- [Practical Use of Pointers in C Programming](https://intranet.alxswe.com/rltoken/Jrl0HLgFXzZEUyYYbLed8g)
+- [Practical Use of Pointers in C Programming](https://www.youtube.com/watch?v=KzLC_9VAoX0)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/tkwwPs3MT3JT07FSsmXy-A), **without the help of Google:**
