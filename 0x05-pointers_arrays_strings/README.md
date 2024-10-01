@@ -50,7 +50,7 @@ At the end of this project, you are expected to be able to [explain to anyone](h
 
 You do not need to learn about pointers to functions, pointers to pointers, multidimensional arrays, arrays of structures, `malloc` and `free` - yet.
 
-### Quiz questions
+## Quiz questions
 
 ### Question #0
 
