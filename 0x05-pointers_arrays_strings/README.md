@@ -20,7 +20,7 @@
 - [Arrays & Pointers in C Programming Explained](https://intranet.alxswe.com/rltoken/fAbvIu4ESCb1JcE3EU1Kmw)
 
 # Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/OLGzIaD19ia5NZ-WCMckeg), **without the help of Google:**
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 ## General
 - What are pointers and how to use them
