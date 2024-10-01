@@ -12,7 +12,7 @@
 
 **Read or watch:**
 - [C - Arrays](https://www.tutorialspoint.com/cprogramming/c_arrays.htm)
-- [C - Pointers](https://intranet.alxswe.com/rltoken/oyHybzYBeFiLUMALpb_usA)
+- [C - Pointers](https://www.tutorialspoint.com/cprogramming/c_pointers.htm)
 - [C - Strings](https://intranet.alxswe.com/rltoken/sUeh9qDyW9pePOfJIpx_Bw)
 - [Memory Layout](https://intranet.alxswe.com/rltoken/0k6CD2ZMzSFOMUxMOBiAlQ)
 
