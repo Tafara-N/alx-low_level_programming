@@ -17,7 +17,7 @@
 - [Memory Layout](https://aticleworld.com/memory-layout-of-c-program/)
 
 ## Additional Resource
-- [Arrays & Pointers in C Programming Explained](https://intranet.alxswe.com/rltoken/fAbvIu4ESCb1JcE3EU1Kmw)
+- [Arrays & Pointers in C Programming Explained](https://www.youtube.com/watch?v=bT5GTqZaYTk)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
