@@ -527,7 +527,7 @@ julien@ubuntu:~/0x06$
 
 ### 7. Mozart composed his music not for the elite, but for everybody
 
-Write a function that encodes a string into [1337](https://intranet.alxswe.com/rltoken/9v9KfpvWnL0GoMu5mozbug).
+Write a function that encodes a string into [1337](https://en.wikipedia.org/wiki/Leet).
 
 - Letters `a` and `A` should be replaced by `4`
 - Letters `e` and `E` should be replaced by `3`
