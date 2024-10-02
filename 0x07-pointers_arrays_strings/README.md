@@ -618,6 +618,7 @@ julien@ubuntu:~/0x07$ ./8-print_diagsums
 113, 1016
 1214556093, 1137318
 julien@ubuntu:~/0x07$
+```
 
 **Repo:**
 - GitHub repository: `alx-low_level_programming`
