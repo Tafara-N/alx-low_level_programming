@@ -6,7 +6,7 @@
 - [0x08. Recursion, introduction](resources/recursion.pdf)
 - [What on Earth is Recursion?](https://www.youtube.com/watch?v=Mv9NEXX1VHc)
 - [C - Recursion](https://www.tutorialspoint.com/cprogramming/c_recursion.htm)
-- [C Programming Tutorial 85, Recursion pt.1](https://intranet.alxswe.com/rltoken/Wv-wffgpXelN9ZTrbmiOyA)
+- [C Programming Tutorial 85, Recursion pt.1](https://www.youtube.com/watch?v=XGxbXMP6k8k)
 - [C Programming Tutorial 86, Recursion pt.2](https://intranet.alxswe.com/rltoken/7GVdI-KT-M1vOIzwEjSahQ)
 
 # Additional Resources
