@@ -19,7 +19,7 @@
 - [Arrays, Strings & Pointers in C Programming](https://www.youtube.com/watch?v=WxWv9_8xlac)
 
 # Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/YpzhlccIJNihbnYgObEStg), **without the help of Google:**
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 General
 
