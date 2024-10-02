@@ -16,7 +16,7 @@
 - [Two dimensional (2D) arrays in C programming with example](https://beginnersbook.com/2014/01/2d-arrays-in-c-example/)
 
 # Additional Resources
-- [Arrays, Strings & Pointers in C Programming](https://intranet.alxswe.com/rltoken/-Bg-0C4bORppo0cXqdCJQQ)
+- [Arrays, Strings & Pointers in C Programming](https://www.youtube.com/watch?v=WxWv9_8xlac)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/YpzhlccIJNihbnYgObEStg), **without the help of Google:**
