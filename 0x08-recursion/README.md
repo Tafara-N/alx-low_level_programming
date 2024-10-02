@@ -449,7 +449,7 @@ julien@ubuntu:~/0x08. Recursion$
 
 ### 6. Inception. Is it possible?
 
-Write a function that returns `1` if the input integer is a [prime number](https://intranet.alxswe.com/rltoken/bjG_8Gu-_0rwbYA_tAv2Yw), otherwise return `0`.
+Write a function that returns `1` if the input integer is a [prime number](https://en.wikipedia.org/wiki/Prime_number), otherwise return `0`.
 
 - Prototype: `int is_prime_number(int n);`
 
