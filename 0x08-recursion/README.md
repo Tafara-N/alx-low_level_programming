@@ -10,7 +10,7 @@
 - [C Programming Tutorial 86, Recursion pt.2](https://www.youtube.com/watch?v=7XiIS6HobNs)
 
 # Additional Resources
-- [Recursion & Recursive functions in C Programming](https://intranet.alxswe.com/rltoken/TreRmmRkZ3jYdFZZW6p6vw)
+- [Recursion & Recursive functions in C Programming](https://www.youtube.com/watch?v=0BtTPJOLPj0)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/Uip4OgfLQdGP921TAMtCHQ), **without the help of Google:**
