@@ -2,7 +2,7 @@
 
 **Read or watch:**
 - [stdarg.h](https://en.wikipedia.org/wiki/Stdarg.h)
-- [Variadic Functions](https://intranet.alxswe.com/rltoken/3gW8GycmyjarbJR76FkrzA)
+- [Variadic Functions](https://www.gnu.org/software/libc/manual/html_node/Variadic-Functions.html)
 - [Const Keyword](https://intranet.alxswe.com/rltoken/_RRPCY32VODyN_r2HIEnBQ)
 
 **man or help:**
