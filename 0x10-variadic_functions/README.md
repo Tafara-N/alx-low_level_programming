@@ -9,7 +9,7 @@
 - `stdarg`
 
 # Additional Resources
-- [Variadic Functions in C Programming](https://intranet.alxswe.com/rltoken/GCUec79qbapf6ZeGLmMRFg)
+- [Variadic Functions in C Programming](https://www.youtube.com/watch?v=Lh7xydr8zzU)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/ipbpW8pLm91jdr3YD-AENg), **without the help of Google:**
