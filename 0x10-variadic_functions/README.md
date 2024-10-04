@@ -1,7 +1,7 @@
 # Resources
 
 **Read or watch:**
-- [stdarg.h](https://intranet.alxswe.com/rltoken/wLRJdO8pA2-Vb-rF2Y71sA)
+- [stdarg.h](https://en.wikipedia.org/wiki/Stdarg.h)
 - [Variadic Functions](https://intranet.alxswe.com/rltoken/3gW8GycmyjarbJR76FkrzA)
 - [Const Keyword](https://intranet.alxswe.com/rltoken/_RRPCY32VODyN_r2HIEnBQ)
 
