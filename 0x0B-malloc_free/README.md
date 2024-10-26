@@ -15,7 +15,7 @@
 - `free`
 
 # Additional Resources
-- [Dynamic Memory Allocation in C Programming Explained](https://intranet.alxswe.com/rltoken/c2SmWMGJAHwmZHVwrTbjaQ)
+- [Dynamic Memory Allocation in C Programming Explained](https://www.youtube.com/watch?v=-za3kDtaMvY)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/f-MGO-Fu4KSrem3R6GkEyw), **without the help of Google:**
