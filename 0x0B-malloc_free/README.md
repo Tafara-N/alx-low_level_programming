@@ -8,7 +8,7 @@
 
 **Read or watch:**
 - [0x0a - malloc & free - quick overview.pdf](dynamic_memory.pdf)
-- [Dynamic memory allocation in C - malloc calloc realloc free](https://intranet.alxswe.com/rltoken/pfGb2oVIYLO_1a8jtFGQYw) (*stop at 6:50*)
+- [Dynamic memory allocation in C - malloc calloc realloc free](https://www.youtube.com/watch?v=xDVC3wKjS64) (*stop at 6:50*)
 
 **man or help:**
 - `malloc`
