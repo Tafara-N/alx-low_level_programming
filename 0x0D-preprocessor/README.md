@@ -6,7 +6,7 @@
 - [Macro Arguments](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/cpp/Macro-Arguments.html#Macro-Arguments)
 - [Pre Processor Directives in C](https://www.youtube.com/watch?v=X6HiYbY3Uak)
 - [The C Preprocessor](https://www.cprogramming.com/tutorial/cpreprocessor.html)
-- [Standard Predefined Macros](https://intranet.alxswe.com/rltoken/0OYhpL2cJfsIMBWhTuZsAA)
+- [Standard Predefined Macros](https://gcc.gnu.org/onlinedocs/gcc-5.1.0/cpp/Standard-Predefined-Macros.html#Standard-Predefined-Macros)
 - [include guard](https://intranet.alxswe.com/rltoken/oF2vgIZNePdU965jCEZLHA)
 - [Common Predefined Macros](https://intranet.alxswe.com/rltoken/ROl5xAMKX-JpenEqmf7FnQ)
 
