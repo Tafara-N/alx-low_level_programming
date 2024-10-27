@@ -18,7 +18,7 @@
 - [Practical use of MALLOC in C - Dynamic Memory Allocation](https://www.youtube.com/watch?v=OUdpPq07yPU)
 
 # Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/XQ_E28qyePVdJn1Irb_Dfg), **without the help of Google:**
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 ## General
 - How to use the `exit` function
