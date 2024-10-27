@@ -1,7 +1,7 @@
 # Resources
 
 **Read or watch:**
-- [Understanding C program Compilation Process](https://intranet.alxswe.com/rltoken/X0ithSsqlz_D0c8V8uA1HQ)
+- [Understanding C program Compilation Process](https://www.youtube.com/watch?v=eW5he5uFBNM)
 - [Object-like Macros](https://intranet.alxswe.com/rltoken/kaqIw352MSJ8xoi1xU09ZA)
 - [Macro Arguments](https://intranet.alxswe.com/rltoken/wcQZzunlgjepxExZFc2ORQ)
 - [Pre Processor Directives in C](https://intranet.alxswe.com/rltoken/S4zfCHzg82fUAxdt8_SaZQ)
