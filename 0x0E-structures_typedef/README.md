@@ -4,7 +4,7 @@
 
 **Read or watch:**
 - [0x0d. Structures.pdf](structures_and_typedef.pdf)
-- [struct (C programming language)](https://intranet.alxswe.com/rltoken/MinJEDOHpeZs31qaXU8v1w)
+- [struct (C programming language)](https://en.wikipedia.org/wiki/Struct_(C_programming_language))
 - [Documentation: structures](https://intranet.alxswe.com/rltoken/Nexam-lEwrNHg2awV5Gv8g)
 - [0x0d. Typedef and structures.pdf](https://intranet.alxswe.com/rltoken/TGQ3RopVP7CjUTzF-XDXUw)
 - [typedef](https://intranet.alxswe.com/rltoken/aqqM2t7PLG5cyHaKwm5nBg)
