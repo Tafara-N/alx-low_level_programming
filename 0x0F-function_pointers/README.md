@@ -11,7 +11,7 @@
 - [Function pointers in C Programming & How to use them](https://intranet.alxswe.com/rltoken/W-_BJj_Kt5aN-eXSrSUAPw)
 
 # Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/ITYG4BLMI4_5Unpdwue2tw), **without the help of Google:**
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 ## General
 - What are function pointers and how to use them
