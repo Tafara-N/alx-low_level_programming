@@ -3,7 +3,7 @@
 **Read or watch:**
 - [Function Pointer in C](https://www.geeksforgeeks.org/function-pointer-in-c/)
 - [Pointers to functions](https://publications.gbdirect.co.uk//c_book/chapter5/function_pointers.html)
-- [Function Pointers in C / C++](https://intranet.alxswe.com/rltoken/dAN27S1yyBPeBa8RGfvPNA)
+- [Function Pointers in C / C++](https://www.youtube.com/watch?v=ynYtgGUNelE)
 - [why pointers to functions?](https://intranet.alxswe.com/rltoken/1vvWpH9Ux8axOLc9jPWcMw)
 - [Everything you need to know about pointers in C](https://intranet.alxswe.com/rltoken/G_0lQzs4LAd1e5tKhNMPiw)
 
