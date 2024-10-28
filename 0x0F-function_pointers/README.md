@@ -456,7 +456,7 @@ Write a program that prints the [opcodes](https://en.wikipedia.org/wiki/Opcode) 
 - If the number of bytes is negative, print `Error`, followed by a new line, and exit with the status `2`
 - You do not have to compile with any flags
 
-Note: if you want to translate your opcodes to assembly instructions, you can use, for instance [udcli](https://intranet.alxswe.com/rltoken/jUyzrqbp0AUZBdiTKdVExA).
+Note: if you want to translate your opcodes to assembly instructions, you can use, for instance [udcli](https://sourceforge.net/projects/udis86/).
 
 ```bash
 julien@ubuntu:~/0x0e. Function pointers$ gcc -std=gnu89 100-main_opcodes.c -o main
