@@ -13,7 +13,7 @@
 # Additional Resource
 - [Structs & Typedef in C Explained](https://www.youtube.com/watch?v=V13CbI74WQc)
 - [Practical use of structs & typedef with coding examples](https://www.youtube.com/watch?v=0IVfazuTHU8)
-- [The Lost Art of C Structure Packing](https://intranet.alxswe.com/rltoken/emb4ohNT7XKi8Peep5lyeA) (*Advanced - not mandatory*)
+- [The Lost Art of C Structure Packing](http://www.catb.org/esr/structure-packing/) (*Advanced - not mandatory*)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/qkcS8PT80wmgcNlCEdBzrQ), **without the help of Google:**
