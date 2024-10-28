@@ -11,7 +11,7 @@
 - **Programming in C** *by Stephen Kochan - Chapter 8, Working with Structures p163-189*
 
 # Additional Resource
-- [Structs & Typedef in C Explained](https://intranet.alxswe.com/rltoken/cxDJMc3MyMoIQINJV7tGnA)
+- [Structs & Typedef in C Explained](https://www.youtube.com/watch?v=V13CbI74WQc)
 - [Practical use of structs & typedef with coding examples](https://intranet.alxswe.com/rltoken/_ELgShQc-DQapWwjw2axkg)
 - [The Lost Art of C Structure Packing](https://intranet.alxswe.com/rltoken/emb4ohNT7XKi8Peep5lyeA) (*Advanced - not mandatory*)
 
