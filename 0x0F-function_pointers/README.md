@@ -1,7 +1,7 @@
 # Resources
 
 **Read or watch:**
-- [Function Pointer in C](https://intranet.alxswe.com/rltoken/yt8Q9jxzT_gyRAvnNkAgkw)
+- [Function Pointer in C](https://www.geeksforgeeks.org/function-pointer-in-c/)
 - [Pointers to functions](https://intranet.alxswe.com/rltoken/wP-yWvo9IqbcQsywMmh_iQ)
 - [Function Pointers in C / C++](https://intranet.alxswe.com/rltoken/dAN27S1yyBPeBa8RGfvPNA)
 - [why pointers to functions?](https://intranet.alxswe.com/rltoken/1vvWpH9Ux8axOLc9jPWcMw)
