@@ -8,7 +8,7 @@
 - [Bitwise Operators 1: The AND Operation](https://www.youtube.com/watch?v=bizj3dle8Qc)
 - [Bitwise Operators 2: The OR Operation](https://www.youtube.com/watch?v=TMFnWGJEJuI)
 - [Bitwise Operators 3: The XOR Operation](https://www.youtube.com/watch?v=O9VELMn3jIY)
-- [Bitwise Operators 4: The Logical Shift Operation](https://intranet.alxswe.com/rltoken/QV4k4fBJ1cYmZubJSZCmGQ)
+- [Bitwise Operators 4: The Logical Shift Operation](https://www.youtube.com/watch?v=mjqswwqE1RQ)
 - [Bit Manipulation](https://intranet.alxswe.com/rltoken/wTSa_lRda5k1rH6JTsSoFw)
 - [Bitwise Operators](https://intranet.alxswe.com/rltoken/avGgN526-UnTPvpunGviig)
 - [Google](https://intranet.alxswe.com/rltoken/-tOFAtANisYQthxNBmJB8g)
