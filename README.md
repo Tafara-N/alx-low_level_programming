@@ -53,17 +53,17 @@ ___
 
 # Resources
 
-## Read or watch:
-- [Everything you need to know to start with C.pdf](https://intranet.alxswe.com/rltoken/P01aLj9BDfDUOv-y9x82Yw) (*You do not have to learn everything in there yet, but make sure you read it entirely first*)
-- [Dennis Ritchie](https://intranet.alxswe.com/rltoken/YWFrRob_-Yo-_NQikMLI-g)
-- [“C” Programming Language: Brian Kernighan](https://intranet.alxswe.com/rltoken/W4oygfMgAp5Hyc7o6QuSYQ)
-- [Why C Programming Is Awesome](https://intranet.alxswe.com/rltoken/WYdE1novaWa0yt5fzGvLBw)
-- [Learning to program in C part 1](https://intranet.alxswe.com/rltoken/aE_pZLbexuLroHA0FmjLbw)
-- [Learning to program in C part 2](https://intranet.alxswe.com/rltoken/3a5y1N-0FlTaPbKRxlRLlQ)
-- [Understanding C program Compilation Process](https://intranet.alxswe.com/rltoken/idYJyVfQRZ9e5aljiT5UKg)
-- [Betty Coding Style](https://intranet.alxswe.com/rltoken/wJg_qB9ducisfVQNk62htg)
-- [Hash-bang under the hood](https://intranet.alxswe.com/rltoken/zwv5CHLybXN6KFmsjbu_tg) (*Look at only after you finish consuming the other resources*)
-- [Linus Torvalds on C vs. C++](https://intranet.alxswe.com/rltoken/JrokM8Pk6bd9wPqQvEfSAA) (*Look at only after you finish consuming the other resources*)
+**Read or watch:**
+- [Everything you need to know to start with C.pdf](resources/all_about_c.pdf) (*You do not have to learn everything in there yet, but make sure you read it entirely first*)
+- [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
+- [“C” Programming Language: Brian Kernighan](https://www.youtube.com/watch?v=de2Hsvxaf8M)
+- [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
+- [Learning to program in C part 1](https://www.youtube.com/watch?v=rk2fK2IIiiQ)
+- [Learning to program in C part 2](https://www.youtube.com/watch?v=FwpP_MsZWnU)
+- [Understanding C program Compilation Process](https://www.youtube.com/watch?v=VDslRumKvRA)
+- [Betty Coding Style](https://github.com/alx-tools/Betty/wiki)
+- [Hash-bang under the hood](https://x.com/unix_byte/status/1024147947393495040) (*Look at only after you finish consuming the other resources*)
+- [Linus Torvalds on C vs. C++](https://harmful.cat-v.org/software/c++/linus) (*Look at only after you finish consuming the other resources*)
 
 ## man or help:
 - `gcc`
