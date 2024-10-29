@@ -54,7 +54,7 @@ ___
 # Resources
 
 **Read or watch:**
-- [Everything you need to know to start with C.pdf](resources/all_about_c.pdf) (*You do not have to learn everything in there yet, but make sure you read it entirely first*)
+- [Everything you need to know to start with C.pdf](https://github.com/Tafara-N/alx-low_level_programming/blob/d3e4e3a3782095750e9b99bcd075f7ed867a386c/0x00-hello_world/resources/all_about_c.pdf) (*You do not have to learn everything in there yet, but make sure you read it entirely first*)
 - [Dennis Ritchie](https://en.wikipedia.org/wiki/Dennis_Ritchie)
 - [“C” Programming Language: Brian Kernighan](https://www.youtube.com/watch?v=de2Hsvxaf8M)
 - [Why C Programming Is Awesome](https://www.youtube.com/watch?v=smGalmxPVYc)
