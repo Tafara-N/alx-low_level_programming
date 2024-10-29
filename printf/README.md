@@ -41,6 +41,7 @@ Write your own `printf` function.
 - Note that we will not provide the `_putchar` function for this project
 
 # More Info
+
 ## Authorized functions and macros
 - `write` (`man 2 write`)
 - `malloc` (`man 3 malloc`)
