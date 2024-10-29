@@ -15,8 +15,9 @@ Write your own `printf` function.
 ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/228/printf.png)
 
 # Resources
-## Read or watch:
-- [Secrets of printf](https://intranet.alxswe.com/rltoken/7Vw7aUWgwC7JYUrqI4bh4Q)
+
+**Read or watch:**
+- [Secrets of printf](secrets_of_printf.pdf)
 - **Group Projects** concept page (*Don’t forget to read this*)
 - **Flowcharts** concept page
 
