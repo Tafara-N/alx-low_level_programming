@@ -12,7 +12,7 @@
 - [Bit Manipulation](https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter12.html)
 - [Bitwise Operators](https://www.programiz.com/c-programming/bitwise-operators)
 - [Google](https://www.google.com/webhp?q=bit+manipulation+C)
-- [Youtube](https://intranet.alxswe.com/rltoken/-PNa1vv5T3tqVVY4PRlGrg)
+- [Youtube](https://www.youtube.com/results?search_query=bitwise+operators+in+c)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/ipbpW8pLm91jdr3YD-AENg), **without the help of Google:**
