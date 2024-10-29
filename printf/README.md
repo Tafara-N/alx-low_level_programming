@@ -12,7 +12,7 @@
 # Background Context
 Write your own `printf` function.
 
-![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/228/printf.png)
+![^ In this picture, Kris, and Jul](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-low_level_programming/228/printf.png)
 
 # Resources
 
