@@ -25,7 +25,7 @@ ___
 - [Pointers, Arrays and Strings: II](0x06-pointers_arrays_strings/README.md)
 - [Pointers, Arrays and Strings: III](0x07-pointers_arrays_strings/README.md)
 - [Preprocessor](0x0D-preprocessor/README.md)
-- [Printf](printf/README.md)
+- [Printf](0x11.C-printf/README.md)
 - [Recursion](0x08-recursion/README.md)
 - [Search Algorithms](0x1E-search_algorithms/README.md)
 - [Simple Shell](https://github.com/Tafara-N/simple_shell/blob/master/README.md)
