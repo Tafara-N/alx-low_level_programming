@@ -37,7 +37,6 @@ ___
 - [Structures and Typedef](0x0E-structures_typedef/README.md)
 - [Variables, If, Else and While](0x01-variables_if_else_while/README.md)
 - [Variadic Functions](0x10-variadic_functions/README.md)
-- []()
 ___
 
 - [More Info](#more-info)
