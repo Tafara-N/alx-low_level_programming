@@ -9,7 +9,7 @@
 - [Bitwise Operators 2: The OR Operation](https://www.youtube.com/watch?v=TMFnWGJEJuI)
 - [Bitwise Operators 3: The XOR Operation](https://www.youtube.com/watch?v=O9VELMn3jIY)
 - [Bitwise Operators 4: The Logical Shift Operation](https://www.youtube.com/watch?v=mjqswwqE1RQ)
-- [Bit Manipulation](https://intranet.alxswe.com/rltoken/wTSa_lRda5k1rH6JTsSoFw)
+- [Bit Manipulation](https://pebble.gitbooks.io/learning-c-with-pebble/content/chapter12.html)
 - [Bitwise Operators](https://intranet.alxswe.com/rltoken/avGgN526-UnTPvpunGviig)
 - [Google](https://intranet.alxswe.com/rltoken/-tOFAtANisYQthxNBmJB8g)
 - [Youtube](https://intranet.alxswe.com/rltoken/-PNa1vv5T3tqVVY4PRlGrg)
