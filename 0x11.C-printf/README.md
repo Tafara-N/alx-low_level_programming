@@ -17,7 +17,7 @@ Write your own `printf` function.
 # Resources
 
 **Read or watch:**
-- [Secrets of printf](https://intranet.alxswe.com/rltoken/7Vw7aUWgwC7JYUrqI4bh4Q)
+- [Secrets of printf](secrets_of_printf.pdf)
 - **Group Projects** concept page (*Don’t forget to read this*)
 - **Flowcharts** concept page
 
