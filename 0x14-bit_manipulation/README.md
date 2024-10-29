@@ -15,7 +15,7 @@
 - [Youtube](https://www.youtube.com/results?search_query=bitwise+operators+in+c)
 
 # Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/ipbpW8pLm91jdr3YD-AENg), **without the help of Google:**
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 # General
 - Look for the right source of information without too much help
