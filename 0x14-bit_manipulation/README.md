@@ -6,7 +6,7 @@
 - [Operators in C - Part 6](https://www.youtube.com/watch?v=egUyaWtsQc0)
 - [Operators in C - Part 7 (Bitwise Operators-II)](https://www.youtube.com/watch?v=LP0acaj3ZLE)
 - [Bitwise Operators 1: The AND Operation](https://www.youtube.com/watch?v=bizj3dle8Qc)
-- [Bitwise Operators 2: The OR Operation](https://intranet.alxswe.com/rltoken/WO6Vqxl1DUvnKNSX_k19pQ)
+- [Bitwise Operators 2: The OR Operation](https://www.youtube.com/watch?v=TMFnWGJEJuI)
 - [Bitwise Operators 3: The XOR Operation](https://intranet.alxswe.com/rltoken/a_5cu8KKPivZurpJnXVpAw)
 - [Bitwise Operators 4: The Logical Shift Operation](https://intranet.alxswe.com/rltoken/QV4k4fBJ1cYmZubJSZCmGQ)
 - [Bit Manipulation](https://intranet.alxswe.com/rltoken/wTSa_lRda5k1rH6JTsSoFw)
