@@ -6,7 +6,7 @@
 - [What is a makefile and how does it work](https://opensource.com/article/18/8/what-how-makefile)
 - [Installing the make utility](https://www.geeksforgeeks.org/how-to-install-make-on-ubuntu/)
 - [make-official documentation](https://www.gnu.org/software/make/manual/html_node/)
-- [More about Makefile](https://intranet.alxswe.com/rltoken/moIpBFMN3sJcVMNn5VIFlA)
+- [More about Makefile](https://www.google.com/search?q=makefile)
 
 ## Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/u_RzOFqA4lSt5AdGRAfQ_w), **without the help of Google:**
