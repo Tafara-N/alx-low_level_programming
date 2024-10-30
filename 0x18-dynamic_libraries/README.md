@@ -1,7 +1,7 @@
 # Resources
 
 **Read or watch:**
-- [What is difference between Dynamic and Static library (Static and Dynamic linking)](https://intranet.alxswe.com/rltoken/XLLmLISlteUIxrLzNdm3_Q)
+- [What is difference between Dynamic and Static library (Static and Dynamic linking)](https://www.youtube.com/watch?v=eW5he5uFBNM)
 - [Creating a dynamic library in C](https://intranet.alxswe.com/rltoken/kNeByCwDzg1CI6EpnDFoPA)
 - [Chapter 17. Creating libraries with GCC](https://intranet.alxswe.com/rltoken/LhNeaQ5B-IVHi5bCj2oNgg)
 - [create dynamic libraries on Linux](https://intranet.alxswe.com/rltoken/i9Sw0q7H-RL4nyvzYO5fNQ)
