@@ -2,7 +2,7 @@
 
 # Resources
 
-## Read or watch:
+**Read or watch:**
 - [What is a makefile and how does it work](https://intranet.alxswe.com/rltoken/pWZA00v30Bk4bNIv9atGeg)
 - [Installing the make utility](https://intranet.alxswe.com/rltoken/1AUviCUw3TrznESzWbrKAQ)
 - [make-official documentation](https://intranet.alxswe.com/rltoken/vQFeXLq1izNua2z2dVl5Yg)
