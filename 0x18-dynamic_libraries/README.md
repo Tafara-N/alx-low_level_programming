@@ -7,7 +7,7 @@
 - [Create dynamic libraries on Linux](https://www.google.com/search?q=linux+create+dynamic+library)
 
 # Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/OLGzIaD19ia5NZ-WCMckeg), **without the help of Google:**
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 ## General
 - What is a dynamic library, how does it work, how to create one, and how to use it
