@@ -9,7 +9,7 @@
 # Resources
 
 **Read or watch:**
-- [Linked Lists](https://intranet.alxswe.com/rltoken/joxg32-tt4lUh8Afgst8tA)
+- [Linked Lists](https://www.youtube.com/watch?v=udapt4FGY20&t=130s)
 - [Google](https://intranet.alxswe.com/rltoken/USaZbNdfcuIFII-K2YPsKQ)
 - [Youtube](https://intranet.alxswe.com/rltoken/epKUCIcoA6XaN1T3Vtr_9w)
 
