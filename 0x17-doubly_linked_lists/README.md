@@ -2,6 +2,7 @@
 
 **Read or watch:**
 - [ What is a Doubly Linked List](https://www.youtube.com/watch?v=k0pjD12bzP0)
+- [Google](https://www.google.com/search?q=doubly+linked+lists&oq=D&gs_lcrp=EgZjaHJvbWUqDAgFEAAYQxiABBiKBTIGCAAQRRg5MgYIARAjGCcyBggCECMYJzIMCAMQABhDGIAEGIoFMgwIBBAAGEMYgAQYigUyDAgFEAAYQxiABBiKBTIGCAYQRRhBMgYIBxBFGEHSAQg0MDAxajBqN6gCALACAA&sourceid=chrome&ie=UTF-8)
 - [YouTube](https://www.youtube.com/results?search_query=doubly+linked+list)
 
 # Learning Objectives
