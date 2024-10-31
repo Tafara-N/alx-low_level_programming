@@ -14,7 +14,7 @@
 - [Youtube](https://www.youtube.com/results?search_query=linked+lists)
 
 # Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/xtUoOGrH_fQu_r19q1Tivw), **without the help of Google:**
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 ## General
 - When and why using linked lists vs arrays
