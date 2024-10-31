@@ -11,7 +11,7 @@
 **Read or watch:**
 - [Linked Lists](https://www.youtube.com/watch?v=udapt4FGY20&t=130s)
 - [Google](https://www.google.com/search?q=Singly+linked+lists&sca_esv=1741675dc5f36d7b&sxsrf=ADLYWILuT2XuPkwQ6qvJHwv7yZ2NYlF4Ug%3A1730365277743&source=hp&ei=XUcjZ9fgKr-DhbIPmrPV4Q4&iflsig=AL9hbdgAAAAAZyNVbXIBL8GDzdCwQXdYyKcz5DSOORxW&ved=0ahUKEwiXg9b9oLiJAxW_QUEAHZpZNewQ4dUDCBY&uact=5&oq=Singly+linked+lists&gs_lp=Egdnd3Mtd2l6GgIYAiITU2luZ2x5IGxpbmtlZCBsaXN0czIFEAAYgAQyBRAAGIAEMgUQABiABDIHEAAYgAQYCjIFEAAYgAQyBhAAGBYYHjIGEAAYFhgeMgYQABgWGB4yBhAAGBYYHjIGEAAYFhgeSNYhUMYZWMYZcAJ4AJABAJgBvAOgAbwDqgEDNC0xuAEDyAEA-AEC-AEBmAIDoALiA6gCCsICBxAjGCcY6gLCAgoQIxgnGOoCGIsDmAMWkgcFMi40LTGgB74G&sclient=gws-wiz)
-- [Youtube](https://intranet.alxswe.com/rltoken/epKUCIcoA6XaN1T3Vtr_9w)
+- [Youtube](https://www.youtube.com/results?search_query=linked+lists)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/xtUoOGrH_fQu_r19q1Tivw), **without the help of Google:**
