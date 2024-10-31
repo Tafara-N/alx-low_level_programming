@@ -5,7 +5,7 @@
 - [Youtube](https://www.youtube.com/results?search_query=linked+lists)
 
 # Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/jL0iK5DlEbQK5eIwCNDa-g), **without the help of Google:**
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 ## General
 - How to use linked lists
