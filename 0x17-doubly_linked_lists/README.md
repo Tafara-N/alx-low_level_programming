@@ -4,7 +4,7 @@
 - [ What is a Doubly Linked List](https://www.youtube.com/watch?v=k0pjD12bzP0)
 
 # Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/0ABh2M07w5kdsh9gRx1XwA), **without the help of Google:**
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 ## General
 - What is a doubly linked list
