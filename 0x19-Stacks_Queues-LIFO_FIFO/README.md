@@ -3,7 +3,7 @@
 # Resources
 
 **Read or watch:**
-- [Google](https://intranet.alxswe.com/rltoken/tn1X658KGumYYq_szFJI5w)
+- [Google](https://www.google.com/webhp?q=stack%20and%20queue)
 - [How do I use extern to share variables between source files in C?](https://intranet.alxswe.com/rltoken/0KVWTdE8xXy__jUfBfakCw)
 - [Stacks and Queues in C](https://intranet.alxswe.com/rltoken/udmomL4F4mF630D2Z-ltqg)
 - [Stack operations](https://intranet.alxswe.com/rltoken/fj_-SJXW-pWxgAnstsARoQ)
