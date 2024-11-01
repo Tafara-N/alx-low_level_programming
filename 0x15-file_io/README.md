@@ -153,11 +153,11 @@ What is the `unistd` symbolic constant for the standard input?
 
 What is the `oflag` used to open a file with the mode read only?
 
-- [ ] O_WRONLY
+- [ ] `O_WRONLY`
 
-- [ ] O_RDONLY
+- [ ] `O_RDONLY`
 
-- [ ] O_RDWR
+- [ ] `O_RDWR`
 
 ### Question #7
 
