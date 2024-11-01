@@ -662,8 +662,8 @@ Write a function that searches for a value in a sorted skip list of integers.
 - And `value` is the value to search for
 - You can assume that `list` will be sorted in ascending order
 - Your function must return a pointer on the first node where `value` is located
-If `value` is not present in list or if head is NULL, your function must return `NULL`
-Every time you compare a value in the list to the value you are searching, you have to print this value (see example below)
+- If `value` is not present in list or if head is NULL, your function must return `NULL`
+- Every time you compare a value in the list to the value you are searching, you have to print this value (see example below)
 
 NOTE: [You can find here](https://github.com/alx-tools/0x1D.c/tree/master/skiplist) the functions used in the example. You don’t need to push them, we will compile your file with our own implementation during the correction.
 
