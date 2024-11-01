@@ -515,7 +515,7 @@ In [PHP](https://www.php.net/), hash tables are ordered. Wait… WAT? How is thi
 
 For this task, please:
 
-- Read [PHP Internals Book: HashTable](https://intranet.alxswe.com/rltoken/SIdpN9PE_9aYBCHUGPX-fw)
+- Read [PHP Internals Book: HashTable](https://www.phpinternalsbook.com/php5/hashtables/basic_structure.html)
 - Use the same hash function
 - Use these data structures:
 
