@@ -2,7 +2,7 @@
 
 ## Read or watch:
 - [Search algorithm](https://en.wikipedia.org/wiki/Search_algorithm)
-- [Space complexity (1)](https://intranet.alxswe.com/rltoken/QK9ENdoTyqGs0d4_M3XE3g)
+- [Space complexity (1)](https://www.geeksforgeeks.org/g-fact-86/)
 - [Search Algorithms video playlist](https://intranet.alxswe.com/rltoken/_4-JUPlg6lfKZO2YPHCA7g)
 
 # Learning Objectives
