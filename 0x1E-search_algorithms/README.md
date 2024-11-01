@@ -3,7 +3,7 @@
 ## Read or watch:
 - [Search algorithm](https://en.wikipedia.org/wiki/Search_algorithm)
 - [Space complexity (1)](https://www.geeksforgeeks.org/g-fact-86/)
-- [Search Algorithms video playlist](https://intranet.alxswe.com/rltoken/_4-JUPlg6lfKZO2YPHCA7g)
+- [Search Algorithms video playlist](https://www.youtube.com/playlist?list=PLEJXowNB4kPwTb4BivkY0dENHmXdOEM3V)
 
 # Learning Objectives
 At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/i0Ru9NIvGBHVAlsg7w5vVg), **without the help of Google:**
