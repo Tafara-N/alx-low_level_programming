@@ -4,7 +4,7 @@
 - [What is a HashTable Data Structure - Introduction to Hash Tables , Part 0](https://www.youtube.com/watch?v=MfhjkfocRR0)
 - [Hash function](https://en.wikipedia.org/wiki/Hash_function)
 - [Hash table](https://en.wikipedia.org/wiki/Hash_table)
-- [All about hash tables](https://intranet.alxswe.com/rltoken/3RwwAqmpGJpMiBa7BE9fAQ)
+- [All about hash tables](https://www.digitalocean.com/community/tutorials/hash-table-in-c-plus-plus)
 - [why hash tables and not arrays](https://intranet.alxswe.com/rltoken/OgO7uga3PIaCTMtTzYCY3g)
 
 # Learning Objectives
