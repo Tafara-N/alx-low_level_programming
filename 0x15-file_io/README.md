@@ -12,7 +12,7 @@
 - `dprintf`
 
 Learning Objectives
-At the end of this project, you are expected to be able to [explain to anyone](https://intranet.alxswe.com/rltoken/kQg2-u-cAYxh6oJz2TWHWw), **without the help of Google:**
+At the end of this project, you are expected to be able to [explain to anyone](https://fs.blog/feynman-learning-technique/), **without the help of Google:**
 
 ## General
 - Look for the right source of information online
