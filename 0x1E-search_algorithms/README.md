@@ -233,8 +233,7 @@ int **allocate_map(int n, int m)
 
 ### 7. Jump search
 
-Write a function that searches for a value in a sorted array of integers using the [Jump search algorithm
-](https://intranet.alxswe.com/rltoken/1Op40kSYMN23JsOu6F3P1A)
+Write a function that searches for a value in a sorted array of integers using the [Jump search algorithm](https://en.wikipedia.org/wiki/Jump_search)
 - Prototype : `int jump_search(int *array, size_t size, int value);`
 - Where `array` is a pointer to the first element of the array to search in
 - `size` is the number of elements in `array`
