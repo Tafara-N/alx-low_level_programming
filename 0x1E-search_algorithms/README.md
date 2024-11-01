@@ -310,7 +310,7 @@ What is the `time complexity` (average case) of a jump search in an array of siz
 
 ### 9. Interpolation search
 
-Write a function that searches for a value in a sorted array of integers using the [Interpolation search algorithm](https://intranet.alxswe.com/rltoken/cswpABHiyyRmGrPkzsMTyw)
+Write a function that searches for a value in a sorted array of integers using the [Interpolation search algorithm](https://en.wikipedia.org/wiki/Interpolation_search)
 
 - Prototype : `int interpolation_search(int *array, size_t size, int value);`
 - Where `array` is a pointer to the first element of the array to search in
