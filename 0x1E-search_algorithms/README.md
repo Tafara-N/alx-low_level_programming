@@ -365,7 +365,7 @@ Found 999 at index: -1
 
 ### 10. Exponential search
 
-Write a function that searches for a value in a sorted array of integers using the [Exponential search algorithm](https://intranet.alxswe.com/rltoken/J7wng_ddosamvEkFl0ekqA)
+Write a function that searches for a value in a sorted array of integers using the [Exponential search algorithm](https://en.wikipedia.org/wiki/Exponential_search)
 
 - Prototype : `int exponential_search(int *array, size_t size, int value);`
 - Where `array` is a pointer to the first element of the array to search in
