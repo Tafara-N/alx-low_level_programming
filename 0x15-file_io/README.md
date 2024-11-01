@@ -191,7 +191,7 @@ What is the `unistd` symbolic constant for the Standard error?
 
 ### Question #10
 
-What is the oflag used to open a file in mode read + write?
+What is the `oflag` used to open a file in mode read + write?
 
 - [ ] `O_WRONLY`
 
