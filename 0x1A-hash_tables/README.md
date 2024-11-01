@@ -507,7 +507,7 @@ julien@ubuntu:~/0x1A. Hash tables$
 
 ### 7. $ht['Betty'] = 'Cool'
 
-In [PHP](https://intranet.alxswe.com/rltoken/UoWjDMSf7CR02W8bnn1geg), hash tables are ordered. Wait… WAT? How is this even possible?
+In [PHP](https://www.php.net/), hash tables are ordered. Wait… WAT? How is this even possible?
 
 ![PHP: Ordered Hash Tables](whaaat.gif)
 
