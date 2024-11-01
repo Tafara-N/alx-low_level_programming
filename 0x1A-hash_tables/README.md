@@ -3,7 +3,7 @@
 **Read or watch:**
 - [What is a HashTable Data Structure - Introduction to Hash Tables , Part 0](https://www.youtube.com/watch?v=MfhjkfocRR0)
 - [Hash function](https://en.wikipedia.org/wiki/Hash_function)
-- [Hash table](https://intranet.alxswe.com/rltoken/mxjKpEfAw3E5B8S3inPuHQ)
+- [Hash table](https://en.wikipedia.org/wiki/Hash_table)
 - [All about hash tables](https://intranet.alxswe.com/rltoken/3RwwAqmpGJpMiBa7BE9fAQ)
 - [why hash tables and not arrays](https://intranet.alxswe.com/rltoken/OgO7uga3PIaCTMtTzYCY3g)
 
