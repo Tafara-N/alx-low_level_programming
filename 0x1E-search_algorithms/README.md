@@ -536,7 +536,7 @@ Write a function that searches for a value in a sorted list of integers using th
 - You can use the `sqrt()` function included in `<math.h>` (don’t forget to compile with -lm)
 - Every time you compare a value in the list to the value you are searching, you have to print this value (see example)
 
-NOTE: [You can find here](https://intranet.alxswe.com/rltoken/7EwC08L6K_vQyI2wknLvnQ) the functions used in the example. You don’t need to push them, we will compile your file with our own implementation during the correction.
+NOTE: [You can find here](https://github.com/alx-tools/0x1D.c/tree/master/listint) the functions used in the example. You don’t need to push them, we will compile your file with our own implementation during the correction.
 
 ```bash
 wilfried@0x1E-search_algorithms$ cat 105-main.c
