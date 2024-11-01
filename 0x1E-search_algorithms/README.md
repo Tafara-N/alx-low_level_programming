@@ -1,7 +1,7 @@
 # Resources
 
 ## Read or watch:
-- [Search algorithm](https://intranet.alxswe.com/rltoken/ap2kuRv8qrUMyQ0-MY3EXw)
+- [Search algorithm](https://en.wikipedia.org/wiki/Search_algorithm)
 - [Space complexity (1)](https://intranet.alxswe.com/rltoken/QK9ENdoTyqGs0d4_M3XE3g)
 - [Search Algorithms video playlist](https://intranet.alxswe.com/rltoken/_4-JUPlg6lfKZO2YPHCA7g)
 
