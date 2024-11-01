@@ -143,11 +143,11 @@ What happens if you try to write “Best” to the standard **input** on Ubuntu 
 
 What is the `unistd` symbolic constant for the standard input?
 
-STDIN_FILENO
+- [ ] STDIN_FILENO
 
-STDOUT_FILENO
+- [ ] STDOUT_FILENO
 
-STDERR_FILENO
+- [ ] STDERR_FILENO
 
 ### Question #6
 
