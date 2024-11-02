@@ -6,7 +6,7 @@
 ___
 
 - [Argc and Argv](0x0A-argc_argv/README.md)
-- [Binary Trees](https://github.com/Tafara-N/binary_trees/blob/main/README.md)
+- [Binary Trees](0x1D-binary_trees/README.md)
 - [Bit Manipulation](0x14-bit_manipulation/README.md)
 - [Debugging](0x03-debugging/README.md)
 - [Doubly Linked Lists](0x17-doubly_linked_lists/README.md)
@@ -32,7 +32,7 @@ ___
 - [Singly Linked Lists: I](0x12-singly_linked_lists/README.md)
 - [Singly Linked Lists: II](0x13-more_singly_linked_lists/README.md)
 - [Sorting Algorithms](https://github.com/Tafara-N/sorting_algorithms/blob/main/README.md)
-- [Stacks, Queues: LIFO and FIFO](0x19.C-Stacks_Queues-LIFO_FIFO/README.md)
+- [Stacks, Queues: LIFO and FIFO](0x19-stacks_queues-LIFO_FIFO/README.md)
 - [Static Libraries](0x09-static_libraries/README.md)
 - [Structures and Typedef](0x0E-structures_typedef/README.md)
 - [Variables, If, Else and While](0x01-variables_if_else_while/README.md)
