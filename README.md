@@ -28,7 +28,7 @@ ___
 - [Printf](0x11-printf/README.md)
 - [Recursion](0x08-recursion/README.md)
 - [Search Algorithms](0x1E-search_algorithms/README.md)
-- [Simple Shell](https://github.com/Tafara-N/simple_shell/blob/master/README.md)
+- [Simple Shell](0x16-simple_shell/README.md)
 - [Singly Linked Lists: I](0x12-singly_linked_lists/README.md)
 - [Singly Linked Lists: II](0x13-more_singly_linked_lists/README.md)
 - [Sorting Algorithms](https://github.com/Tafara-N/sorting_algorithms/blob/main/README.md)
