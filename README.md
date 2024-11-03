@@ -31,7 +31,7 @@ ___
 - [Simple Shell](0x16-simple_shell/README.md)
 - [Singly Linked Lists: I](0x12-singly_linked_lists/README.md)
 - [Singly Linked Lists: II](0x13-more_singly_linked_lists/README.md)
-- [Sorting Algorithms](https://github.com/Tafara-N/sorting_algorithms/blob/main/README.md)
+- [Sorting Algorithms](0x1B-sorting_algorithms_and_Big_O/README.md)
 - [Stacks, Queues: LIFO and FIFO](0x19-stacks_queues-LIFO_FIFO/README.md)
 - [Static Libraries](0x09-static_libraries/README.md)
 - [Structures and Typedef](0x0E-structures_typedef/README.md)
