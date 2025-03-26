@@ -7,7 +7,7 @@
  *        and that piece of art is useful\" - Dora Korpar, 2015-10-19
  *
  * Return: int
- *       : __description__
+ *       : Always 0 on success.
  */
 
 int main(void)
